@@ -1,0 +1,13 @@
+{
+    "site_name": "Yummly Recipes",
+    "start_urls": [
+        "http://www.yummlyrecipes.com/"
+    ],
+    "recipe_link_selector": "article .post-title a",
+    "pagination_selector": "nav.navigation .nav-previous a",
+    "title_selector": "h1.entry-title",
+    "ingredients_selector": ".recipe-ingredients li",
+    "instructions_selector": ".recipe-instructions li",
+    "tags_selector": "span.post-tag a",
+    "use_selenium": true
+}

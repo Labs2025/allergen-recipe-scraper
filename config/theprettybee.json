@@ -1,0 +1,14 @@
+{
+    "site_name": "The Pretty Bee",
+    "start_urls": [
+        "https://theprettybee.com/category/main-dishes/"
+    ],
+    
+	  "recipe_link_selector": "header.entry-header h2.entry-title a.entry-title-link",
+	  "pagination_selector": "div.archive-pagination.pagination div.pagination-next.alignright a",
+	  "title_selector": "header.entry-header h1.entry-title",
+	  "ingredients_selector": "li.wprm-recipe-ingredient",
+	  "instructions_selector": "div.wprm-recipe-instruction-text",
+	  "tags_selector": "span.wprm-recipe-cuisine",
+	  "use_selenium": false
+}

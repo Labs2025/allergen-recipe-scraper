@@ -1,0 +1,253 @@
+2025-04-04 16:43:33,675 [INFO] Food Allergy Research & Education: Database connection established successfully.
+2025-04-04 16:43:33,676 [INFO] Food Allergy Research & Education: Initialized scraper for site: Food Allergy Research & Education
+2025-04-04 16:43:33,676 [INFO] Food Allergy Research & Education: Fetching URL: https://www.foodallergy.org/our-initiatives/awareness-campaigns/living-teal/feasting-fare
+2025-04-04 16:43:34,822 [INFO] Food Allergy Research & Education: Found 124 unique recipe links for site 'Food Allergy Research & Education'.
+2025-04-04 16:43:34,823 [INFO] Food Allergy Research & Education: Fetching URL: https://www.foodallergy.org/resources/feasting-fare-secret-zucchini-brownies
+2025-04-04 16:43:36,351 [INFO] Food Allergy Research & Education: Saved recipe: 'Feasting with FARE: Secret Zucchini Brownies' (URL: https://www.foodallergy.org/resources/feasting-fare-secret-zucchini-brownies)
+2025-04-04 16:43:36,351 [INFO] Food Allergy Research & Education: Fetching URL: https://www.foodallergy.org/resources/feasting-fare-strawberry-chia-seed-parfaits
+2025-04-04 16:43:37,333 [INFO] Food Allergy Research & Education: Saved recipe: 'Feasting With FARE: Strawberry Chia Seed Parfaits' (URL: https://www.foodallergy.org/resources/feasting-fare-strawberry-chia-seed-parfaits)
+2025-04-04 16:43:37,333 [INFO] Food Allergy Research & Education: Fetching URL: https://www.foodallergy.org/resources/feasting-fare-eggplant-parmesan
+2025-04-04 16:43:38,519 [INFO] Food Allergy Research & Education: Saved recipe: 'Feasting With FARE: Eggplant Parmesan' (URL: https://www.foodallergy.org/resources/feasting-fare-eggplant-parmesan)
+2025-04-04 16:43:38,519 [INFO] Food Allergy Research & Education: Fetching URL: https://www.foodallergy.org/resources/feasting-fare-wild-mushroom-gravy
+2025-04-04 16:43:39,661 [INFO] Food Allergy Research & Education: Saved recipe: 'Feasting With FARE: Wild Mushroom Gravy' (URL: https://www.foodallergy.org/resources/feasting-fare-wild-mushroom-gravy)
+2025-04-04 16:43:39,661 [INFO] Food Allergy Research & Education: Fetching URL: https://www.foodallergy.org/resources/feasting-fare-creamiest-mashed-potatoes
+2025-04-04 16:43:40,668 [INFO] Food Allergy Research & Education: Saved recipe: 'Feasting With FARE: Creamiest Mashed Potatoes' (URL: https://www.foodallergy.org/resources/feasting-fare-creamiest-mashed-potatoes)
+2025-04-04 16:43:40,668 [INFO] Food Allergy Research & Education: Fetching URL: https://www.foodallergy.org/resources/feasting-fare-holiday-bark
+2025-04-04 16:43:41,873 [INFO] Food Allergy Research & Education: Saved recipe: 'Feasting With FARE: Holiday Bark' (URL: https://www.foodallergy.org/resources/feasting-fare-holiday-bark)
+2025-04-04 16:43:41,873 [INFO] Food Allergy Research & Education: Fetching URL: https://www.foodallergy.org/resources/feasting-fare-creamy-potato-fennel-soup
+2025-04-04 16:43:42,984 [INFO] Food Allergy Research & Education: Saved recipe: 'Feasting With FARE: Creamy Potato Fennel Soup' (URL: https://www.foodallergy.org/resources/feasting-fare-creamy-potato-fennel-soup)
+2025-04-04 16:43:42,984 [INFO] Food Allergy Research & Education: Fetching URL: https://www.foodallergy.org/resources/feasting-fare-dorm-nachos
+2025-04-04 16:43:44,254 [INFO] Food Allergy Research & Education: Saved recipe: 'Feasting With FARE: Dorm Nachos' (URL: https://www.foodallergy.org/resources/feasting-fare-dorm-nachos)
+2025-04-04 16:43:44,254 [INFO] Food Allergy Research & Education: Fetching URL: https://www.foodallergy.org/resources/feasting-fare-french-toast-0
+2025-04-04 16:43:45,390 [INFO] Food Allergy Research & Education: Saved recipe: 'Feasting With FARE: French Toast' (URL: https://www.foodallergy.org/resources/feasting-fare-french-toast-0)
+2025-04-04 16:43:45,391 [INFO] Food Allergy Research & Education: Fetching URL: https://www.foodallergy.org/resources/feasting-fare-top-9-free-perfect-pumpkin-soup
+2025-04-04 16:43:46,570 [INFO] Food Allergy Research & Education: Saved recipe: 'Feasting With FARE: Top 9 Free Perfect Pumpkin Soup' (URL: https://www.foodallergy.org/resources/feasting-fare-top-9-free-perfect-pumpkin-soup)
+2025-04-04 16:43:46,570 [INFO] Food Allergy Research & Education: Fetching URL: https://www.foodallergy.org/resources/feasting-fare-dairy-free-ice-cream
+2025-04-04 16:43:47,939 [INFO] Food Allergy Research & Education: Saved recipe: 'Feasting With FARE: Dairy-Free Ice Cream' (URL: https://www.foodallergy.org/resources/feasting-fare-dairy-free-ice-cream)
+2025-04-04 16:43:47,939 [INFO] Food Allergy Research & Education: Fetching URL: https://www.foodallergy.org/resources/feasting-fare-russian-borscht
+2025-04-04 16:43:49,030 [INFO] Food Allergy Research & Education: Saved recipe: 'Feasting With FARE: Russian Borscht' (URL: https://www.foodallergy.org/resources/feasting-fare-russian-borscht)
+2025-04-04 16:43:49,030 [INFO] Food Allergy Research & Education: Fetching URL: https://www.foodallergy.org/resources/feasting-fare-never-nut-bars
+2025-04-04 16:43:49,970 [INFO] Food Allergy Research & Education: Saved recipe: 'Feasting With FARE: Never Nut Bars' (URL: https://www.foodallergy.org/resources/feasting-fare-never-nut-bars)
+2025-04-04 16:43:49,970 [INFO] Food Allergy Research & Education: Fetching URL: https://www.foodallergy.org/resources/feasting-fare-game-day-cheese-less-taco-bake
+2025-04-04 16:43:51,377 [INFO] Food Allergy Research & Education: Saved recipe: 'Feasting With FARE: Game Day Cheese-less Taco Bake' (URL: https://www.foodallergy.org/resources/feasting-fare-game-day-cheese-less-taco-bake)
+2025-04-04 16:43:51,378 [INFO] Food Allergy Research & Education: Fetching URL: https://www.foodallergy.org/resources/feasting-fare-channa-masala
+2025-04-04 16:43:52,148 [INFO] Food Allergy Research & Education: Saved recipe: 'Feasting With FARE: Channa Masala' (URL: https://www.foodallergy.org/resources/feasting-fare-channa-masala)
+2025-04-04 16:43:52,148 [INFO] Food Allergy Research & Education: Fetching URL: https://www.foodallergy.org/resources/feasting-fare-top-10-free-stuffing
+2025-04-04 16:43:53,235 [INFO] Food Allergy Research & Education: Saved recipe: 'Feasting With FARE: Top-10 Free Stuffing' (URL: https://www.foodallergy.org/resources/feasting-fare-top-10-free-stuffing)
+2025-04-04 16:43:53,235 [INFO] Food Allergy Research & Education: Fetching URL: https://www.foodallergy.org/resources/feasting-fare-german-schnitzel
+2025-04-04 16:43:54,503 [INFO] Food Allergy Research & Education: Saved recipe: 'Feasting With FARE: German Schnitzel' (URL: https://www.foodallergy.org/resources/feasting-fare-german-schnitzel)
+2025-04-04 16:43:54,503 [INFO] Food Allergy Research & Education: Fetching URL: https://www.foodallergy.org/resources/feasting-fare-galbi
+2025-04-04 16:43:55,141 [INFO] Food Allergy Research & Education: Saved recipe: 'Feasting with FARE: Galbi' (URL: https://www.foodallergy.org/resources/feasting-fare-galbi)
+2025-04-04 16:43:55,141 [INFO] Food Allergy Research & Education: Fetching URL: https://www.foodallergy.org/resources/feasting-fare-gazpacho
+2025-04-04 16:43:55,899 [INFO] Food Allergy Research & Education: Saved recipe: 'Feasting With FARE: Gazpacho' (URL: https://www.foodallergy.org/resources/feasting-fare-gazpacho)
+2025-04-04 16:43:55,899 [INFO] Food Allergy Research & Education: Fetching URL: https://www.foodallergy.org/resources/feasting-fare-lemon-cake
+2025-04-04 16:43:57,407 [INFO] Food Allergy Research & Education: Saved recipe: 'Feasting With FARE: Lemon Cake' (URL: https://www.foodallergy.org/resources/feasting-fare-lemon-cake)
+2025-04-04 16:43:57,408 [INFO] Food Allergy Research & Education: Fetching URL: https://www.foodallergy.org/resources/feasting-fare-jeweled-quinoa
+2025-04-04 16:43:58,699 [INFO] Food Allergy Research & Education: Saved recipe: 'Feasting with FARE: Jeweled Quinoa' (URL: https://www.foodallergy.org/resources/feasting-fare-jeweled-quinoa)
+2025-04-04 16:43:58,700 [INFO] Food Allergy Research & Education: Fetching URL: https://www.foodallergy.org/resources/feasting-fare-ice-cream-sandwiches
+2025-04-04 16:43:59,859 [INFO] Food Allergy Research & Education: Saved recipe: 'Feasting With FARE: Ice Cream Sandwiches' (URL: https://www.foodallergy.org/resources/feasting-fare-ice-cream-sandwiches)
+2025-04-04 16:43:59,860 [INFO] Food Allergy Research & Education: Fetching URL: https://www.foodallergy.org/resources/feasting-fare-salmon-taco-recipe
+2025-04-04 16:44:00,908 [INFO] Food Allergy Research & Education: Saved recipe: 'Feasting With FARE: Salmon Taco Recipe' (URL: https://www.foodallergy.org/resources/feasting-fare-salmon-taco-recipe)
+2025-04-04 16:44:00,908 [INFO] Food Allergy Research & Education: Fetching URL: https://www.foodallergy.org/resources/feasting-fare-chocolate-chip-cookies-0
+2025-04-04 16:44:01,658 [INFO] Food Allergy Research & Education: Saved recipe: 'Feasting With FARE: Chocolate Chip Cookies' (URL: https://www.foodallergy.org/resources/feasting-fare-chocolate-chip-cookies-0)
+2025-04-04 16:44:01,658 [INFO] Food Allergy Research & Education: Fetching URL: https://www.foodallergy.org/resources/feasting-fare-sweet-potato-casserole
+2025-04-04 16:44:03,239 [INFO] Food Allergy Research & Education: Saved recipe: 'Feasting With FARE: Sweet Potato Casserole' (URL: https://www.foodallergy.org/resources/feasting-fare-sweet-potato-casserole)
+2025-04-04 16:44:03,240 [INFO] Food Allergy Research & Education: Fetching URL: https://www.foodallergy.org/resources/feasting-fare-christmas-cookies-4-food-allergy-friendly-ways
+2025-04-04 16:44:04,514 [INFO] Food Allergy Research & Education: Saved recipe: 'Feasting With FARE: Christmas Cookies - 4 Food Allergy Friendly Ways' (URL: https://www.foodallergy.org/resources/feasting-fare-christmas-cookies-4-food-allergy-friendly-ways)
+2025-04-04 16:44:04,514 [INFO] Food Allergy Research & Education: Fetching URL: https://www.foodallergy.org/resources/feasting-fare-santorini-fava
+2025-04-04 16:44:05,666 [INFO] Food Allergy Research & Education: Saved recipe: 'Feasting with FARE: Santorini Fava' (URL: https://www.foodallergy.org/resources/feasting-fare-santorini-fava)
+2025-04-04 16:44:05,666 [INFO] Food Allergy Research & Education: Fetching URL: https://www.foodallergy.org/resources/feasting-fare-scalloped-potatoes
+2025-04-04 16:44:06,946 [INFO] Food Allergy Research & Education: Saved recipe: 'Feasting With FARE: Scalloped Potatoes' (URL: https://www.foodallergy.org/resources/feasting-fare-scalloped-potatoes)
+2025-04-04 16:44:06,946 [INFO] Food Allergy Research & Education: Fetching URL: https://www.foodallergy.org/resources/feasting-fare-allergy-friendly-spice-cake
+2025-04-04 16:44:07,507 [INFO] Food Allergy Research & Education: Saved recipe: 'Feasting with FARE: Allergy-Friendly Spice Cake' (URL: https://www.foodallergy.org/resources/feasting-fare-allergy-friendly-spice-cake)
+2025-04-04 16:44:07,507 [INFO] Food Allergy Research & Education: Fetching URL: https://www.foodallergy.org/resources/feasting-fare-horchata
+2025-04-04 16:44:08,814 [INFO] Food Allergy Research & Education: Saved recipe: 'Feasting With FARE: Horchata' (URL: https://www.foodallergy.org/resources/feasting-fare-horchata)
+2025-04-04 16:44:08,814 [INFO] Food Allergy Research & Education: Fetching URL: https://www.foodallergy.org/resources/feasting-fare-potato-latkes
+2025-04-04 16:44:09,760 [INFO] Food Allergy Research & Education: Saved recipe: 'Feasting With FARE: Potato Latkes' (URL: https://www.foodallergy.org/resources/feasting-fare-potato-latkes)
+2025-04-04 16:44:09,760 [INFO] Food Allergy Research & Education: Fetching URL: https://www.foodallergy.org/resources/feasting-fare-chocolate-chip-pumpkin-bread
+2025-04-04 16:44:10,737 [INFO] Food Allergy Research & Education: Saved recipe: 'Feasting With FARE: Chocolate Chip Pumpkin Bread' (URL: https://www.foodallergy.org/resources/feasting-fare-chocolate-chip-pumpkin-bread)
+2025-04-04 16:44:10,737 [INFO] Food Allergy Research & Education: Fetching URL: https://www.foodallergy.org/our-initiatives/awareness-campaigns/living-teal/living-tealtm-videos/bite-sized-snacks
+2025-04-04 16:44:12,035 [INFO] Food Allergy Research & Education: Saved recipe: 'Bite-Sized Snacks' (URL: https://www.foodallergy.org/our-initiatives/awareness-campaigns/living-teal/living-tealtm-videos/bite-sized-snacks)
+2025-04-04 16:44:12,035 [INFO] Food Allergy Research & Education: Fetching URL: https://www.foodallergy.org/resources/feasting-fare-green-bean-casserole
+2025-04-04 16:44:12,996 [INFO] Food Allergy Research & Education: Saved recipe: 'Feasting With FARE: Green Bean Casserole' (URL: https://www.foodallergy.org/resources/feasting-fare-green-bean-casserole)
+2025-04-04 16:44:12,997 [INFO] Food Allergy Research & Education: Fetching URL: https://www.foodallergy.org/resources/feasting-fare-taquitos
+2025-04-04 16:44:13,431 [INFO] Food Allergy Research & Education: Saved recipe: 'Feasting With FARE: Taquitos' (URL: https://www.foodallergy.org/resources/feasting-fare-taquitos)
+2025-04-04 16:44:13,431 [INFO] Food Allergy Research & Education: Fetching URL: https://www.foodallergy.org/resources/feasting-fare-rainbow-rusks-south-african-biscotti
+2025-04-04 16:44:14,695 [INFO] Food Allergy Research & Education: Saved recipe: 'Feasting With FARE: Rainbow Rusks (South African Biscotti)' (URL: https://www.foodallergy.org/resources/feasting-fare-rainbow-rusks-south-african-biscotti)
+2025-04-04 16:44:14,695 [INFO] Food Allergy Research & Education: Fetching URL: https://www.foodallergy.org/resources/feasting-fare-summer-vegetable-gratin-simon-majumdar
+2025-04-04 16:44:15,676 [INFO] Food Allergy Research & Education: Saved recipe: 'Feasting With FARE: Summer Vegetable Gratin by Simon Majumdar' (URL: https://www.foodallergy.org/resources/feasting-fare-summer-vegetable-gratin-simon-majumdar)
+2025-04-04 16:44:15,676 [INFO] Food Allergy Research & Education: Fetching URL: https://www.foodallergy.org/resources/feasting-fare-vegan-nut-free-pumpkin-cheesecake-bars
+2025-04-04 16:44:16,746 [INFO] Food Allergy Research & Education: Saved recipe: 'Feasting With FARE: Vegan & Nut-Free Pumpkin Cheesecake Bars' (URL: https://www.foodallergy.org/resources/feasting-fare-vegan-nut-free-pumpkin-cheesecake-bars)
+2025-04-04 16:44:16,746 [INFO] Food Allergy Research & Education: Fetching URL: https://www.foodallergy.org/resources/feasting-fare-mac-n-cheese
+2025-04-04 16:44:17,716 [INFO] Food Allergy Research & Education: Saved recipe: 'Feasting With FARE: Mac N' Cheese' (URL: https://www.foodallergy.org/resources/feasting-fare-mac-n-cheese)
+2025-04-04 16:44:17,717 [INFO] Food Allergy Research & Education: Fetching URL: https://www.foodallergy.org/resources/feasting-fare-coconut-apricot-bliss-bars
+2025-04-04 16:44:18,280 [INFO] Food Allergy Research & Education: Saved recipe: 'Feasting With FARE: Coconut-Apricot Bliss Bars' (URL: https://www.foodallergy.org/resources/feasting-fare-coconut-apricot-bliss-bars)
+2025-04-04 16:44:18,281 [INFO] Food Allergy Research & Education: Fetching URL: https://www.foodallergy.org/resources/feasting-fare-veggie-tacos
+2025-04-04 16:44:19,414 [INFO] Food Allergy Research & Education: Saved recipe: 'Feasting With FARE: Veggie Tacos' (URL: https://www.foodallergy.org/resources/feasting-fare-veggie-tacos)
+2025-04-04 16:44:19,414 [INFO] Food Allergy Research & Education: Fetching URL: https://www.foodallergy.org/resources/feasting-fare-chicken-thighs-kale-and-cabbage
+2025-04-04 16:44:20,875 [INFO] Food Allergy Research & Education: Saved recipe: 'Feasting With FARE: Chicken Thighs With Kale and Cabbage' (URL: https://www.foodallergy.org/resources/feasting-fare-chicken-thighs-kale-and-cabbage)
+2025-04-04 16:44:20,875 [INFO] Food Allergy Research & Education: Fetching URL: https://www.foodallergy.org/resources/feasting-fare-hot-chocolate-bombs
+2025-04-04 16:44:21,919 [INFO] Food Allergy Research & Education: Saved recipe: 'Feasting With FARE: Hot Chocolate Bombs' (URL: https://www.foodallergy.org/resources/feasting-fare-hot-chocolate-bombs)
+2025-04-04 16:44:21,919 [INFO] Food Allergy Research & Education: Fetching URL: https://www.foodallergy.org/resources/feasting-fare-pizza
+2025-04-04 16:44:23,260 [INFO] Food Allergy Research & Education: Saved recipe: 'Feasting With FARE: Pizza' (URL: https://www.foodallergy.org/resources/feasting-fare-pizza)
+2025-04-04 16:44:23,260 [INFO] Food Allergy Research & Education: Fetching URL: https://www.foodallergy.org/resources/feasting-fare-chicken-sausage-gumbo
+2025-04-04 16:44:24,587 [INFO] Food Allergy Research & Education: Saved recipe: 'Feasting With FARE: Chicken & Sausage Gumbo' (URL: https://www.foodallergy.org/resources/feasting-fare-chicken-sausage-gumbo)
+2025-04-04 16:44:24,587 [INFO] Food Allergy Research & Education: Fetching URL: https://www.foodallergy.org/resources/feasting-fare-grilled-cheese
+2025-04-04 16:44:25,133 [INFO] Food Allergy Research & Education: Saved recipe: 'Feasting With FARE: Grilled Cheese' (URL: https://www.foodallergy.org/resources/feasting-fare-grilled-cheese)
+2025-04-04 16:44:25,133 [INFO] Food Allergy Research & Education: Fetching URL: https://www.foodallergy.org/resources/feasting-fare-pumpkin-pie
+2025-04-04 16:44:26,228 [INFO] Food Allergy Research & Education: Saved recipe: 'Feasting With FARE: Pumpkin Pie' (URL: https://www.foodallergy.org/resources/feasting-fare-pumpkin-pie)
+2025-04-04 16:44:26,228 [INFO] Food Allergy Research & Education: Fetching URL: https://www.foodallergy.org/resources/feasting-fare-rice-krispy-reindeer
+2025-04-04 16:44:27,456 [INFO] Food Allergy Research & Education: Saved recipe: 'Feasting With FARE: Rice Krispy Reindeer' (URL: https://www.foodallergy.org/resources/feasting-fare-rice-krispy-reindeer)
+2025-04-04 16:44:27,457 [INFO] Food Allergy Research & Education: Fetching URL: https://www.foodallergy.org/resources/feasting-fare-peri-peri-chicken
+2025-04-04 16:44:28,636 [INFO] Food Allergy Research & Education: Saved recipe: 'Feasting With FARE: Peri Peri Chicken' (URL: https://www.foodallergy.org/resources/feasting-fare-peri-peri-chicken)
+2025-04-04 16:44:28,636 [INFO] Food Allergy Research & Education: Fetching URL: https://www.foodallergy.org/resources/feasting-fare-sumac-grilled-lamb-chops-minted-chickpeas
+2025-04-04 16:44:29,709 [INFO] Food Allergy Research & Education: Saved recipe: 'Feasting With FARE: Sumac Grilled Lamb Chops With Minted Chickpeas' (URL: https://www.foodallergy.org/resources/feasting-fare-sumac-grilled-lamb-chops-minted-chickpeas)
+2025-04-04 16:44:29,710 [INFO] Food Allergy Research & Education: Fetching URL: https://www.foodallergy.org/resources/feasting-fare-triple-lemon-cupcakes
+2025-04-04 16:44:30,797 [INFO] Food Allergy Research & Education: Saved recipe: 'Feasting With FARE: Triple Lemon Cupcakes' (URL: https://www.foodallergy.org/resources/feasting-fare-triple-lemon-cupcakes)
+2025-04-04 16:44:30,797 [INFO] Food Allergy Research & Education: Fetching URL: https://www.foodallergy.org/resources/feasting-fare-tie-dye-explosion-cake
+2025-04-04 16:44:32,082 [INFO] Food Allergy Research & Education: Saved recipe: 'Feasting with FARE: Tie Dye Explosion Cake' (URL: https://www.foodallergy.org/resources/feasting-fare-tie-dye-explosion-cake)
+2025-04-04 16:44:32,082 [INFO] Food Allergy Research & Education: Fetching URL: https://www.foodallergy.org/resources/feasting-fare-top-9-free-grape-leaves
+2025-04-04 16:44:33,369 [INFO] Food Allergy Research & Education: Saved recipe: 'Feasting With FARE: Top 9 Free Grape Leaves' (URL: https://www.foodallergy.org/resources/feasting-fare-top-9-free-grape-leaves)
+2025-04-04 16:44:33,370 [INFO] Food Allergy Research & Education: Fetching URL: https://www.foodallergy.org/resources/feasting-fare-funfetti-ice-cream-cone-cupcakes
+2025-04-04 16:44:34,542 [INFO] Food Allergy Research & Education: Saved recipe: 'Feasting with FARE: Funfetti Ice Cream Cone Cupcakes' (URL: https://www.foodallergy.org/resources/feasting-fare-funfetti-ice-cream-cone-cupcakes)
+2025-04-04 16:44:34,543 [INFO] Food Allergy Research & Education: Fetching URL: https://www.foodallergy.org/resources/feating-fare-chewy-cheerio-treats
+2025-04-04 16:44:35,720 [INFO] Food Allergy Research & Education: Saved recipe: 'Feating With FARE: Chewy Cheerio Treats' (URL: https://www.foodallergy.org/resources/feating-fare-chewy-cheerio-treats)
+2025-04-04 16:44:35,720 [INFO] Food Allergy Research & Education: Fetching URL: https://www.foodallergy.org/resources/feasting-fare-candy-sushi
+2025-04-04 16:44:36,733 [INFO] Food Allergy Research & Education: Saved recipe: 'Feasting with FARE: Candy Sushi' (URL: https://www.foodallergy.org/resources/feasting-fare-candy-sushi)
+2025-04-04 16:44:36,733 [INFO] Food Allergy Research & Education: Fetching URL: https://www.foodallergy.org/resources/feasting-fare-3-ways-eat-granola
+2025-04-04 16:44:37,991 [INFO] Food Allergy Research & Education: Saved recipe: 'Feasting With FARE: 3 Ways to Eat Granola' (URL: https://www.foodallergy.org/resources/feasting-fare-3-ways-eat-granola)
+2025-04-04 16:44:37,991 [INFO] Food Allergy Research & Education: Fetching URL: https://www.foodallergy.org/resources/feasting-fare-chocolate-free-brownies
+2025-04-04 16:44:39,366 [INFO] Food Allergy Research & Education: Saved recipe: 'Feasting With FARE: Chocolate-Free Brownies' (URL: https://www.foodallergy.org/resources/feasting-fare-chocolate-free-brownies)
+2025-04-04 16:44:39,366 [INFO] Food Allergy Research & Education: Fetching URL: https://www.foodallergy.org/resources/feasting-fare-mug-cake
+2025-04-04 16:44:40,679 [INFO] Food Allergy Research & Education: Saved recipe: 'Feasting With FARE: Mug Cake' (URL: https://www.foodallergy.org/resources/feasting-fare-mug-cake)
+2025-04-04 16:44:40,679 [INFO] Food Allergy Research & Education: Fetching URL: https://www.foodallergy.org/resources/feasting-fare-turkey-gravy
+2025-04-04 16:44:41,960 [INFO] Food Allergy Research & Education: Saved recipe: 'Feasting With FARE: Turkey Gravy' (URL: https://www.foodallergy.org/resources/feasting-fare-turkey-gravy)
+2025-04-04 16:44:41,960 [INFO] Food Allergy Research & Education: Fetching URL: https://www.foodallergy.org/resources/feasting-fare-maple-glazed-ham
+2025-04-04 16:44:42,818 [INFO] Food Allergy Research & Education: Saved recipe: 'Feasting With FARE: Maple Glazed Ham' (URL: https://www.foodallergy.org/resources/feasting-fare-maple-glazed-ham)
+2025-04-04 16:44:42,818 [INFO] Food Allergy Research & Education: Fetching URL: https://www.foodallergy.org/resources/feasting-fare-lollipop-cookies
+2025-04-04 16:44:44,016 [INFO] Food Allergy Research & Education: Saved recipe: 'Feasting With FARE: Lollipop Cookies' (URL: https://www.foodallergy.org/resources/feasting-fare-lollipop-cookies)
+2025-04-04 16:44:44,017 [INFO] Food Allergy Research & Education: Fetching URL: https://www.foodallergy.org/resources/feasting-fare-creamy-macaroni-and-cheese
+2025-04-04 16:44:45,223 [INFO] Food Allergy Research & Education: Saved recipe: 'Feasting With FARE: Creamy Macaroni and Cheese' (URL: https://www.foodallergy.org/resources/feasting-fare-creamy-macaroni-and-cheese)
+2025-04-04 16:44:45,223 [INFO] Food Allergy Research & Education: Fetching URL: https://www.foodallergy.org/resources/feasting-fare-chocolate-chip-protein-pancakes
+2025-04-04 16:44:46,445 [INFO] Food Allergy Research & Education: Saved recipe: 'Feasting With FARE: Chocolate Chip Protein Pancakes' (URL: https://www.foodallergy.org/resources/feasting-fare-chocolate-chip-protein-pancakes)
+2025-04-04 16:44:46,446 [INFO] Food Allergy Research & Education: Fetching URL: https://www.foodallergy.org/resources/feasting-fare-classic-roasted-turkey
+2025-04-04 16:44:47,401 [INFO] Food Allergy Research & Education: Saved recipe: 'Feasting With FARE: Classic Roasted Turkey' (URL: https://www.foodallergy.org/resources/feasting-fare-classic-roasted-turkey)
+2025-04-04 16:44:47,401 [INFO] Food Allergy Research & Education: Fetching URL: https://www.foodallergy.org/resources/feasting-fare-apple-pie
+2025-04-04 16:44:48,380 [INFO] Food Allergy Research & Education: Saved recipe: 'Feasting With FARE: Apple Pie' (URL: https://www.foodallergy.org/resources/feasting-fare-apple-pie)
+2025-04-04 16:44:48,380 [INFO] Food Allergy Research & Education: Fetching URL: https://www.foodallergy.org/resources/feasting-fare-honey-mustard-fall-veggies
+2025-04-04 16:44:49,039 [INFO] Food Allergy Research & Education: Saved recipe: 'Feasting With FARE: Honey Mustard Fall Veggies' (URL: https://www.foodallergy.org/resources/feasting-fare-honey-mustard-fall-veggies)
+2025-04-04 16:44:49,039 [INFO] Food Allergy Research & Education: Fetching URL: https://www.foodallergy.org/resources/feasting-fare-chocolate-rice-crispy-bars
+2025-04-04 16:44:50,177 [INFO] Food Allergy Research & Education: Saved recipe: 'Feasting with FARE: Chocolate Rice Crispy Bars' (URL: https://www.foodallergy.org/resources/feasting-fare-chocolate-rice-crispy-bars)
+2025-04-04 16:44:50,177 [INFO] Food Allergy Research & Education: Fetching URL: https://www.foodallergy.org/resources/feasting-fare-top-9-free-nachos
+2025-04-04 16:44:51,261 [INFO] Food Allergy Research & Education: Saved recipe: 'Feasting With FARE: Top 9 Free Nachos' (URL: https://www.foodallergy.org/resources/feasting-fare-top-9-free-nachos)
+2025-04-04 16:44:51,261 [INFO] Food Allergy Research & Education: Fetching URL: https://www.foodallergy.org/resources/feasting-fare-chicken-teriyaki-bowl
+2025-04-04 16:44:51,871 [INFO] Food Allergy Research & Education: Saved recipe: 'Feasting with FARE: Chicken Teriyaki Bowl' (URL: https://www.foodallergy.org/resources/feasting-fare-chicken-teriyaki-bowl)
+2025-04-04 16:44:51,871 [INFO] Food Allergy Research & Education: Fetching URL: https://www.foodallergy.org/resources/feasting-fare-creamed-spinach
+2025-04-04 16:44:53,002 [INFO] Food Allergy Research & Education: Saved recipe: 'Feasting with FARE: Creamed Spinach' (URL: https://www.foodallergy.org/resources/feasting-fare-creamed-spinach)
+2025-04-04 16:44:53,002 [INFO] Food Allergy Research & Education: Fetching URL: https://www.foodallergy.org/resources/feasting-fare-gluten-free-birthday-cake
+2025-04-04 16:44:54,027 [INFO] Food Allergy Research & Education: Saved recipe: 'Feasting With FARE: Gluten-Free Birthday Cake' (URL: https://www.foodallergy.org/resources/feasting-fare-gluten-free-birthday-cake)
+2025-04-04 16:44:54,028 [INFO] Food Allergy Research & Education: Fetching URL: https://www.foodallergy.org/resources/feasting-fare-spooky-brownies
+2025-04-04 16:44:55,273 [INFO] Food Allergy Research & Education: Saved recipe: 'Feasting With FARE: Spooky Brownies' (URL: https://www.foodallergy.org/resources/feasting-fare-spooky-brownies)
+2025-04-04 16:44:55,273 [INFO] Food Allergy Research & Education: Fetching URL: https://www.foodallergy.org/resources/feasting-fare-potato-salad
+2025-04-04 16:44:56,564 [INFO] Food Allergy Research & Education: Saved recipe: 'Feasting With FARE: Potato Salad' (URL: https://www.foodallergy.org/resources/feasting-fare-potato-salad)
+2025-04-04 16:44:56,565 [INFO] Food Allergy Research & Education: Fetching URL: https://www.foodallergy.org/resources/feasting-fare-cornbread
+2025-04-04 16:44:57,230 [INFO] Food Allergy Research & Education: Saved recipe: 'Feasting With FARE: Cornbread' (URL: https://www.foodallergy.org/resources/feasting-fare-cornbread)
+2025-04-04 16:44:57,230 [INFO] Food Allergy Research & Education: Fetching URL: https://www.foodallergy.org/resources/teal-holidays-recipes-and-entertaining-guide
+2025-04-04 16:44:58,637 [INFO] Food Allergy Research & Education: Saved recipe: 'Teal Holidays: Recipes and Entertaining Guide' (URL: https://www.foodallergy.org/resources/teal-holidays-recipes-and-entertaining-guide)
+2025-04-04 16:44:58,638 [INFO] Food Allergy Research & Education: Fetching URL: https://www.foodallergy.org/resources/feasting-fare-sprinkle-cookies
+2025-04-04 16:45:00,109 [INFO] Food Allergy Research & Education: Saved recipe: 'Feasting With FARE: Sprinkle Cookies' (URL: https://www.foodallergy.org/resources/feasting-fare-sprinkle-cookies)
+2025-04-04 16:45:00,110 [INFO] Food Allergy Research & Education: Fetching URL: https://www.foodallergy.org/resources/feasting-fare-granola
+2025-04-04 16:45:01,219 [INFO] Food Allergy Research & Education: Saved recipe: 'Feasting with FARE: Granola' (URL: https://www.foodallergy.org/resources/feasting-fare-granola)
+2025-04-04 16:45:01,219 [INFO] Food Allergy Research & Education: Fetching URL: https://www.foodallergy.org/resources/feasting-fare-potato-chip-chicken-tenders
+2025-04-04 16:45:02,339 [INFO] Food Allergy Research & Education: Saved recipe: 'Feasting With FARE: Potato Chip Chicken Tenders' (URL: https://www.foodallergy.org/resources/feasting-fare-potato-chip-chicken-tenders)
+2025-04-04 16:45:02,340 [INFO] Food Allergy Research & Education: Fetching URL: https://www.foodallergy.org/resources/feasting-fare-albondigas
+2025-04-04 16:45:03,344 [INFO] Food Allergy Research & Education: Saved recipe: 'Feasting With FARE: Albondigas' (URL: https://www.foodallergy.org/resources/feasting-fare-albondigas)
+2025-04-04 16:45:03,344 [INFO] Food Allergy Research & Education: Fetching URL: https://www.foodallergy.org/resources/feasting-fare-coq-au-vin
+2025-04-04 16:45:04,709 [INFO] Food Allergy Research & Education: Saved recipe: 'Feasting With FARE: Coq au Vin' (URL: https://www.foodallergy.org/resources/feasting-fare-coq-au-vin)
+2025-04-04 16:45:04,709 [INFO] Food Allergy Research & Education: Fetching URL: https://www.foodallergy.org/resources/feasting-fare-pumpkin-cupcakes
+2025-04-04 16:45:06,106 [INFO] Food Allergy Research & Education: Saved recipe: 'Feasting With FARE: Pumpkin Cupcakes' (URL: https://www.foodallergy.org/resources/feasting-fare-pumpkin-cupcakes)
+2025-04-04 16:45:06,106 [INFO] Food Allergy Research & Education: Fetching URL: https://www.foodallergy.org/resources/feasting-fare-roasted-holiday-curried-pumpkin-seeds
+2025-04-04 16:45:07,511 [INFO] Food Allergy Research & Education: Saved recipe: 'Feasting With FARE: Roasted Holiday Curried Pumpkin Seeds' (URL: https://www.foodallergy.org/resources/feasting-fare-roasted-holiday-curried-pumpkin-seeds)
+2025-04-04 16:45:07,511 [INFO] Food Allergy Research & Education: Fetching URL: https://www.foodallergy.org/resources/feasting-fare-pumpkin-pancakes
+2025-04-04 16:45:08,201 [INFO] Food Allergy Research & Education: Saved recipe: 'Feasting With FARE: Pumpkin Pancakes' (URL: https://www.foodallergy.org/resources/feasting-fare-pumpkin-pancakes)
+2025-04-04 16:45:08,202 [INFO] Food Allergy Research & Education: Fetching URL: https://www.foodallergy.org/resources/feasting-fare-summer-berry-trifle
+2025-04-04 16:45:08,939 [INFO] Food Allergy Research & Education: Saved recipe: 'Feasting With FARE: Summer Berry Trifle' (URL: https://www.foodallergy.org/resources/feasting-fare-summer-berry-trifle)
+2025-04-04 16:45:08,939 [INFO] Food Allergy Research & Education: Fetching URL: https://www.foodallergy.org/resources/feasting-fare-red-thai-curry
+2025-04-04 16:45:09,968 [INFO] Food Allergy Research & Education: Saved recipe: 'Feasting With FARE: Red Thai Curry' (URL: https://www.foodallergy.org/resources/feasting-fare-red-thai-curry)
+2025-04-04 16:45:09,968 [INFO] Food Allergy Research & Education: Fetching URL: https://www.foodallergy.org/resources/feasting-fare-austrian-mushroom-goulash-potato-dumplings
+2025-04-04 16:45:11,054 [INFO] Food Allergy Research & Education: Saved recipe: 'Feasting With FARE: Austrian Mushroom Goulash with Potato Dumplings' (URL: https://www.foodallergy.org/resources/feasting-fare-austrian-mushroom-goulash-potato-dumplings)
+2025-04-04 16:45:11,054 [INFO] Food Allergy Research & Education: Fetching URL: https://www.foodallergy.org/resources/feasting-fare-creme-brulee
+2025-04-04 16:45:12,058 [INFO] Food Allergy Research & Education: Saved recipe: 'Feasting With FARE: Creme Brulee' (URL: https://www.foodallergy.org/resources/feasting-fare-creme-brulee)
+2025-04-04 16:45:12,058 [INFO] Food Allergy Research & Education: Fetching URL: https://www.foodallergy.org/resources/feasting-fare-patatas-bravas
+2025-04-04 16:45:12,646 [INFO] Food Allergy Research & Education: Saved recipe: 'Feasting with FARE: Patatas Bravas' (URL: https://www.foodallergy.org/resources/feasting-fare-patatas-bravas)
+2025-04-04 16:45:12,646 [INFO] Food Allergy Research & Education: Fetching URL: https://www.foodallergy.org/resources/feasting-fare-lemon-herb-spatchcock-chicken-arugula-salsa-verde
+2025-04-04 16:45:13,785 [INFO] Food Allergy Research & Education: Saved recipe: 'Feasting With FARE: Lemon–Herb Spatchcock Chicken with Arugula Salsa Verde' (URL: https://www.foodallergy.org/resources/feasting-fare-lemon-herb-spatchcock-chicken-arugula-salsa-verde)
+2025-04-04 16:45:13,785 [INFO] Food Allergy Research & Education: Fetching URL: https://www.foodallergy.org/resources/feasting-fare-smores-bars
+2025-04-04 16:45:15,208 [INFO] Food Allergy Research & Education: Saved recipe: 'Feasting With FARE: S'mores Bars' (URL: https://www.foodallergy.org/resources/feasting-fare-smores-bars)
+2025-04-04 16:45:15,208 [INFO] Food Allergy Research & Education: Fetching URL: https://www.foodallergy.org/resources/feasting-fare-chickpea-burgers
+2025-04-04 16:45:16,300 [INFO] Food Allergy Research & Education: Saved recipe: 'Feasting With FARE: Chickpea Burgers' (URL: https://www.foodallergy.org/resources/feasting-fare-chickpea-burgers)
+2025-04-04 16:45:16,301 [INFO] Food Allergy Research & Education: Fetching URL: https://www.foodallergy.org/resources/feasting-fare-waffles-peach-topping
+2025-04-04 16:45:16,963 [INFO] Food Allergy Research & Education: Saved recipe: 'Feasting With FARE: Waffles With Peach Topping' (URL: https://www.foodallergy.org/resources/feasting-fare-waffles-peach-topping)
+2025-04-04 16:45:16,963 [INFO] Food Allergy Research & Education: Fetching URL: https://www.foodallergy.org/resources/feasting-fare-pupusas-and-salsa-roja
+2025-04-04 16:45:18,087 [INFO] Food Allergy Research & Education: Saved recipe: 'Feasting With FARE: Pupusas and Salsa Roja' (URL: https://www.foodallergy.org/resources/feasting-fare-pupusas-and-salsa-roja)
+2025-04-04 16:45:18,087 [INFO] Food Allergy Research & Education: Fetching URL: https://www.foodallergy.org/resources/feasting-fare-pancakes
+2025-04-04 16:45:19,234 [INFO] Food Allergy Research & Education: Saved recipe: 'Feasting With FARE: Pancakes' (URL: https://www.foodallergy.org/resources/feasting-fare-pancakes)
+2025-04-04 16:45:19,235 [INFO] Food Allergy Research & Education: Fetching URL: https://www.foodallergy.org/resources/feasting-fare-nut-free-granola
+2025-04-04 16:45:20,421 [INFO] Food Allergy Research & Education: Saved recipe: 'Feasting With FARE: Nut-Free Granola' (URL: https://www.foodallergy.org/resources/feasting-fare-nut-free-granola)
+2025-04-04 16:45:20,421 [INFO] Food Allergy Research & Education: Fetching URL: https://www.foodallergy.org/resources/feasting-fare-curried-roasted-butternut-squash-soup-spinach
+2025-04-04 16:45:21,564 [INFO] Food Allergy Research & Education: Saved recipe: 'Feasting With FARE: Curried Roasted Butternut Squash Soup With Spinach' (URL: https://www.foodallergy.org/resources/feasting-fare-curried-roasted-butternut-squash-soup-spinach)
+2025-04-04 16:45:21,564 [INFO] Food Allergy Research & Education: Fetching URL: https://www.foodallergy.org/resources/feasting-fare-wild-blueberry-scones-fresh-lemon-curd
+2025-04-04 16:45:22,749 [INFO] Food Allergy Research & Education: Saved recipe: 'Feasting With FARE: Wild Blueberry Scones With Fresh Lemon Curd' (URL: https://www.foodallergy.org/resources/feasting-fare-wild-blueberry-scones-fresh-lemon-curd)
+2025-04-04 16:45:22,749 [INFO] Food Allergy Research & Education: Fetching URL: https://www.foodallergy.org/resources/feasting-fare-strawberries-and-cream-protein-popsicles
+2025-04-04 16:45:23,988 [INFO] Food Allergy Research & Education: Saved recipe: 'Feasting With FARE: Strawberries and Cream Protein Popsicles' (URL: https://www.foodallergy.org/resources/feasting-fare-strawberries-and-cream-protein-popsicles)
+2025-04-04 16:45:23,988 [INFO] Food Allergy Research & Education: Fetching URL: https://www.foodallergy.org/resources/feasting-fare-red-velvet-cake-truffles
+2025-04-04 16:45:25,016 [INFO] Food Allergy Research & Education: Saved recipe: 'Feasting With FARE: Red Velvet Cake Truffles' (URL: https://www.foodallergy.org/resources/feasting-fare-red-velvet-cake-truffles)
+2025-04-04 16:45:25,016 [INFO] Food Allergy Research & Education: Fetching URL: https://www.foodallergy.org/resources/feasting-fare-jerk-jackfruit-and-mango-chutney
+2025-04-04 16:45:26,374 [INFO] Food Allergy Research & Education: Saved recipe: 'Feasting With FARE: Jerk Jackfruit and Mango Chutney' (URL: https://www.foodallergy.org/resources/feasting-fare-jerk-jackfruit-and-mango-chutney)
+2025-04-04 16:45:26,375 [INFO] Food Allergy Research & Education: Fetching URL: https://www.foodallergy.org/resources/feasting-fare-swiss-fondue
+2025-04-04 16:45:27,395 [INFO] Food Allergy Research & Education: Saved recipe: 'Feasting With FARE: Swiss Fondue' (URL: https://www.foodallergy.org/resources/feasting-fare-swiss-fondue)
+2025-04-04 16:45:27,396 [INFO] Food Allergy Research & Education: Fetching URL: https://www.foodallergy.org/resources/feasting-fare-no-bake-granola-bars-bites
+2025-04-04 16:45:28,377 [INFO] Food Allergy Research & Education: Saved recipe: 'Feasting With FARE: No-Bake Granola Bars & Bites' (URL: https://www.foodallergy.org/resources/feasting-fare-no-bake-granola-bars-bites)
+2025-04-04 16:45:28,377 [INFO] Food Allergy Research & Education: Fetching URL: https://www.foodallergy.org/resources/feasting-fare-nice-cream-sundaes
+2025-04-04 16:45:29,309 [INFO] Food Allergy Research & Education: Saved recipe: 'Feasting With FARE: Nice Cream Sundaes' (URL: https://www.foodallergy.org/resources/feasting-fare-nice-cream-sundaes)
+2025-04-04 16:45:29,310 [INFO] Food Allergy Research & Education: Fetching URL: https://www.foodallergy.org/resources/top-9-allergen-free-thanksgiving-cookbook
+2025-04-04 16:45:30,054 [INFO] Food Allergy Research & Education: Saved recipe: 'Top 9 Allergen Free Thanksgiving Cookbook' (URL: https://www.foodallergy.org/resources/top-9-allergen-free-thanksgiving-cookbook)
+2025-04-04 16:45:30,055 [INFO] Food Allergy Research & Education: Fetching URL: https://www.foodallergy.org/resources/feasting-fare-sunflower-seed-cranberry-cookies
+2025-04-04 16:45:30,988 [INFO] Food Allergy Research & Education: Saved recipe: 'Feasting With FARE: Sunflower Seed Cranberry Cookies' (URL: https://www.foodallergy.org/resources/feasting-fare-sunflower-seed-cranberry-cookies)
+2025-04-04 16:45:30,988 [INFO] Food Allergy Research & Education: Fetching URL: https://www.foodallergy.org/resources/feasting-fare-mashed-potatoes
+2025-04-04 16:45:32,019 [INFO] Food Allergy Research & Education: Saved recipe: 'Feasting With FARE: Mashed Potatoes' (URL: https://www.foodallergy.org/resources/feasting-fare-mashed-potatoes)
+2025-04-04 16:45:32,020 [INFO] Food Allergy Research & Education: Fetching URL: https://www.foodallergy.org/resources/feasting-fare-onion-bhaji-simon-majumdar
+2025-04-04 16:45:33,238 [INFO] Food Allergy Research & Education: Saved recipe: 'Feasting With FARE: Onion Bhaji by Simon Majumdar' (URL: https://www.foodallergy.org/resources/feasting-fare-onion-bhaji-simon-majumdar)
+2025-04-04 16:45:33,238 [INFO] Food Allergy Research & Education: Fetching URL: https://www.foodallergy.org/resources/feasting-fare-red-velvet-waffles
+2025-04-04 16:45:34,396 [INFO] Food Allergy Research & Education: Saved recipe: 'Feasting With FARE: Red Velvet Waffles' (URL: https://www.foodallergy.org/resources/feasting-fare-red-velvet-waffles)
+2025-04-04 16:45:34,396 [INFO] Food Allergy Research & Education: Fetching URL: https://www.foodallergy.org/resources/feasting-fare-salsa-verde
+2025-04-04 16:45:35,413 [INFO] Food Allergy Research & Education: Saved recipe: 'Feasting With FARE: Salsa Verde' (URL: https://www.foodallergy.org/resources/feasting-fare-salsa-verde)
+2025-04-04 16:45:35,413 [INFO] Food Allergy Research & Education: Fetching URL: https://www.foodallergy.org/resources/feasting-fare-socca-crispy-chickpeas-arugula-bacon-salad
+2025-04-04 16:45:36,553 [INFO] Food Allergy Research & Education: Saved recipe: 'Feasting with FARE: Socca with Crispy Chickpeas, Arugula & Bacon Salad' (URL: https://www.foodallergy.org/resources/feasting-fare-socca-crispy-chickpeas-arugula-bacon-salad)
+2025-04-04 16:45:36,553 [INFO] Food Allergy Research & Education: Fetching URL: https://www.foodallergy.org/resources/feasting-fare-top-10-free-halloween-cookies
+2025-04-04 16:45:37,255 [INFO] Food Allergy Research & Education: Saved recipe: 'Feasting With FARE: Top 10 Free Halloween Cookies' (URL: https://www.foodallergy.org/resources/feasting-fare-top-10-free-halloween-cookies)
+2025-04-04 16:45:37,255 [INFO] Food Allergy Research & Education: Fetching URL: https://www.foodallergy.org/resources/feasting-fare-cornbread-stuffing-0
+2025-04-04 16:45:38,389 [INFO] Food Allergy Research & Education: Saved recipe: 'Feasting With FARE: Cornbread Stuffing' (URL: https://www.foodallergy.org/resources/feasting-fare-cornbread-stuffing-0)
+2025-04-04 16:45:38,389 [INFO] Food Allergy Research & Education: Fetching URL: https://www.foodallergy.org/resources/feasting-fare-pumpkin-spice-cookie-dough-bites
+2025-04-04 16:45:39,331 [INFO] Food Allergy Research & Education: Saved recipe: 'Feasting With FARE: Pumpkin Spice Cookie Dough Bites' (URL: https://www.foodallergy.org/resources/feasting-fare-pumpkin-spice-cookie-dough-bites)
+2025-04-04 16:45:39,331 [INFO] Food Allergy Research & Education: Fetching URL: https://www.foodallergy.org/resources/feasting-fare-snow-globe-cookies
+2025-04-04 16:45:40,318 [INFO] Food Allergy Research & Education: Saved recipe: 'Feasting with FARE: Snow Globe Cookies' (URL: https://www.foodallergy.org/resources/feasting-fare-snow-globe-cookies)
+2025-04-04 16:45:40,318 [INFO] Food Allergy Research & Education: Fetching URL: https://www.foodallergy.org/resources/feasting-fare-budgie-bars
+2025-04-04 16:45:41,304 [INFO] Food Allergy Research & Education: Saved recipe: 'Feasting with FARE: Budgie Bars' (URL: https://www.foodallergy.org/resources/feasting-fare-budgie-bars)
+2025-04-04 16:45:41,304 [INFO] Food Allergy Research & Education: Fetching URL: https://www.foodallergy.org/resources/feasting-fare-quinoa-tabbouleh-salad
+2025-04-04 16:45:42,418 [INFO] Food Allergy Research & Education: Saved recipe: 'Feasting with FARE: Quinoa Tabbouleh Salad' (URL: https://www.foodallergy.org/resources/feasting-fare-quinoa-tabbouleh-salad)
+2025-04-04 16:45:42,418 [INFO] Food Allergy Research & Education: Fetching URL: https://www.foodallergy.org/resources/feasting-fare-cuban-jackfruit-ropa-vieja
+2025-04-04 16:45:43,414 [INFO] Food Allergy Research & Education: Saved recipe: 'Feasting With FARE: Cuban Jackfruit Ropa Vieja' (URL: https://www.foodallergy.org/resources/feasting-fare-cuban-jackfruit-ropa-vieja)
+2025-04-04 16:45:43,414 [INFO] Food Allergy Research & Education: Fetching URL: https://www.foodallergy.org/resources/feasting-fare-vegetable-biryani
+2025-04-04 16:45:44,665 [INFO] Food Allergy Research & Education: Saved recipe: 'Feasting With FARE: Vegetable Biryani' (URL: https://www.foodallergy.org/resources/feasting-fare-vegetable-biryani)
+2025-04-04 16:45:44,665 [INFO] Food Allergy Research & Education: Fetching URL: https://www.foodallergy.org/resources/feasting-fare-smores-popcorn
+2025-04-04 16:45:45,756 [INFO] Food Allergy Research & Education: Saved recipe: 'Feasting With FARE: S'mores Popcorn' (URL: https://www.foodallergy.org/resources/feasting-fare-smores-popcorn)
+2025-04-04 16:45:45,756 [INFO] Food Allergy Research & Education: Fetching URL: https://www.foodallergy.org/resources/feasting-fare-top-9-free-ceviche
+2025-04-04 16:45:46,702 [INFO] Food Allergy Research & Education: Saved recipe: 'Feasting With FARE: Top 9 Free Ceviche' (URL: https://www.foodallergy.org/resources/feasting-fare-top-9-free-ceviche)
+2025-04-04 16:45:46,702 [INFO] Food Allergy Research & Education: Fetching URL: https://www.foodallergy.org/resources/feasting-fare-dairy-free-grilled-cheese
+2025-04-04 16:45:47,286 [INFO] Food Allergy Research & Education: Saved recipe: 'Feasting With FARE: Dairy-Free Grilled Cheese' (URL: https://www.foodallergy.org/resources/feasting-fare-dairy-free-grilled-cheese)
+2025-04-04 16:45:47,286 [INFO] Food Allergy Research & Education: Fetching URL: https://www.foodallergy.org/resources/feasting-fare-strawberry-crunkle
+2025-04-04 16:45:48,655 [INFO] Food Allergy Research & Education: Saved recipe: 'Feasting With FARE: Strawberry Crunkle' (URL: https://www.foodallergy.org/resources/feasting-fare-strawberry-crunkle)
+2025-04-04 16:45:48,656 [INFO] Food Allergy Research & Education: Fetching URL: https://www.foodallergy.org/resources/feasting-fare-sichuan-style-eggplant-peppers-stir-fry
+2025-04-04 16:45:49,245 [INFO] Food Allergy Research & Education: Saved recipe: 'Feasting with FARE: Sichuan-Style Eggplant & Peppers Stir Fry' (URL: https://www.foodallergy.org/resources/feasting-fare-sichuan-style-eggplant-peppers-stir-fry)
+2025-04-04 16:45:49,245 [INFO] Food Allergy Research & Education: Scraper finished for site: Food Allergy Research & Education

@@ -1,0 +1,1159 @@
+2025-04-03 23:52:16,810 [INFO] The Pretty Bee: Database connection established successfully.
+2025-04-03 23:52:16,811 [INFO] The Pretty Bee: Initialized scraper for site: The Pretty Bee
+2025-04-03 23:52:16,811 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/
+2025-04-03 23:52:18,199 [INFO] The Pretty Bee: Found 0 unique recipe links for site 'The Pretty Bee'.
+2025-04-03 23:52:18,200 [INFO] The Pretty Bee: Scraper finished for site: The Pretty Bee
+2025-04-03 23:55:07,596 [INFO] The Pretty Bee: Database connection established successfully.
+2025-04-03 23:55:07,596 [INFO] The Pretty Bee: Initialized scraper for site: The Pretty Bee
+2025-04-03 23:55:07,596 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/category/main-dishes/
+2025-04-03 23:55:09,839 [INFO] The Pretty Bee: Found 0 unique recipe links for site 'The Pretty Bee'.
+2025-04-03 23:55:09,839 [INFO] The Pretty Bee: Scraper finished for site: The Pretty Bee
+2025-04-03 23:56:17,662 [INFO] The Pretty Bee: Database connection established successfully.
+2025-04-03 23:56:27,737 [INFO] The Pretty Bee: Initialized scraper for site: The Pretty Bee
+2025-04-03 23:56:27,738 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/
+2025-04-03 23:56:35,670 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/category/main-dishes/
+2025-04-03 23:56:53,656 [ERROR] The Pretty Bee: Selenium attempt 1 failed for https://theprettybee.com/category/main-dishes/: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF679494C25+3179557]
+	(No symbol) [0x00007FF6790F88A0]
+	(No symbol) [0x00007FF678F891CA]
+	(No symbol) [0x00007FF678FDFA67]
+	(No symbol) [0x00007FF678FDFC9C]
+	(No symbol) [0x00007FF679033627]
+	(No symbol) [0x00007FF679007C6F]
+	(No symbol) [0x00007FF6790302F3]
+	(No symbol) [0x00007FF679007A03]
+	(No symbol) [0x00007FF678FD06D0]
+	(No symbol) [0x00007FF678FD1983]
+	GetHandleVerifier [0x00007FF6794F67CD+3579853]
+	GetHandleVerifier [0x00007FF67950D1D2+3672530]
+	GetHandleVerifier [0x00007FF679502153+3627347]
+	GetHandleVerifier [0x00007FF67926092A+868650]
+	(No symbol) [0x00007FF679102FFF]
+	(No symbol) [0x00007FF6790FF4A4]
+	(No symbol) [0x00007FF6790FF646]
+	(No symbol) [0x00007FF6790EEAA9]
+	BaseThreadInitThunk [0x00007FF9EA907374+20]
+	RtlUserThreadStart [0x00007FF9EBEBCC91+33]
+
+2025-04-03 23:57:08,731 [ERROR] The Pretty Bee: Selenium attempt 2 failed for https://theprettybee.com/category/main-dishes/: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF679494C25+3179557]
+	(No symbol) [0x00007FF6790F88A0]
+	(No symbol) [0x00007FF678F891CA]
+	(No symbol) [0x00007FF678FDFA67]
+	(No symbol) [0x00007FF678FDFC9C]
+	(No symbol) [0x00007FF679033627]
+	(No symbol) [0x00007FF679007C6F]
+	(No symbol) [0x00007FF6790302F3]
+	(No symbol) [0x00007FF679007A03]
+	(No symbol) [0x00007FF678FD06D0]
+	(No symbol) [0x00007FF678FD1983]
+	GetHandleVerifier [0x00007FF6794F67CD+3579853]
+	GetHandleVerifier [0x00007FF67950D1D2+3672530]
+	GetHandleVerifier [0x00007FF679502153+3627347]
+	GetHandleVerifier [0x00007FF67926092A+868650]
+	(No symbol) [0x00007FF679102FFF]
+	(No symbol) [0x00007FF6790FF4A4]
+	(No symbol) [0x00007FF6790FF646]
+	(No symbol) [0x00007FF6790EEAA9]
+	BaseThreadInitThunk [0x00007FF9EA907374+20]
+	RtlUserThreadStart [0x00007FF9EBEBCC91+33]
+
+2025-04-03 23:57:25,733 [ERROR] The Pretty Bee: Selenium attempt 3 failed for https://theprettybee.com/category/main-dishes/: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF679494C25+3179557]
+	(No symbol) [0x00007FF6790F88A0]
+	(No symbol) [0x00007FF678F891CA]
+	(No symbol) [0x00007FF678FDFA67]
+	(No symbol) [0x00007FF678FDFC9C]
+	(No symbol) [0x00007FF679033627]
+	(No symbol) [0x00007FF679007C6F]
+	(No symbol) [0x00007FF6790302F3]
+	(No symbol) [0x00007FF679007A03]
+	(No symbol) [0x00007FF678FD06D0]
+	(No symbol) [0x00007FF678FD1983]
+	GetHandleVerifier [0x00007FF6794F67CD+3579853]
+	GetHandleVerifier [0x00007FF67950D1D2+3672530]
+	GetHandleVerifier [0x00007FF679502153+3627347]
+	GetHandleVerifier [0x00007FF67926092A+868650]
+	(No symbol) [0x00007FF679102FFF]
+	(No symbol) [0x00007FF6790FF4A4]
+	(No symbol) [0x00007FF6790FF646]
+	(No symbol) [0x00007FF6790EEAA9]
+	BaseThreadInitThunk [0x00007FF9EA907374+20]
+	RtlUserThreadStart [0x00007FF9EBEBCC91+33]
+
+2025-04-03 23:57:25,733 [ERROR] The Pretty Bee: Failed to fetch page https://theprettybee.com/category/main-dishes/: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF679494C25+3179557]
+	(No symbol) [0x00007FF6790F88A0]
+	(No symbol) [0x00007FF678F891CA]
+	(No symbol) [0x00007FF678FDFA67]
+	(No symbol) [0x00007FF678FDFC9C]
+	(No symbol) [0x00007FF679033627]
+	(No symbol) [0x00007FF679007C6F]
+	(No symbol) [0x00007FF6790302F3]
+	(No symbol) [0x00007FF679007A03]
+	(No symbol) [0x00007FF678FD06D0]
+	(No symbol) [0x00007FF678FD1983]
+	GetHandleVerifier [0x00007FF6794F67CD+3579853]
+	GetHandleVerifier [0x00007FF67950D1D2+3672530]
+	GetHandleVerifier [0x00007FF679502153+3627347]
+	GetHandleVerifier [0x00007FF67926092A+868650]
+	(No symbol) [0x00007FF679102FFF]
+	(No symbol) [0x00007FF6790FF4A4]
+	(No symbol) [0x00007FF6790FF646]
+	(No symbol) [0x00007FF6790EEAA9]
+	BaseThreadInitThunk [0x00007FF9EA907374+20]
+	RtlUserThreadStart [0x00007FF9EBEBCC91+33]
+
+2025-04-03 23:57:25,733 [INFO] The Pretty Bee: Found 0 unique recipe links for site 'The Pretty Bee'.
+2025-04-03 23:57:28,233 [INFO] The Pretty Bee: Scraper finished for site: The Pretty Bee
+2025-04-04 00:23:17,883 [INFO] The Pretty Bee: Database connection established successfully.
+2025-04-04 00:23:20,060 [INFO] The Pretty Bee: Initialized scraper for site: The Pretty Bee
+2025-04-04 00:23:20,060 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/
+2025-04-04 00:23:27,530 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/category/main-dishes/
+2025-04-04 00:23:44,323 [ERROR] The Pretty Bee: Selenium attempt 1 failed for https://theprettybee.com/category/main-dishes/: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF679494C25+3179557]
+	(No symbol) [0x00007FF6790F88A0]
+	(No symbol) [0x00007FF678F891CA]
+	(No symbol) [0x00007FF678FDFA67]
+	(No symbol) [0x00007FF678FDFC9C]
+	(No symbol) [0x00007FF679033627]
+	(No symbol) [0x00007FF679007C6F]
+	(No symbol) [0x00007FF6790302F3]
+	(No symbol) [0x00007FF679007A03]
+	(No symbol) [0x00007FF678FD06D0]
+	(No symbol) [0x00007FF678FD1983]
+	GetHandleVerifier [0x00007FF6794F67CD+3579853]
+	GetHandleVerifier [0x00007FF67950D1D2+3672530]
+	GetHandleVerifier [0x00007FF679502153+3627347]
+	GetHandleVerifier [0x00007FF67926092A+868650]
+	(No symbol) [0x00007FF679102FFF]
+	(No symbol) [0x00007FF6790FF4A4]
+	(No symbol) [0x00007FF6790FF646]
+	(No symbol) [0x00007FF6790EEAA9]
+	BaseThreadInitThunk [0x00007FF9EA907374+20]
+	RtlUserThreadStart [0x00007FF9EBEBCC91+33]
+
+2025-04-04 00:23:58,103 [ERROR] The Pretty Bee: Selenium attempt 2 failed for https://theprettybee.com/category/main-dishes/: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF679494C25+3179557]
+	(No symbol) [0x00007FF6790F88A0]
+	(No symbol) [0x00007FF678F891CA]
+	(No symbol) [0x00007FF678FDFA67]
+	(No symbol) [0x00007FF678FDFC9C]
+	(No symbol) [0x00007FF679033627]
+	(No symbol) [0x00007FF679007C6F]
+	(No symbol) [0x00007FF6790302F3]
+	(No symbol) [0x00007FF679007A03]
+	(No symbol) [0x00007FF678FD06D0]
+	(No symbol) [0x00007FF678FD1983]
+	GetHandleVerifier [0x00007FF6794F67CD+3579853]
+	GetHandleVerifier [0x00007FF67950D1D2+3672530]
+	GetHandleVerifier [0x00007FF679502153+3627347]
+	GetHandleVerifier [0x00007FF67926092A+868650]
+	(No symbol) [0x00007FF679102FFF]
+	(No symbol) [0x00007FF6790FF4A4]
+	(No symbol) [0x00007FF6790FF646]
+	(No symbol) [0x00007FF6790EEAA9]
+	BaseThreadInitThunk [0x00007FF9EA907374+20]
+	RtlUserThreadStart [0x00007FF9EBEBCC91+33]
+
+2025-04-04 00:24:12,426 [ERROR] The Pretty Bee: Selenium attempt 3 failed for https://theprettybee.com/category/main-dishes/: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF679494C25+3179557]
+	(No symbol) [0x00007FF6790F88A0]
+	(No symbol) [0x00007FF678F891CA]
+	(No symbol) [0x00007FF678FDFA67]
+	(No symbol) [0x00007FF678FDFC9C]
+	(No symbol) [0x00007FF679033627]
+	(No symbol) [0x00007FF679007C6F]
+	(No symbol) [0x00007FF6790302F3]
+	(No symbol) [0x00007FF679007A03]
+	(No symbol) [0x00007FF678FD06D0]
+	(No symbol) [0x00007FF678FD1983]
+	GetHandleVerifier [0x00007FF6794F67CD+3579853]
+	GetHandleVerifier [0x00007FF67950D1D2+3672530]
+	GetHandleVerifier [0x00007FF679502153+3627347]
+	GetHandleVerifier [0x00007FF67926092A+868650]
+	(No symbol) [0x00007FF679102FFF]
+	(No symbol) [0x00007FF6790FF4A4]
+	(No symbol) [0x00007FF6790FF646]
+	(No symbol) [0x00007FF6790EEAA9]
+	BaseThreadInitThunk [0x00007FF9EA907374+20]
+	RtlUserThreadStart [0x00007FF9EBEBCC91+33]
+
+2025-04-04 00:24:12,427 [ERROR] The Pretty Bee: Failed to fetch page https://theprettybee.com/category/main-dishes/: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF679494C25+3179557]
+	(No symbol) [0x00007FF6790F88A0]
+	(No symbol) [0x00007FF678F891CA]
+	(No symbol) [0x00007FF678FDFA67]
+	(No symbol) [0x00007FF678FDFC9C]
+	(No symbol) [0x00007FF679033627]
+	(No symbol) [0x00007FF679007C6F]
+	(No symbol) [0x00007FF6790302F3]
+	(No symbol) [0x00007FF679007A03]
+	(No symbol) [0x00007FF678FD06D0]
+	(No symbol) [0x00007FF678FD1983]
+	GetHandleVerifier [0x00007FF6794F67CD+3579853]
+	GetHandleVerifier [0x00007FF67950D1D2+3672530]
+	GetHandleVerifier [0x00007FF679502153+3627347]
+	GetHandleVerifier [0x00007FF67926092A+868650]
+	(No symbol) [0x00007FF679102FFF]
+	(No symbol) [0x00007FF6790FF4A4]
+	(No symbol) [0x00007FF6790FF646]
+	(No symbol) [0x00007FF6790EEAA9]
+	BaseThreadInitThunk [0x00007FF9EA907374+20]
+	RtlUserThreadStart [0x00007FF9EBEBCC91+33]
+
+2025-04-04 00:24:12,427 [INFO] The Pretty Bee: Found 30 unique recipe links for site 'The Pretty Bee'.
+2025-04-04 00:24:12,427 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/slow-cooker-lamb-soup/
+2025-04-04 00:24:16,912 [INFO] The Pretty Bee: Saved recipe: 'Slow Cooker Lamb Soup.' (URL: https://theprettybee.com/slow-cooker-lamb-soup/)
+2025-04-04 00:24:16,913 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/one-pot-chicken-mushroom-rice/
+2025-04-04 00:24:20,979 [INFO] The Pretty Bee: Saved recipe: 'One Pot Chicken Mushroom Rice (Dairy Free, Gluten Free).' (URL: https://theprettybee.com/one-pot-chicken-mushroom-rice/)
+2025-04-04 00:24:20,979 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/easter-bunny-cupcakes/
+2025-04-04 00:24:24,273 [INFO] The Pretty Bee: Saved recipe: 'Easter Bunny Cupcakes (Gluten Free, Vegan).' (URL: https://theprettybee.com/easter-bunny-cupcakes/)
+2025-04-04 00:24:24,273 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/homemade-chicken-noodle-soup/
+2025-04-04 00:24:28,283 [INFO] The Pretty Bee: Saved recipe: 'Homemade Gluten Free Chicken Noodle Soup.' (URL: https://theprettybee.com/homemade-chicken-noodle-soup/)
+2025-04-04 00:24:28,283 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/easy-gluten-free-gravy/
+2025-04-04 00:24:31,584 [INFO] The Pretty Bee: Saved recipe: 'The Easiest Gluten Free Gravy Recipe (Dairy Free).' (URL: https://theprettybee.com/easy-gluten-free-gravy/)
+2025-04-04 00:24:31,585 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/slow-cooker-lentil-curry/
+2025-04-04 00:24:35,988 [INFO] The Pretty Bee: Saved recipe: 'Slow Cooker Lentil Curry.' (URL: https://theprettybee.com/slow-cooker-lentil-curry/)
+2025-04-04 00:24:35,988 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/dairy-free-buttercream-frosting/
+2025-04-04 00:24:38,708 [INFO] The Pretty Bee: Saved recipe: 'The Very Best Dairy Free Buttercream Frosting.' (URL: https://theprettybee.com/dairy-free-buttercream-frosting/)
+2025-04-04 00:24:38,708 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/strawberry-snowball-cookies-gluten-free-vegan/
+2025-04-04 00:24:42,679 [INFO] The Pretty Bee: Saved recipe: 'Strawberry Snowball Cookies (Gluten Free, Vegan).' (URL: https://theprettybee.com/strawberry-snowball-cookies-gluten-free-vegan/)
+2025-04-04 00:24:42,679 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/cheesy-hamburger-rice-casserole/
+2025-04-04 00:24:46,949 [INFO] The Pretty Bee: Saved recipe: 'Cheesy Hamburger Rice Casserole (Gluten Free, Dairy Free).' (URL: https://theprettybee.com/cheesy-hamburger-rice-casserole/)
+2025-04-04 00:24:46,949 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/easter-bunny-cut-sugar-cookies-gluten-free-vegan/
+2025-04-04 00:24:50,306 [INFO] The Pretty Bee: Saved recipe: 'Easter Bunny Cut Out Sugar Cookies (Gluten Free and Vegan).' (URL: https://theprettybee.com/easter-bunny-cut-sugar-cookies-gluten-free-vegan/)
+2025-04-04 00:24:50,306 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/double-chocolate-chip-banana-cake/
+2025-04-04 00:24:57,568 [INFO] The Pretty Bee: Saved recipe: 'Double Chocolate Chip Banana Cake (Gluten Free, Vegan).' (URL: https://theprettybee.com/double-chocolate-chip-banana-cake/)
+2025-04-04 00:24:57,568 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/simple-meatballs-gluten-free-dairy-free/
+2025-04-04 00:25:02,720 [INFO] The Pretty Bee: Saved recipe: 'Simple Meatballs (Gluten Free, Dairy Free).' (URL: https://theprettybee.com/simple-meatballs-gluten-free-dairy-free/)
+2025-04-04 00:25:02,721 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/chocolate-caramel-easter-eggs-dairy-free/
+2025-04-04 00:25:07,713 [INFO] The Pretty Bee: Saved recipe: 'Chocolate Caramel Easter Eggs (Dairy Free).' (URL: https://theprettybee.com/chocolate-caramel-easter-eggs-dairy-free/)
+2025-04-04 00:25:07,713 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/taco-seasoning/
+2025-04-04 00:25:11,218 [INFO] The Pretty Bee: Saved recipe: 'Chicken Tacos with Homemade Taco Seasoning.' (URL: https://theprettybee.com/taco-seasoning/)
+2025-04-04 00:25:11,218 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/creamy-noodles-tuna-cheese-sauce-df-gf/
+2025-04-04 00:25:15,000 [INFO] The Pretty Bee: Saved recipe: 'Creamy Tuna Noodles (Gluten Free, Dairy Free).' (URL: https://theprettybee.com/creamy-noodles-tuna-cheese-sauce-df-gf/)
+2025-04-04 00:25:15,000 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/seasoned-roasted-cauliflower/
+2025-04-04 00:25:25,470 [INFO] The Pretty Bee: Saved recipe: 'The Best Seasoned Roasted Cauliflower.' (URL: https://theprettybee.com/seasoned-roasted-cauliflower/)
+2025-04-04 00:25:25,470 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/24-amazing-eggless-cookie-recipes/
+2025-04-04 00:25:29,171 [INFO] The Pretty Bee: Saved recipe: '24 Amazing Eggless Cookie Recipes You’ll Love Baking.' (URL: https://theprettybee.com/24-amazing-eggless-cookie-recipes/)
+2025-04-04 00:25:29,171 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/carrot-cake-oatmeal-cookies/
+2025-04-04 00:25:32,387 [INFO] The Pretty Bee: Saved recipe: 'Carrot Cake Oatmeal Cookies (Gluten Free, Vegan).' (URL: https://theprettybee.com/carrot-cake-oatmeal-cookies/)
+2025-04-04 00:25:32,388 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/perfectly-seasoned-roasted-potatoes/
+2025-04-04 00:25:36,925 [INFO] The Pretty Bee: Saved recipe: 'Perfectly Seasoned Roasted Potatoes.' (URL: https://theprettybee.com/perfectly-seasoned-roasted-potatoes/)
+2025-04-04 00:25:36,925 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/carrot-cake-cream-cheese-frosting-gluten-free-vegan/
+2025-04-04 00:25:40,277 [INFO] The Pretty Bee: Saved recipe: 'Gluten Free Vegan Carrot Cake with Cream Cheese Frosting.' (URL: https://theprettybee.com/carrot-cake-cream-cheese-frosting-gluten-free-vegan/)
+2025-04-04 00:25:40,277 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/saucy-beef-and-bean-enchiladas/
+2025-04-04 00:25:46,060 [INFO] The Pretty Bee: Saved recipe: 'Saucy Beef and Bean Enchiladas (Gluten Free, Dairy Free).' (URL: https://theprettybee.com/saucy-beef-and-bean-enchiladas/)
+2025-04-04 00:25:46,060 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/banana-oatmeal-muffins-vegan-and-gluten-free/
+2025-04-04 00:25:51,937 [INFO] The Pretty Bee: Saved recipe: 'Banana Oatmeal Muffins (Vegan and Gluten Free).' (URL: https://theprettybee.com/banana-oatmeal-muffins-vegan-and-gluten-free/)
+2025-04-04 00:25:51,937 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/sprinkle-slice-and-bake-shortbread/
+2025-04-04 00:25:55,505 [INFO] The Pretty Bee: Saved recipe: 'Sprinkle Slice and Bake Shortbread (Gluten Free, Vegan).' (URL: https://theprettybee.com/sprinkle-slice-and-bake-shortbread/)
+2025-04-04 00:25:55,505 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/slow-cooker-chicken-stew/
+2025-04-04 00:25:59,783 [INFO] The Pretty Bee: Saved recipe: 'Slow Cooker Chicken Stew.' (URL: https://theprettybee.com/slow-cooker-chicken-stew/)
+2025-04-04 00:25:59,784 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/giant-chocolate-chip-cookie/
+2025-04-04 00:26:13,466 [INFO] The Pretty Bee: Saved recipe: 'Giant Chocolate Chip Cookie (Gluten Free, Vegan).' (URL: https://theprettybee.com/giant-chocolate-chip-cookie/)
+2025-04-04 00:26:13,467 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/easy-lentil-potato-curry/
+2025-04-04 00:26:17,988 [INFO] The Pretty Bee: Saved recipe: 'Easy Lentil Potato Curry (Vegan, Gluten Free).' (URL: https://theprettybee.com/easy-lentil-potato-curry/)
+2025-04-04 00:26:17,988 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/3-ingredient-dairy-free-fudge/
+2025-04-04 00:26:27,145 [INFO] The Pretty Bee: Saved recipe: '3 Ingredient Dairy Free Fudge.' (URL: https://theprettybee.com/3-ingredient-dairy-free-fudge/)
+2025-04-04 00:26:27,145 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/chicken-salad-with-grapes/
+2025-04-04 00:26:34,780 [INFO] The Pretty Bee: Saved recipe: 'Super Simple Chicken Salad with Grapes.' (URL: https://theprettybee.com/chicken-salad-with-grapes/)
+2025-04-04 00:26:34,780 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/gluten-free-scalloped-potatoes-dairy-free/
+2025-04-04 00:26:48,066 [INFO] The Pretty Bee: Saved recipe: 'Gluten Free Scalloped Potatoes (Dairy Free).' (URL: https://theprettybee.com/gluten-free-scalloped-potatoes-dairy-free/)
+2025-04-04 00:26:48,066 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/homemade-hamburger-helper-gluten-free-dairy-free/
+2025-04-04 00:26:52,858 [INFO] The Pretty Bee: Saved recipe: 'Homemade Hamburger Helper (Gluten Free, Dairy Free).' (URL: https://theprettybee.com/homemade-hamburger-helper-gluten-free-dairy-free/)
+2025-04-04 00:26:56,759 [INFO] The Pretty Bee: Scraper finished for site: The Pretty Bee
+2025-04-04 00:38:59,450 [INFO] The Pretty Bee: Database connection established successfully.
+2025-04-04 00:38:59,450 [INFO] The Pretty Bee: Initialized scraper for site: The Pretty Bee
+2025-04-04 00:38:59,451 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/
+2025-04-04 00:39:00,496 [INFO] The Pretty Bee: Found 0 unique recipe links for site 'The Pretty Bee'.
+2025-04-04 00:39:00,497 [INFO] The Pretty Bee: Scraper finished for site: The Pretty Bee
+2025-04-04 00:41:04,309 [INFO] The Pretty Bee: Database connection established successfully.
+2025-04-04 00:41:06,328 [INFO] The Pretty Bee: Initialized scraper for site: The Pretty Bee
+2025-04-04 00:41:06,328 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/
+2025-04-04 00:41:16,911 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/category/main-dishes/
+2025-04-04 00:41:35,132 [ERROR] The Pretty Bee: Selenium attempt 1 failed for https://theprettybee.com/category/main-dishes/: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF679494C25+3179557]
+	(No symbol) [0x00007FF6790F88A0]
+	(No symbol) [0x00007FF678F891CA]
+	(No symbol) [0x00007FF678FDFA67]
+	(No symbol) [0x00007FF678FDFC9C]
+	(No symbol) [0x00007FF679033627]
+	(No symbol) [0x00007FF679007C6F]
+	(No symbol) [0x00007FF6790302F3]
+	(No symbol) [0x00007FF679007A03]
+	(No symbol) [0x00007FF678FD06D0]
+	(No symbol) [0x00007FF678FD1983]
+	GetHandleVerifier [0x00007FF6794F67CD+3579853]
+	GetHandleVerifier [0x00007FF67950D1D2+3672530]
+	GetHandleVerifier [0x00007FF679502153+3627347]
+	GetHandleVerifier [0x00007FF67926092A+868650]
+	(No symbol) [0x00007FF679102FFF]
+	(No symbol) [0x00007FF6790FF4A4]
+	(No symbol) [0x00007FF6790FF646]
+	(No symbol) [0x00007FF6790EEAA9]
+	BaseThreadInitThunk [0x00007FF9EA907374+20]
+	RtlUserThreadStart [0x00007FF9EBEBCC91+33]
+
+2025-04-04 00:41:49,807 [ERROR] The Pretty Bee: Selenium attempt 2 failed for https://theprettybee.com/category/main-dishes/: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF679494C25+3179557]
+	(No symbol) [0x00007FF6790F88A0]
+	(No symbol) [0x00007FF678F891CA]
+	(No symbol) [0x00007FF678FDFA67]
+	(No symbol) [0x00007FF678FDFC9C]
+	(No symbol) [0x00007FF679033627]
+	(No symbol) [0x00007FF679007C6F]
+	(No symbol) [0x00007FF6790302F3]
+	(No symbol) [0x00007FF679007A03]
+	(No symbol) [0x00007FF678FD06D0]
+	(No symbol) [0x00007FF678FD1983]
+	GetHandleVerifier [0x00007FF6794F67CD+3579853]
+	GetHandleVerifier [0x00007FF67950D1D2+3672530]
+	GetHandleVerifier [0x00007FF679502153+3627347]
+	GetHandleVerifier [0x00007FF67926092A+868650]
+	(No symbol) [0x00007FF679102FFF]
+	(No symbol) [0x00007FF6790FF4A4]
+	(No symbol) [0x00007FF6790FF646]
+	(No symbol) [0x00007FF6790EEAA9]
+	BaseThreadInitThunk [0x00007FF9EA907374+20]
+	RtlUserThreadStart [0x00007FF9EBEBCC91+33]
+
+2025-04-04 00:42:03,172 [ERROR] The Pretty Bee: Selenium attempt 3 failed for https://theprettybee.com/category/main-dishes/: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF679494C25+3179557]
+	(No symbol) [0x00007FF6790F88A0]
+	(No symbol) [0x00007FF678F891CA]
+	(No symbol) [0x00007FF678FDFA67]
+	(No symbol) [0x00007FF678FDFC9C]
+	(No symbol) [0x00007FF679033627]
+	(No symbol) [0x00007FF679007C6F]
+	(No symbol) [0x00007FF6790302F3]
+	(No symbol) [0x00007FF679007A03]
+	(No symbol) [0x00007FF678FD06D0]
+	(No symbol) [0x00007FF678FD1983]
+	GetHandleVerifier [0x00007FF6794F67CD+3579853]
+	GetHandleVerifier [0x00007FF67950D1D2+3672530]
+	GetHandleVerifier [0x00007FF679502153+3627347]
+	GetHandleVerifier [0x00007FF67926092A+868650]
+	(No symbol) [0x00007FF679102FFF]
+	(No symbol) [0x00007FF6790FF4A4]
+	(No symbol) [0x00007FF6790FF646]
+	(No symbol) [0x00007FF6790EEAA9]
+	BaseThreadInitThunk [0x00007FF9EA907374+20]
+	RtlUserThreadStart [0x00007FF9EBEBCC91+33]
+
+2025-04-04 00:42:03,172 [ERROR] The Pretty Bee: Failed to fetch page https://theprettybee.com/category/main-dishes/: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF679494C25+3179557]
+	(No symbol) [0x00007FF6790F88A0]
+	(No symbol) [0x00007FF678F891CA]
+	(No symbol) [0x00007FF678FDFA67]
+	(No symbol) [0x00007FF678FDFC9C]
+	(No symbol) [0x00007FF679033627]
+	(No symbol) [0x00007FF679007C6F]
+	(No symbol) [0x00007FF6790302F3]
+	(No symbol) [0x00007FF679007A03]
+	(No symbol) [0x00007FF678FD06D0]
+	(No symbol) [0x00007FF678FD1983]
+	GetHandleVerifier [0x00007FF6794F67CD+3579853]
+	GetHandleVerifier [0x00007FF67950D1D2+3672530]
+	GetHandleVerifier [0x00007FF679502153+3627347]
+	GetHandleVerifier [0x00007FF67926092A+868650]
+	(No symbol) [0x00007FF679102FFF]
+	(No symbol) [0x00007FF6790FF4A4]
+	(No symbol) [0x00007FF6790FF646]
+	(No symbol) [0x00007FF6790EEAA9]
+	BaseThreadInitThunk [0x00007FF9EA907374+20]
+	RtlUserThreadStart [0x00007FF9EBEBCC91+33]
+
+2025-04-04 00:42:03,173 [INFO] The Pretty Bee: Found 30 unique recipe links for site 'The Pretty Bee'.
+2025-04-04 00:42:03,173 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/easy-lentil-potato-curry/
+2025-04-04 00:42:05,873 [INFO] The Pretty Bee: Saved recipe: 'Easy Lentil Potato Curry (Vegan, Gluten Free).' (URL: https://theprettybee.com/easy-lentil-potato-curry/)
+2025-04-04 00:42:05,873 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/slow-cooker-chicken-stew/
+2025-04-04 00:42:09,616 [INFO] The Pretty Bee: Saved recipe: 'Slow Cooker Chicken Stew.' (URL: https://theprettybee.com/slow-cooker-chicken-stew/)
+2025-04-04 00:42:09,616 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/slow-cooker-lamb-soup/
+2025-04-04 00:42:12,973 [INFO] The Pretty Bee: Saved recipe: 'Slow Cooker Lamb Soup.' (URL: https://theprettybee.com/slow-cooker-lamb-soup/)
+2025-04-04 00:42:12,973 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/giant-chocolate-chip-cookie/
+2025-04-04 00:42:17,317 [INFO] The Pretty Bee: Saved recipe: 'Giant Chocolate Chip Cookie (Gluten Free, Vegan).' (URL: https://theprettybee.com/giant-chocolate-chip-cookie/)
+2025-04-04 00:42:17,318 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/24-amazing-eggless-cookie-recipes/
+2025-04-04 00:42:21,448 [INFO] The Pretty Bee: Saved recipe: '24 Amazing Eggless Cookie Recipes You’ll Love Baking.' (URL: https://theprettybee.com/24-amazing-eggless-cookie-recipes/)
+2025-04-04 00:42:21,448 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/easy-gluten-free-gravy/
+2025-04-04 00:42:25,584 [INFO] The Pretty Bee: Saved recipe: 'The Easiest Gluten Free Gravy Recipe (Dairy Free).' (URL: https://theprettybee.com/easy-gluten-free-gravy/)
+2025-04-04 00:42:25,584 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/carrot-cake-cream-cheese-frosting-gluten-free-vegan/
+2025-04-04 00:42:30,885 [INFO] The Pretty Bee: Saved recipe: 'Gluten Free Vegan Carrot Cake with Cream Cheese Frosting.' (URL: https://theprettybee.com/carrot-cake-cream-cheese-frosting-gluten-free-vegan/)
+2025-04-04 00:42:30,885 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/chocolate-caramel-easter-eggs-dairy-free/
+2025-04-04 00:42:36,081 [INFO] The Pretty Bee: Saved recipe: 'Chocolate Caramel Easter Eggs (Dairy Free).' (URL: https://theprettybee.com/chocolate-caramel-easter-eggs-dairy-free/)
+2025-04-04 00:42:36,081 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/easter-bunny-cupcakes/
+2025-04-04 00:42:48,663 [INFO] The Pretty Bee: Saved recipe: 'Easter Bunny Cupcakes (Gluten Free, Vegan).' (URL: https://theprettybee.com/easter-bunny-cupcakes/)
+2025-04-04 00:42:48,664 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/easter-bunny-cut-sugar-cookies-gluten-free-vegan/
+2025-04-04 00:42:51,665 [INFO] The Pretty Bee: Saved recipe: 'Easter Bunny Cut Out Sugar Cookies (Gluten Free and Vegan).' (URL: https://theprettybee.com/easter-bunny-cut-sugar-cookies-gluten-free-vegan/)
+2025-04-04 00:42:51,665 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/cheesy-hamburger-rice-casserole/
+2025-04-04 00:42:55,847 [INFO] The Pretty Bee: Saved recipe: 'Cheesy Hamburger Rice Casserole (Gluten Free, Dairy Free).' (URL: https://theprettybee.com/cheesy-hamburger-rice-casserole/)
+2025-04-04 00:42:55,847 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/one-pot-chicken-mushroom-rice/
+2025-04-04 00:42:59,824 [INFO] The Pretty Bee: Saved recipe: 'One Pot Chicken Mushroom Rice (Dairy Free, Gluten Free).' (URL: https://theprettybee.com/one-pot-chicken-mushroom-rice/)
+2025-04-04 00:42:59,825 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/creamy-noodles-tuna-cheese-sauce-df-gf/
+2025-04-04 00:43:03,942 [INFO] The Pretty Bee: Saved recipe: 'Creamy Tuna Noodles (Gluten Free, Dairy Free).' (URL: https://theprettybee.com/creamy-noodles-tuna-cheese-sauce-df-gf/)
+2025-04-04 00:43:03,942 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/seasoned-roasted-cauliflower/
+2025-04-04 00:43:09,159 [INFO] The Pretty Bee: Saved recipe: 'The Best Seasoned Roasted Cauliflower.' (URL: https://theprettybee.com/seasoned-roasted-cauliflower/)
+2025-04-04 00:43:09,159 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/double-chocolate-chip-banana-cake/
+2025-04-04 00:43:14,498 [INFO] The Pretty Bee: Saved recipe: 'Double Chocolate Chip Banana Cake (Gluten Free, Vegan).' (URL: https://theprettybee.com/double-chocolate-chip-banana-cake/)
+2025-04-04 00:43:14,498 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/strawberry-snowball-cookies-gluten-free-vegan/
+2025-04-04 00:43:18,243 [INFO] The Pretty Bee: Saved recipe: 'Strawberry Snowball Cookies (Gluten Free, Vegan).' (URL: https://theprettybee.com/strawberry-snowball-cookies-gluten-free-vegan/)
+2025-04-04 00:43:18,243 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/dairy-free-buttercream-frosting/
+2025-04-04 00:43:23,008 [INFO] The Pretty Bee: Saved recipe: 'The Very Best Dairy Free Buttercream Frosting.' (URL: https://theprettybee.com/dairy-free-buttercream-frosting/)
+2025-04-04 00:43:23,008 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/gluten-free-scalloped-potatoes-dairy-free/
+2025-04-04 00:43:28,127 [INFO] The Pretty Bee: Saved recipe: 'Gluten Free Scalloped Potatoes (Dairy Free).' (URL: https://theprettybee.com/gluten-free-scalloped-potatoes-dairy-free/)
+2025-04-04 00:43:28,127 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/taco-seasoning/
+2025-04-04 00:43:33,724 [INFO] The Pretty Bee: Saved recipe: 'Chicken Tacos with Homemade Taco Seasoning.' (URL: https://theprettybee.com/taco-seasoning/)
+2025-04-04 00:43:33,724 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/banana-oatmeal-muffins-vegan-and-gluten-free/
+2025-04-04 00:43:40,175 [INFO] The Pretty Bee: Saved recipe: 'Banana Oatmeal Muffins (Vegan and Gluten Free).' (URL: https://theprettybee.com/banana-oatmeal-muffins-vegan-and-gluten-free/)
+2025-04-04 00:43:40,175 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/carrot-cake-oatmeal-cookies/
+2025-04-04 00:43:44,456 [INFO] The Pretty Bee: Saved recipe: 'Carrot Cake Oatmeal Cookies (Gluten Free, Vegan).' (URL: https://theprettybee.com/carrot-cake-oatmeal-cookies/)
+2025-04-04 00:43:44,456 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/chicken-salad-with-grapes/
+2025-04-04 00:43:56,728 [INFO] The Pretty Bee: Saved recipe: 'Super Simple Chicken Salad with Grapes.' (URL: https://theprettybee.com/chicken-salad-with-grapes/)
+2025-04-04 00:43:56,728 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/simple-meatballs-gluten-free-dairy-free/
+2025-04-04 00:44:03,849 [INFO] The Pretty Bee: Saved recipe: 'Simple Meatballs (Gluten Free, Dairy Free).' (URL: https://theprettybee.com/simple-meatballs-gluten-free-dairy-free/)
+2025-04-04 00:44:03,849 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/3-ingredient-dairy-free-fudge/
+2025-04-04 00:44:08,053 [INFO] The Pretty Bee: Saved recipe: '3 Ingredient Dairy Free Fudge.' (URL: https://theprettybee.com/3-ingredient-dairy-free-fudge/)
+2025-04-04 00:44:08,053 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/perfectly-seasoned-roasted-potatoes/
+2025-04-04 00:44:14,261 [INFO] The Pretty Bee: Saved recipe: 'Perfectly Seasoned Roasted Potatoes.' (URL: https://theprettybee.com/perfectly-seasoned-roasted-potatoes/)
+2025-04-04 00:44:14,261 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/slow-cooker-lentil-curry/
+2025-04-04 00:44:17,826 [INFO] The Pretty Bee: Saved recipe: 'Slow Cooker Lentil Curry.' (URL: https://theprettybee.com/slow-cooker-lentil-curry/)
+2025-04-04 00:44:17,826 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/homemade-chicken-noodle-soup/
+2025-04-04 00:44:28,102 [INFO] The Pretty Bee: Saved recipe: 'Homemade Gluten Free Chicken Noodle Soup.' (URL: https://theprettybee.com/homemade-chicken-noodle-soup/)
+2025-04-04 00:44:28,102 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/saucy-beef-and-bean-enchiladas/
+2025-04-04 00:44:36,059 [INFO] The Pretty Bee: Saved recipe: 'Saucy Beef and Bean Enchiladas (Gluten Free, Dairy Free).' (URL: https://theprettybee.com/saucy-beef-and-bean-enchiladas/)
+2025-04-04 00:44:36,059 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/sprinkle-slice-and-bake-shortbread/
+2025-04-04 00:44:44,388 [INFO] The Pretty Bee: Saved recipe: 'Sprinkle Slice and Bake Shortbread (Gluten Free, Vegan).' (URL: https://theprettybee.com/sprinkle-slice-and-bake-shortbread/)
+2025-04-04 00:44:44,388 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/homemade-hamburger-helper-gluten-free-dairy-free/
+2025-04-04 00:44:55,240 [INFO] The Pretty Bee: Saved recipe: 'Homemade Hamburger Helper (Gluten Free, Dairy Free).' (URL: https://theprettybee.com/homemade-hamburger-helper-gluten-free-dairy-free/)
+2025-04-04 00:44:57,708 [INFO] The Pretty Bee: Scraper finished for site: The Pretty Bee
+2025-04-04 00:46:28,263 [INFO] The Pretty Bee: Database connection established successfully.
+2025-04-04 00:46:28,264 [INFO] The Pretty Bee: Initialized scraper for site: The Pretty Bee
+2025-04-04 00:46:28,264 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/
+2025-04-04 00:46:29,670 [INFO] The Pretty Bee: Found 0 unique recipe links for site 'The Pretty Bee'.
+2025-04-04 00:46:29,671 [INFO] The Pretty Bee: Scraper finished for site: The Pretty Bee
+2025-04-04 00:53:22,582 [INFO] The Pretty Bee: Database connection established successfully.
+2025-04-04 00:53:22,582 [INFO] The Pretty Bee: Initialized scraper for site: The Pretty Bee
+2025-04-04 00:53:22,583 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/category/main-dishes/
+2025-04-04 00:53:24,742 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/category/main-dishes/page/2/
+2025-04-04 00:53:25,907 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/category/main-dishes/page/3/
+2025-04-04 00:53:28,958 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/category/main-dishes/page/4/
+2025-04-04 00:53:30,288 [INFO] The Pretty Bee: Found 8 unique recipe links for site 'The Pretty Bee'.
+2025-04-04 00:53:30,288 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/carrot-cake-cream-cheese-frosting-gluten-free-vegan/
+2025-04-04 00:53:30,990 [ERROR] The Pretty Bee: Database error saving recipe from https://theprettybee.com/carrot-cake-cream-cheese-frosting-gluten-free-vegan/: A string literal cannot contain NUL (0x00) characters.
+2025-04-04 00:53:30,991 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/chocolate-caramel-easter-eggs-dairy-free/
+2025-04-04 00:53:31,609 [ERROR] The Pretty Bee: Database error saving recipe from https://theprettybee.com/chocolate-caramel-easter-eggs-dairy-free/: A string literal cannot contain NUL (0x00) characters.
+2025-04-04 00:53:31,609 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/easter-bunny-cut-sugar-cookies-gluten-free-vegan/
+2025-04-04 00:53:32,226 [ERROR] The Pretty Bee: Database error saving recipe from https://theprettybee.com/easter-bunny-cut-sugar-cookies-gluten-free-vegan/: A string literal cannot contain NUL (0x00) characters.
+2025-04-04 00:53:32,227 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/carrot-cake-oatmeal-cookies/
+2025-04-04 00:53:32,743 [ERROR] The Pretty Bee: Database error saving recipe from https://theprettybee.com/carrot-cake-oatmeal-cookies/: A string literal cannot contain NUL (0x00) characters.
+2025-04-04 00:53:32,743 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/seasoned-roasted-cauliflower/
+2025-04-04 00:53:33,761 [INFO] The Pretty Bee: Saved recipe: 'The Best Seasoned Roasted Cauliflower.' (URL: https://theprettybee.com/seasoned-roasted-cauliflower/)
+2025-04-04 00:53:33,761 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/easy-gluten-free-gravy/
+2025-04-04 00:53:34,799 [INFO] The Pretty Bee: Saved recipe: 'The Easiest Gluten Free Gravy Recipe (Dairy Free).' (URL: https://theprettybee.com/easy-gluten-free-gravy/)
+2025-04-04 00:53:34,799 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/dairy-free-buttercream-frosting/
+2025-04-04 00:53:35,507 [ERROR] The Pretty Bee: Database error saving recipe from https://theprettybee.com/dairy-free-buttercream-frosting/: A string literal cannot contain NUL (0x00) characters.
+2025-04-04 00:53:35,507 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/perfectly-seasoned-roasted-potatoes/
+2025-04-04 00:53:36,132 [ERROR] The Pretty Bee: Error on link https://theprettybee.com/perfectly-seasoned-roasted-potatoes/: The markup you provided was rejected by the parser. Trying a different parser or a different encoding may help.
+
+Original exception(s) from parser:
+ AssertionError: expected name token at '<![\ufffd<\ufffd}\ufffd\ufffd\ufffd9{\ufffdI\ufffdaU\x16\ufffd\ufffd'
+2025-04-04 00:53:36,138 [INFO] The Pretty Bee: Scraper finished for site: The Pretty Bee
+2025-04-04 01:05:44,278 [INFO] The Pretty Bee: Database connection established successfully.
+2025-04-04 01:05:44,279 [INFO] The Pretty Bee: Initialized scraper for site: The Pretty Bee
+2025-04-04 01:05:44,279 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/category/main-dishes/
+2025-04-04 01:05:45,929 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/category/main-dishes/page/2/
+2025-04-04 01:05:46,319 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/category/main-dishes/page/3/
+2025-04-04 01:05:47,137 [ERROR] The Pretty Bee: Requests failed to load: https://theprettybee.com/category/main-dishes/page/3/ | Error: 403 Client Error: Forbidden for url: https://theprettybee.com/category/main-dishes/page/3/
+2025-04-04 01:05:47,138 [ERROR] The Pretty Bee: Failed to fetch page https://theprettybee.com/category/main-dishes/page/3/: 403 Client Error: Forbidden for url: https://theprettybee.com/category/main-dishes/page/3/
+2025-04-04 01:05:47,138 [INFO] The Pretty Bee: Found 80 unique recipe links for site 'The Pretty Bee'.
+2025-04-04 01:05:47,138 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/mujadara-lentils-and-rice/
+2025-04-04 01:05:47,647 [ERROR] The Pretty Bee: Database error saving recipe from https://theprettybee.com/mujadara-lentils-and-rice/: A string literal cannot contain NUL (0x00) characters.
+2025-04-04 01:05:47,647 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/easy-skillet-chicken-and-rice/
+2025-04-04 01:05:48,556 [ERROR] The Pretty Bee: Requests failed to load: https://theprettybee.com/easy-skillet-chicken-and-rice/ | Error: 403 Client Error: Forbidden for url: https://theprettybee.com/easy-skillet-chicken-and-rice/
+2025-04-04 01:05:48,557 [ERROR] The Pretty Bee: Error on link https://theprettybee.com/easy-skillet-chicken-and-rice/: 403 Client Error: Forbidden for url: https://theprettybee.com/easy-skillet-chicken-and-rice/
+2025-04-04 01:05:48,557 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/vegan-white-bean-quinoa-chili/
+2025-04-04 01:05:49,286 [ERROR] The Pretty Bee: Requests failed to load: https://theprettybee.com/vegan-white-bean-quinoa-chili/ | Error: 403 Client Error: Forbidden for url: https://theprettybee.com/vegan-white-bean-quinoa-chili/
+2025-04-04 01:05:49,286 [ERROR] The Pretty Bee: Error on link https://theprettybee.com/vegan-white-bean-quinoa-chili/: 403 Client Error: Forbidden for url: https://theprettybee.com/vegan-white-bean-quinoa-chili/
+2025-04-04 01:05:49,286 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/sheet-pan-chicken-thighs/
+2025-04-04 01:05:49,887 [ERROR] The Pretty Bee: Requests failed to load: https://theprettybee.com/sheet-pan-chicken-thighs/ | Error: 403 Client Error: Forbidden for url: https://theprettybee.com/sheet-pan-chicken-thighs/
+2025-04-04 01:05:49,888 [ERROR] The Pretty Bee: Error on link https://theprettybee.com/sheet-pan-chicken-thighs/: 403 Client Error: Forbidden for url: https://theprettybee.com/sheet-pan-chicken-thighs/
+2025-04-04 01:05:49,888 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/garlic-shrimp-and-fresh-tomato-pasta/
+2025-04-04 01:05:50,606 [ERROR] The Pretty Bee: Requests failed to load: https://theprettybee.com/garlic-shrimp-and-fresh-tomato-pasta/ | Error: 403 Client Error: Forbidden for url: https://theprettybee.com/garlic-shrimp-and-fresh-tomato-pasta/
+2025-04-04 01:05:50,606 [ERROR] The Pretty Bee: Error on link https://theprettybee.com/garlic-shrimp-and-fresh-tomato-pasta/: 403 Client Error: Forbidden for url: https://theprettybee.com/garlic-shrimp-and-fresh-tomato-pasta/
+2025-04-04 01:05:50,606 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/vegan-sloppy-joes/
+2025-04-04 01:05:51,030 [ERROR] The Pretty Bee: Database error saving recipe from https://theprettybee.com/vegan-sloppy-joes/: A string literal cannot contain NUL (0x00) characters.
+2025-04-04 01:05:51,030 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/gift-jar-homemade-taco-seasoning/
+2025-04-04 01:05:52,038 [ERROR] The Pretty Bee: Requests failed to load: https://theprettybee.com/gift-jar-homemade-taco-seasoning/ | Error: 403 Client Error: Forbidden for url: https://theprettybee.com/gift-jar-homemade-taco-seasoning/
+2025-04-04 01:05:52,038 [ERROR] The Pretty Bee: Error on link https://theprettybee.com/gift-jar-homemade-taco-seasoning/: 403 Client Error: Forbidden for url: https://theprettybee.com/gift-jar-homemade-taco-seasoning/
+2025-04-04 01:05:52,039 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/dairy-free-philly-cheesesteak/
+2025-04-04 01:05:52,858 [ERROR] The Pretty Bee: Requests failed to load: https://theprettybee.com/dairy-free-philly-cheesesteak/ | Error: 403 Client Error: Forbidden for url: https://theprettybee.com/dairy-free-philly-cheesesteak/
+2025-04-04 01:05:52,858 [ERROR] The Pretty Bee: Error on link https://theprettybee.com/dairy-free-philly-cheesesteak/: 403 Client Error: Forbidden for url: https://theprettybee.com/dairy-free-philly-cheesesteak/
+2025-04-04 01:05:52,858 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/allergy-friendly-thanksgiving-recipes/
+2025-04-04 01:05:53,574 [ERROR] The Pretty Bee: Requests failed to load: https://theprettybee.com/allergy-friendly-thanksgiving-recipes/ | Error: 403 Client Error: Forbidden for url: https://theprettybee.com/allergy-friendly-thanksgiving-recipes/
+2025-04-04 01:05:53,574 [ERROR] The Pretty Bee: Error on link https://theprettybee.com/allergy-friendly-thanksgiving-recipes/: 403 Client Error: Forbidden for url: https://theprettybee.com/allergy-friendly-thanksgiving-recipes/
+2025-04-04 01:05:53,574 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/dairy-free-beef-stroganoff/
+2025-04-04 01:05:54,266 [INFO] The Pretty Bee: Saved recipe: 'Dairy Free Ground Beef Stroganoff.' (URL: https://theprettybee.com/dairy-free-beef-stroganoff/)
+2025-04-04 01:05:54,267 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/chicken-salad-sandwiches/
+2025-04-04 01:05:55,110 [ERROR] The Pretty Bee: Requests failed to load: https://theprettybee.com/chicken-salad-sandwiches/ | Error: 403 Client Error: Forbidden for url: https://theprettybee.com/chicken-salad-sandwiches/
+2025-04-04 01:05:55,110 [ERROR] The Pretty Bee: Error on link https://theprettybee.com/chicken-salad-sandwiches/: 403 Client Error: Forbidden for url: https://theprettybee.com/chicken-salad-sandwiches/
+2025-04-04 01:05:55,110 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/cheesy-vegan-quesadillas/
+2025-04-04 01:05:55,724 [ERROR] The Pretty Bee: Requests failed to load: https://theprettybee.com/cheesy-vegan-quesadillas/ | Error: 403 Client Error: Forbidden for url: https://theprettybee.com/cheesy-vegan-quesadillas/
+2025-04-04 01:05:55,725 [ERROR] The Pretty Bee: Error on link https://theprettybee.com/cheesy-vegan-quesadillas/: 403 Client Error: Forbidden for url: https://theprettybee.com/cheesy-vegan-quesadillas/
+2025-04-04 01:05:55,725 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/gluten-free-turkey-meatloaf/
+2025-04-04 01:05:56,545 [ERROR] The Pretty Bee: Requests failed to load: https://theprettybee.com/gluten-free-turkey-meatloaf/ | Error: 403 Client Error: Forbidden for url: https://theprettybee.com/gluten-free-turkey-meatloaf/
+2025-04-04 01:05:56,545 [ERROR] The Pretty Bee: Error on link https://theprettybee.com/gluten-free-turkey-meatloaf/: 403 Client Error: Forbidden for url: https://theprettybee.com/gluten-free-turkey-meatloaf/
+2025-04-04 01:05:56,545 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/creamy-chicken-casserole-with-kale/
+2025-04-04 01:05:57,317 [INFO] The Pretty Bee: Saved recipe: 'Creamy Chicken Casserole with Kale (Gluten Free, Dairy Free).' (URL: https://theprettybee.com/creamy-chicken-casserole-with-kale/)
+2025-04-04 01:05:57,318 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/slow-cooker-cowboy-beans-gluten-free-dairy-free/
+2025-04-04 01:05:57,957 [ERROR] The Pretty Bee: Database error saving recipe from https://theprettybee.com/slow-cooker-cowboy-beans-gluten-free-dairy-free/: A string literal cannot contain NUL (0x00) characters.
+2025-04-04 01:05:57,958 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/top-9-allergen-free-meal-plan/
+2025-04-04 01:05:58,533 [ERROR] The Pretty Bee: Requests failed to load: https://theprettybee.com/top-9-allergen-free-meal-plan/ | Error: 403 Client Error: Forbidden for url: https://theprettybee.com/top-9-allergen-free-meal-plan/
+2025-04-04 01:05:58,533 [ERROR] The Pretty Bee: Error on link https://theprettybee.com/top-9-allergen-free-meal-plan/: 403 Client Error: Forbidden for url: https://theprettybee.com/top-9-allergen-free-meal-plan/
+2025-04-04 01:05:58,533 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/homemade-chicken-noodle-soup/
+2025-04-04 01:05:59,200 [ERROR] The Pretty Bee: Database error saving recipe from https://theprettybee.com/homemade-chicken-noodle-soup/: A string literal cannot contain NUL (0x00) characters.
+2025-04-04 01:05:59,200 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/sloppy-joes/
+2025-04-04 01:06:00,025 [ERROR] The Pretty Bee: Requests failed to load: https://theprettybee.com/sloppy-joes/ | Error: 403 Client Error: Forbidden for url: https://theprettybee.com/sloppy-joes/
+2025-04-04 01:06:00,026 [ERROR] The Pretty Bee: Error on link https://theprettybee.com/sloppy-joes/: 403 Client Error: Forbidden for url: https://theprettybee.com/sloppy-joes/
+2025-04-04 01:06:00,026 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/slow-cooker-lentil-curry/
+2025-04-04 01:06:00,885 [ERROR] The Pretty Bee: Database error saving recipe from https://theprettybee.com/slow-cooker-lentil-curry/: A string literal cannot contain NUL (0x00) characters.
+2025-04-04 01:06:00,885 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/no-bean-beef-chili/
+2025-04-04 01:06:01,413 [ERROR] The Pretty Bee: Database error saving recipe from https://theprettybee.com/no-bean-beef-chili/: A string literal cannot contain NUL (0x00) characters.
+2025-04-04 01:06:01,413 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/carrot-noodles/
+2025-04-04 01:06:02,278 [ERROR] The Pretty Bee: Requests failed to load: https://theprettybee.com/carrot-noodles/ | Error: 403 Client Error: Forbidden for url: https://theprettybee.com/carrot-noodles/
+2025-04-04 01:06:02,278 [ERROR] The Pretty Bee: Error on link https://theprettybee.com/carrot-noodles/: 403 Client Error: Forbidden for url: https://theprettybee.com/carrot-noodles/
+2025-04-04 01:06:02,278 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/simple-meatballs-gluten-free-dairy-free/
+2025-04-04 01:06:02,952 [ERROR] The Pretty Bee: Database error saving recipe from https://theprettybee.com/simple-meatballs-gluten-free-dairy-free/: A string literal cannot contain NUL (0x00) characters.
+2025-04-04 01:06:02,952 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/20-easy-gluten-free-dinner-recipes/
+2025-04-04 01:06:03,542 [ERROR] The Pretty Bee: Database error saving recipe from https://theprettybee.com/20-easy-gluten-free-dinner-recipes/: A string literal cannot contain NUL (0x00) characters.
+2025-04-04 01:06:03,542 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/sweet-baked-bean-turkey-chili/
+2025-04-04 01:06:04,369 [ERROR] The Pretty Bee: Requests failed to load: https://theprettybee.com/sweet-baked-bean-turkey-chili/ | Error: 403 Client Error: Forbidden for url: https://theprettybee.com/sweet-baked-bean-turkey-chili/
+2025-04-04 01:06:04,369 [ERROR] The Pretty Bee: Error on link https://theprettybee.com/sweet-baked-bean-turkey-chili/: 403 Client Error: Forbidden for url: https://theprettybee.com/sweet-baked-bean-turkey-chili/
+2025-04-04 01:06:04,369 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/kid-friendly-gluten-free-meals/
+2025-04-04 01:06:05,145 [ERROR] The Pretty Bee: Requests failed to load: https://theprettybee.com/kid-friendly-gluten-free-meals/ | Error: 403 Client Error: Forbidden for url: https://theprettybee.com/kid-friendly-gluten-free-meals/
+2025-04-04 01:06:05,145 [ERROR] The Pretty Bee: Error on link https://theprettybee.com/kid-friendly-gluten-free-meals/: 403 Client Error: Forbidden for url: https://theprettybee.com/kid-friendly-gluten-free-meals/
+2025-04-04 01:06:05,145 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/creamy-garlic-pasta-with-chicken-meatballs/
+2025-04-04 01:06:05,964 [ERROR] The Pretty Bee: Requests failed to load: https://theprettybee.com/creamy-garlic-pasta-with-chicken-meatballs/ | Error: 403 Client Error: Forbidden for url: https://theprettybee.com/creamy-garlic-pasta-with-chicken-meatballs/
+2025-04-04 01:06:05,965 [ERROR] The Pretty Bee: Error on link https://theprettybee.com/creamy-garlic-pasta-with-chicken-meatballs/: 403 Client Error: Forbidden for url: https://theprettybee.com/creamy-garlic-pasta-with-chicken-meatballs/
+2025-04-04 01:06:05,965 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/saucy-beef-and-bean-enchiladas/
+2025-04-04 01:06:06,554 [ERROR] The Pretty Bee: Database error saving recipe from https://theprettybee.com/saucy-beef-and-bean-enchiladas/: A string literal cannot contain NUL (0x00) characters.
+2025-04-04 01:06:06,554 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/creamy-orzo-buttered-breadcrumbs-mushrooms/
+2025-04-04 01:06:07,402 [ERROR] The Pretty Bee: Requests failed to load: https://theprettybee.com/creamy-orzo-buttered-breadcrumbs-mushrooms/ | Error: 403 Client Error: Forbidden for url: https://theprettybee.com/creamy-orzo-buttered-breadcrumbs-mushrooms/
+2025-04-04 01:06:07,403 [ERROR] The Pretty Bee: Error on link https://theprettybee.com/creamy-orzo-buttered-breadcrumbs-mushrooms/: 403 Client Error: Forbidden for url: https://theprettybee.com/creamy-orzo-buttered-breadcrumbs-mushrooms/
+2025-04-04 01:06:07,403 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/comfort-food-shepherds-pie/
+2025-04-04 01:06:08,217 [ERROR] The Pretty Bee: Requests failed to load: https://theprettybee.com/comfort-food-shepherds-pie/ | Error: 403 Client Error: Forbidden for url: https://theprettybee.com/comfort-food-shepherds-pie/
+2025-04-04 01:06:08,217 [ERROR] The Pretty Bee: Error on link https://theprettybee.com/comfort-food-shepherds-pie/: 403 Client Error: Forbidden for url: https://theprettybee.com/comfort-food-shepherds-pie/
+2025-04-04 01:06:08,217 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/homemade-hamburger-helper-gluten-free-dairy-free/
+2025-04-04 01:06:08,897 [ERROR] The Pretty Bee: Database error saving recipe from https://theprettybee.com/homemade-hamburger-helper-gluten-free-dairy-free/: A string literal cannot contain NUL (0x00) characters.
+2025-04-04 01:06:08,897 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/lemon-pasta-with-chicken-and-peas/
+2025-04-04 01:06:10,879 [ERROR] The Pretty Bee: Requests failed to load: https://theprettybee.com/lemon-pasta-with-chicken-and-peas/ | Error: 403 Client Error: Forbidden for url: https://theprettybee.com/lemon-pasta-with-chicken-and-peas/
+2025-04-04 01:06:10,880 [ERROR] The Pretty Bee: Error on link https://theprettybee.com/lemon-pasta-with-chicken-and-peas/: 403 Client Error: Forbidden for url: https://theprettybee.com/lemon-pasta-with-chicken-and-peas/
+2025-04-04 01:06:10,880 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/black-bean-sweet-potato-turkey-chili/
+2025-04-04 01:06:12,108 [ERROR] The Pretty Bee: Requests failed to load: https://theprettybee.com/black-bean-sweet-potato-turkey-chili/ | Error: 403 Client Error: Forbidden for url: https://theprettybee.com/black-bean-sweet-potato-turkey-chili/
+2025-04-04 01:06:12,108 [ERROR] The Pretty Bee: Error on link https://theprettybee.com/black-bean-sweet-potato-turkey-chili/: 403 Client Error: Forbidden for url: https://theprettybee.com/black-bean-sweet-potato-turkey-chili/
+2025-04-04 01:06:12,108 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/gluten-free-dairy-free-chicken-enchiladas/
+2025-04-04 01:06:13,132 [ERROR] The Pretty Bee: Requests failed to load: https://theprettybee.com/gluten-free-dairy-free-chicken-enchiladas/ | Error: 403 Client Error: Forbidden for url: https://theprettybee.com/gluten-free-dairy-free-chicken-enchiladas/
+2025-04-04 01:06:13,132 [ERROR] The Pretty Bee: Error on link https://theprettybee.com/gluten-free-dairy-free-chicken-enchiladas/: 403 Client Error: Forbidden for url: https://theprettybee.com/gluten-free-dairy-free-chicken-enchiladas/
+2025-04-04 01:06:13,133 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/classic-gluten-free-meatloaf/
+2025-04-04 01:06:14,054 [ERROR] The Pretty Bee: Requests failed to load: https://theprettybee.com/classic-gluten-free-meatloaf/ | Error: 403 Client Error: Forbidden for url: https://theprettybee.com/classic-gluten-free-meatloaf/
+2025-04-04 01:06:14,054 [ERROR] The Pretty Bee: Error on link https://theprettybee.com/classic-gluten-free-meatloaf/: 403 Client Error: Forbidden for url: https://theprettybee.com/classic-gluten-free-meatloaf/
+2025-04-04 01:06:14,054 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/slow-cooker-lamb-soup/
+2025-04-04 01:06:14,935 [ERROR] The Pretty Bee: Database error saving recipe from https://theprettybee.com/slow-cooker-lamb-soup/: A string literal cannot contain NUL (0x00) characters.
+2025-04-04 01:06:14,936 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/pumpkin-chili/
+2025-04-04 01:06:15,591 [ERROR] The Pretty Bee: Requests failed to load: https://theprettybee.com/pumpkin-chili/ | Error: 403 Client Error: Forbidden for url: https://theprettybee.com/pumpkin-chili/
+2025-04-04 01:06:15,591 [ERROR] The Pretty Bee: Error on link https://theprettybee.com/pumpkin-chili/: 403 Client Error: Forbidden for url: https://theprettybee.com/pumpkin-chili/
+2025-04-04 01:06:15,591 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/southwestern-corn-sweet-potato-bowls/
+2025-04-04 01:06:16,714 [ERROR] The Pretty Bee: Requests failed to load: https://theprettybee.com/southwestern-corn-sweet-potato-bowls/ | Error: 403 Client Error: Forbidden for url: https://theprettybee.com/southwestern-corn-sweet-potato-bowls/
+2025-04-04 01:06:16,714 [ERROR] The Pretty Bee: Error on link https://theprettybee.com/southwestern-corn-sweet-potato-bowls/: 403 Client Error: Forbidden for url: https://theprettybee.com/southwestern-corn-sweet-potato-bowls/
+2025-04-04 01:06:16,714 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/sun-dried-tomato-pasta/
+2025-04-04 01:06:17,638 [ERROR] The Pretty Bee: Requests failed to load: https://theprettybee.com/sun-dried-tomato-pasta/ | Error: 403 Client Error: Forbidden for url: https://theprettybee.com/sun-dried-tomato-pasta/
+2025-04-04 01:06:17,638 [ERROR] The Pretty Bee: Error on link https://theprettybee.com/sun-dried-tomato-pasta/: 403 Client Error: Forbidden for url: https://theprettybee.com/sun-dried-tomato-pasta/
+2025-04-04 01:06:17,638 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/pasta-with-creamy-sun-dried-tomato-and-mushroom-sauce/
+2025-04-04 01:06:18,457 [ERROR] The Pretty Bee: Requests failed to load: https://theprettybee.com/pasta-with-creamy-sun-dried-tomato-and-mushroom-sauce/ | Error: 403 Client Error: Forbidden for url: https://theprettybee.com/pasta-with-creamy-sun-dried-tomato-and-mushroom-sauce/
+2025-04-04 01:06:18,457 [ERROR] The Pretty Bee: Error on link https://theprettybee.com/pasta-with-creamy-sun-dried-tomato-and-mushroom-sauce/: 403 Client Error: Forbidden for url: https://theprettybee.com/pasta-with-creamy-sun-dried-tomato-and-mushroom-sauce/
+2025-04-04 01:06:18,457 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/honey-mustard-kale-salad-sausage/
+2025-04-04 01:06:19,277 [ERROR] The Pretty Bee: Requests failed to load: https://theprettybee.com/honey-mustard-kale-salad-sausage/ | Error: 403 Client Error: Forbidden for url: https://theprettybee.com/honey-mustard-kale-salad-sausage/
+2025-04-04 01:06:19,277 [ERROR] The Pretty Bee: Error on link https://theprettybee.com/honey-mustard-kale-salad-sausage/: 403 Client Error: Forbidden for url: https://theprettybee.com/honey-mustard-kale-salad-sausage/
+2025-04-04 01:06:19,277 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/mushroom-onion-vegan-quesadillas/
+2025-04-04 01:06:20,095 [ERROR] The Pretty Bee: Requests failed to load: https://theprettybee.com/mushroom-onion-vegan-quesadillas/ | Error: 403 Client Error: Forbidden for url: https://theprettybee.com/mushroom-onion-vegan-quesadillas/
+2025-04-04 01:06:20,095 [ERROR] The Pretty Bee: Error on link https://theprettybee.com/mushroom-onion-vegan-quesadillas/: 403 Client Error: Forbidden for url: https://theprettybee.com/mushroom-onion-vegan-quesadillas/
+2025-04-04 01:06:20,095 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/sweet-spicy-broccoli-red-pepper-stir-fry-quinoa/
+2025-04-04 01:06:20,920 [ERROR] The Pretty Bee: Requests failed to load: https://theprettybee.com/sweet-spicy-broccoli-red-pepper-stir-fry-quinoa/ | Error: 403 Client Error: Forbidden for url: https://theprettybee.com/sweet-spicy-broccoli-red-pepper-stir-fry-quinoa/
+2025-04-04 01:06:20,920 [ERROR] The Pretty Bee: Error on link https://theprettybee.com/sweet-spicy-broccoli-red-pepper-stir-fry-quinoa/: 403 Client Error: Forbidden for url: https://theprettybee.com/sweet-spicy-broccoli-red-pepper-stir-fry-quinoa/
+2025-04-04 01:06:20,920 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/sheet-pan-sausage-and-peppers/
+2025-04-04 01:06:21,733 [ERROR] The Pretty Bee: Requests failed to load: https://theprettybee.com/sheet-pan-sausage-and-peppers/ | Error: 403 Client Error: Forbidden for url: https://theprettybee.com/sheet-pan-sausage-and-peppers/
+2025-04-04 01:06:21,733 [ERROR] The Pretty Bee: Error on link https://theprettybee.com/sheet-pan-sausage-and-peppers/: 403 Client Error: Forbidden for url: https://theprettybee.com/sheet-pan-sausage-and-peppers/
+2025-04-04 01:06:21,733 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/barbecue-chicken-meatballs/
+2025-04-04 01:06:22,758 [ERROR] The Pretty Bee: Requests failed to load: https://theprettybee.com/barbecue-chicken-meatballs/ | Error: 403 Client Error: Forbidden for url: https://theprettybee.com/barbecue-chicken-meatballs/
+2025-04-04 01:06:22,758 [ERROR] The Pretty Bee: Error on link https://theprettybee.com/barbecue-chicken-meatballs/: 403 Client Error: Forbidden for url: https://theprettybee.com/barbecue-chicken-meatballs/
+2025-04-04 01:06:22,758 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/slow-cooker-wild-rice-sausage-soup/
+2025-04-04 01:06:23,352 [ERROR] The Pretty Bee: Requests failed to load: https://theprettybee.com/slow-cooker-wild-rice-sausage-soup/ | Error: 403 Client Error: Forbidden for url: https://theprettybee.com/slow-cooker-wild-rice-sausage-soup/
+2025-04-04 01:06:23,352 [ERROR] The Pretty Bee: Error on link https://theprettybee.com/slow-cooker-wild-rice-sausage-soup/: 403 Client Error: Forbidden for url: https://theprettybee.com/slow-cooker-wild-rice-sausage-soup/
+2025-04-04 01:06:23,352 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/easy-oven-roasted-chicken-legs/
+2025-04-04 01:06:24,395 [ERROR] The Pretty Bee: Requests failed to load: https://theprettybee.com/easy-oven-roasted-chicken-legs/ | Error: 403 Client Error: Forbidden for url: https://theprettybee.com/easy-oven-roasted-chicken-legs/
+2025-04-04 01:06:24,396 [ERROR] The Pretty Bee: Error on link https://theprettybee.com/easy-oven-roasted-chicken-legs/: 403 Client Error: Forbidden for url: https://theprettybee.com/easy-oven-roasted-chicken-legs/
+2025-04-04 01:06:24,396 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/white-bean-turkey-chili/
+2025-04-04 01:06:25,215 [ERROR] The Pretty Bee: Requests failed to load: https://theprettybee.com/white-bean-turkey-chili/ | Error: 403 Client Error: Forbidden for url: https://theprettybee.com/white-bean-turkey-chili/
+2025-04-04 01:06:25,215 [ERROR] The Pretty Bee: Error on link https://theprettybee.com/white-bean-turkey-chili/: 403 Client Error: Forbidden for url: https://theprettybee.com/white-bean-turkey-chili/
+2025-04-04 01:06:25,215 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/easy-slow-cooker-taco-chicken/
+2025-04-04 01:06:26,242 [ERROR] The Pretty Bee: Requests failed to load: https://theprettybee.com/easy-slow-cooker-taco-chicken/ | Error: 403 Client Error: Forbidden for url: https://theprettybee.com/easy-slow-cooker-taco-chicken/
+2025-04-04 01:06:26,242 [ERROR] The Pretty Bee: Error on link https://theprettybee.com/easy-slow-cooker-taco-chicken/: 403 Client Error: Forbidden for url: https://theprettybee.com/easy-slow-cooker-taco-chicken/
+2025-04-04 01:06:26,243 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/quinoa-taco-bowls/
+2025-04-04 01:06:26,917 [ERROR] The Pretty Bee: Requests failed to load: https://theprettybee.com/quinoa-taco-bowls/ | Error: 403 Client Error: Forbidden for url: https://theprettybee.com/quinoa-taco-bowls/
+2025-04-04 01:06:26,918 [ERROR] The Pretty Bee: Error on link https://theprettybee.com/quinoa-taco-bowls/: 403 Client Error: Forbidden for url: https://theprettybee.com/quinoa-taco-bowls/
+2025-04-04 01:06:26,918 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/quick-easy-turkey-tacos/
+2025-04-04 01:06:27,814 [ERROR] The Pretty Bee: Requests failed to load: https://theprettybee.com/quick-easy-turkey-tacos/ | Error: 403 Client Error: Forbidden for url: https://theprettybee.com/quick-easy-turkey-tacos/
+2025-04-04 01:06:27,814 [ERROR] The Pretty Bee: Error on link https://theprettybee.com/quick-easy-turkey-tacos/: 403 Client Error: Forbidden for url: https://theprettybee.com/quick-easy-turkey-tacos/
+2025-04-04 01:06:27,815 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/chicken-meatballs-zoodles/
+2025-04-04 01:06:28,481 [ERROR] The Pretty Bee: Database error saving recipe from https://theprettybee.com/chicken-meatballs-zoodles/: A string literal cannot contain NUL (0x00) characters.
+2025-04-04 01:06:28,482 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/slow-cooker-sweet-potato-quinoa-chili/
+2025-04-04 01:06:29,521 [ERROR] The Pretty Bee: Requests failed to load: https://theprettybee.com/slow-cooker-sweet-potato-quinoa-chili/ | Error: 403 Client Error: Forbidden for url: https://theprettybee.com/slow-cooker-sweet-potato-quinoa-chili/
+2025-04-04 01:06:29,521 [ERROR] The Pretty Bee: Error on link https://theprettybee.com/slow-cooker-sweet-potato-quinoa-chili/: 403 Client Error: Forbidden for url: https://theprettybee.com/slow-cooker-sweet-potato-quinoa-chili/
+2025-04-04 01:06:29,522 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/vegan-shepherds-pie/
+2025-04-04 01:06:30,338 [ERROR] The Pretty Bee: Requests failed to load: https://theprettybee.com/vegan-shepherds-pie/ | Error: 403 Client Error: Forbidden for url: https://theprettybee.com/vegan-shepherds-pie/
+2025-04-04 01:06:30,339 [ERROR] The Pretty Bee: Error on link https://theprettybee.com/vegan-shepherds-pie/: 403 Client Error: Forbidden for url: https://theprettybee.com/vegan-shepherds-pie/
+2025-04-04 01:06:30,340 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/easy-lentil-potato-curry/
+2025-04-04 01:06:32,021 [ERROR] The Pretty Bee: Database error saving recipe from https://theprettybee.com/easy-lentil-potato-curry/: A string literal cannot contain NUL (0x00) characters.
+2025-04-04 01:06:32,021 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/chicken-salad-with-grapes/
+2025-04-04 01:06:33,378 [ERROR] The Pretty Bee: Database error saving recipe from https://theprettybee.com/chicken-salad-with-grapes/: A string literal cannot contain NUL (0x00) characters.
+2025-04-04 01:06:33,378 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/slow-cooker-beef-stew/
+2025-04-04 01:06:34,000 [ERROR] The Pretty Bee: Requests failed to load: https://theprettybee.com/slow-cooker-beef-stew/ | Error: 403 Client Error: Forbidden for url: https://theprettybee.com/slow-cooker-beef-stew/
+2025-04-04 01:06:34,000 [ERROR] The Pretty Bee: Error on link https://theprettybee.com/slow-cooker-beef-stew/: 403 Client Error: Forbidden for url: https://theprettybee.com/slow-cooker-beef-stew/
+2025-04-04 01:06:34,000 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/all-american-vegan-recipes/
+2025-04-04 01:06:34,620 [ERROR] The Pretty Bee: Requests failed to load: https://theprettybee.com/all-american-vegan-recipes/ | Error: 403 Client Error: Forbidden for url: https://theprettybee.com/all-american-vegan-recipes/
+2025-04-04 01:06:34,620 [ERROR] The Pretty Bee: Error on link https://theprettybee.com/all-american-vegan-recipes/: 403 Client Error: Forbidden for url: https://theprettybee.com/all-american-vegan-recipes/
+2025-04-04 01:06:34,620 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/warm-quinoa-salad/
+2025-04-04 01:06:35,220 [ERROR] The Pretty Bee: Requests failed to load: https://theprettybee.com/warm-quinoa-salad/ | Error: 403 Client Error: Forbidden for url: https://theprettybee.com/warm-quinoa-salad/
+2025-04-04 01:06:35,220 [ERROR] The Pretty Bee: Error on link https://theprettybee.com/warm-quinoa-salad/: 403 Client Error: Forbidden for url: https://theprettybee.com/warm-quinoa-salad/
+2025-04-04 01:06:35,220 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/simple-beef-broccoli-stir-fry/
+2025-04-04 01:06:35,798 [ERROR] The Pretty Bee: Requests failed to load: https://theprettybee.com/simple-beef-broccoli-stir-fry/ | Error: 403 Client Error: Forbidden for url: https://theprettybee.com/simple-beef-broccoli-stir-fry/
+2025-04-04 01:06:35,799 [ERROR] The Pretty Bee: Error on link https://theprettybee.com/simple-beef-broccoli-stir-fry/: 403 Client Error: Forbidden for url: https://theprettybee.com/simple-beef-broccoli-stir-fry/
+2025-04-04 01:06:35,799 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/spicy-stir-fried-eggplant/
+2025-04-04 01:06:36,370 [ERROR] The Pretty Bee: Requests failed to load: https://theprettybee.com/spicy-stir-fried-eggplant/ | Error: 403 Client Error: Forbidden for url: https://theprettybee.com/spicy-stir-fried-eggplant/
+2025-04-04 01:06:36,370 [ERROR] The Pretty Bee: Error on link https://theprettybee.com/spicy-stir-fried-eggplant/: 403 Client Error: Forbidden for url: https://theprettybee.com/spicy-stir-fried-eggplant/
+2025-04-04 01:06:36,370 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/creamy-noodles-tuna-cheese-sauce-df-gf/
+2025-04-04 01:06:37,466 [ERROR] The Pretty Bee: Database error saving recipe from https://theprettybee.com/creamy-noodles-tuna-cheese-sauce-df-gf/: A string literal cannot contain NUL (0x00) characters.
+2025-04-04 01:06:37,466 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/easy-vegan-meatballs/
+2025-04-04 01:06:38,033 [ERROR] The Pretty Bee: Requests failed to load: https://theprettybee.com/easy-vegan-meatballs/ | Error: 403 Client Error: Forbidden for url: https://theprettybee.com/easy-vegan-meatballs/
+2025-04-04 01:06:38,034 [ERROR] The Pretty Bee: Error on link https://theprettybee.com/easy-vegan-meatballs/: 403 Client Error: Forbidden for url: https://theprettybee.com/easy-vegan-meatballs/
+2025-04-04 01:06:38,034 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/white-chicken-chili-without-beans/
+2025-04-04 01:06:38,731 [ERROR] The Pretty Bee: Requests failed to load: https://theprettybee.com/white-chicken-chili-without-beans/ | Error: 403 Client Error: Forbidden for url: https://theprettybee.com/white-chicken-chili-without-beans/
+2025-04-04 01:06:38,732 [ERROR] The Pretty Bee: Error on link https://theprettybee.com/white-chicken-chili-without-beans/: 403 Client Error: Forbidden for url: https://theprettybee.com/white-chicken-chili-without-beans/
+2025-04-04 01:06:38,732 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/favorite-beans-and-rice/
+2025-04-04 01:06:39,762 [ERROR] The Pretty Bee: Requests failed to load: https://theprettybee.com/favorite-beans-and-rice/ | Error: 403 Client Error: Forbidden for url: https://theprettybee.com/favorite-beans-and-rice/
+2025-04-04 01:06:39,763 [ERROR] The Pretty Bee: Error on link https://theprettybee.com/favorite-beans-and-rice/: 403 Client Error: Forbidden for url: https://theprettybee.com/favorite-beans-and-rice/
+2025-04-04 01:06:39,764 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/easy-dairy-free-chicken-coconut-curry/
+2025-04-04 01:06:40,577 [ERROR] The Pretty Bee: Requests failed to load: https://theprettybee.com/easy-dairy-free-chicken-coconut-curry/ | Error: 403 Client Error: Forbidden for url: https://theprettybee.com/easy-dairy-free-chicken-coconut-curry/
+2025-04-04 01:06:40,578 [ERROR] The Pretty Bee: Error on link https://theprettybee.com/easy-dairy-free-chicken-coconut-curry/: 403 Client Error: Forbidden for url: https://theprettybee.com/easy-dairy-free-chicken-coconut-curry/
+2025-04-04 01:06:40,578 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/healthy-stuffed-sweet-potatoes-broccoli/
+2025-04-04 01:06:41,807 [ERROR] The Pretty Bee: Requests failed to load: https://theprettybee.com/healthy-stuffed-sweet-potatoes-broccoli/ | Error: 403 Client Error: Forbidden for url: https://theprettybee.com/healthy-stuffed-sweet-potatoes-broccoli/
+2025-04-04 01:06:41,808 [ERROR] The Pretty Bee: Error on link https://theprettybee.com/healthy-stuffed-sweet-potatoes-broccoli/: 403 Client Error: Forbidden for url: https://theprettybee.com/healthy-stuffed-sweet-potatoes-broccoli/
+2025-04-04 01:06:41,810 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/slow-cooker-garlic-chicken-thighs/
+2025-04-04 01:06:42,975 [ERROR] The Pretty Bee: Database error saving recipe from https://theprettybee.com/slow-cooker-garlic-chicken-thighs/: A string literal cannot contain NUL (0x00) characters.
+2025-04-04 01:06:42,975 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/cheeseburger-soup-gluten-free-dairy-free/
+2025-04-04 01:06:44,056 [ERROR] The Pretty Bee: Requests failed to load: https://theprettybee.com/cheeseburger-soup-gluten-free-dairy-free/ | Error: 403 Client Error: Forbidden for url: https://theprettybee.com/cheeseburger-soup-gluten-free-dairy-free/
+2025-04-04 01:06:44,056 [ERROR] The Pretty Bee: Error on link https://theprettybee.com/cheeseburger-soup-gluten-free-dairy-free/: 403 Client Error: Forbidden for url: https://theprettybee.com/cheeseburger-soup-gluten-free-dairy-free/
+2025-04-04 01:06:44,056 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/gluten-free-turkey-quesadillas/
+2025-04-04 01:06:44,776 [ERROR] The Pretty Bee: Requests failed to load: https://theprettybee.com/gluten-free-turkey-quesadillas/ | Error: 403 Client Error: Forbidden for url: https://theprettybee.com/gluten-free-turkey-quesadillas/
+2025-04-04 01:06:44,777 [ERROR] The Pretty Bee: Error on link https://theprettybee.com/gluten-free-turkey-quesadillas/: 403 Client Error: Forbidden for url: https://theprettybee.com/gluten-free-turkey-quesadillas/
+2025-04-04 01:06:44,778 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/delicata-squash-taco-boats/
+2025-04-04 01:06:45,391 [ERROR] The Pretty Bee: Requests failed to load: https://theprettybee.com/delicata-squash-taco-boats/ | Error: 403 Client Error: Forbidden for url: https://theprettybee.com/delicata-squash-taco-boats/
+2025-04-04 01:06:45,391 [ERROR] The Pretty Bee: Error on link https://theprettybee.com/delicata-squash-taco-boats/: 403 Client Error: Forbidden for url: https://theprettybee.com/delicata-squash-taco-boats/
+2025-04-04 01:06:45,391 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/nut-free-dairy-free-pesto/
+2025-04-04 01:06:45,963 [ERROR] The Pretty Bee: Requests failed to load: https://theprettybee.com/nut-free-dairy-free-pesto/ | Error: 403 Client Error: Forbidden for url: https://theprettybee.com/nut-free-dairy-free-pesto/
+2025-04-04 01:06:45,963 [ERROR] The Pretty Bee: Error on link https://theprettybee.com/nut-free-dairy-free-pesto/: 403 Client Error: Forbidden for url: https://theprettybee.com/nut-free-dairy-free-pesto/
+2025-04-04 01:06:45,963 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/turkey-tetrazzini/
+2025-04-04 01:06:46,616 [ERROR] The Pretty Bee: Requests failed to load: https://theprettybee.com/turkey-tetrazzini/ | Error: 403 Client Error: Forbidden for url: https://theprettybee.com/turkey-tetrazzini/
+2025-04-04 01:06:46,617 [ERROR] The Pretty Bee: Error on link https://theprettybee.com/turkey-tetrazzini/: 403 Client Error: Forbidden for url: https://theprettybee.com/turkey-tetrazzini/
+2025-04-04 01:06:46,618 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/skillet-chicken-with-quinoa-and-red-peppers/
+2025-04-04 01:06:47,860 [ERROR] The Pretty Bee: Requests failed to load: https://theprettybee.com/skillet-chicken-with-quinoa-and-red-peppers/ | Error: 403 Client Error: Forbidden for url: https://theprettybee.com/skillet-chicken-with-quinoa-and-red-peppers/
+2025-04-04 01:06:47,860 [ERROR] The Pretty Bee: Error on link https://theprettybee.com/skillet-chicken-with-quinoa-and-red-peppers/: 403 Client Error: Forbidden for url: https://theprettybee.com/skillet-chicken-with-quinoa-and-red-peppers/
+2025-04-04 01:06:47,860 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/one-pot-chicken-mushroom-rice/
+2025-04-04 01:06:48,734 [ERROR] The Pretty Bee: Database error saving recipe from https://theprettybee.com/one-pot-chicken-mushroom-rice/: A string literal cannot contain NUL (0x00) characters.
+2025-04-04 01:06:48,734 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/cheesy-hamburger-rice-casserole/
+2025-04-04 01:06:49,379 [ERROR] The Pretty Bee: Database error saving recipe from https://theprettybee.com/cheesy-hamburger-rice-casserole/: A string literal cannot contain NUL (0x00) characters.
+2025-04-04 01:06:49,380 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/stuffed-delicata-squash/
+2025-04-04 01:06:50,102 [ERROR] The Pretty Bee: Requests failed to load: https://theprettybee.com/stuffed-delicata-squash/ | Error: 403 Client Error: Forbidden for url: https://theprettybee.com/stuffed-delicata-squash/
+2025-04-04 01:06:50,102 [ERROR] The Pretty Bee: Error on link https://theprettybee.com/stuffed-delicata-squash/: 403 Client Error: Forbidden for url: https://theprettybee.com/stuffed-delicata-squash/
+2025-04-04 01:06:50,103 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/taco-seasoning/
+2025-04-04 01:06:50,790 [ERROR] The Pretty Bee: Database error saving recipe from https://theprettybee.com/taco-seasoning/: A string literal cannot contain NUL (0x00) characters.
+2025-04-04 01:06:50,791 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/roasted-red-cabbage-and-red-quinoa/
+2025-04-04 01:06:51,407 [ERROR] The Pretty Bee: Requests failed to load: https://theprettybee.com/roasted-red-cabbage-and-red-quinoa/ | Error: 403 Client Error: Forbidden for url: https://theprettybee.com/roasted-red-cabbage-and-red-quinoa/
+2025-04-04 01:06:51,408 [ERROR] The Pretty Bee: Error on link https://theprettybee.com/roasted-red-cabbage-and-red-quinoa/: 403 Client Error: Forbidden for url: https://theprettybee.com/roasted-red-cabbage-and-red-quinoa/
+2025-04-04 01:06:51,408 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/vegan-cheesy-broccoli-casserole/
+2025-04-04 01:06:52,146 [ERROR] The Pretty Bee: Requests failed to load: https://theprettybee.com/vegan-cheesy-broccoli-casserole/ | Error: 403 Client Error: Forbidden for url: https://theprettybee.com/vegan-cheesy-broccoli-casserole/
+2025-04-04 01:06:52,146 [ERROR] The Pretty Bee: Error on link https://theprettybee.com/vegan-cheesy-broccoli-casserole/: 403 Client Error: Forbidden for url: https://theprettybee.com/vegan-cheesy-broccoli-casserole/
+2025-04-04 01:06:52,147 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/for-cold-nights-curry-in-hurry/
+2025-04-04 01:06:53,070 [ERROR] The Pretty Bee: Requests failed to load: https://theprettybee.com/for-cold-nights-curry-in-hurry/ | Error: 403 Client Error: Forbidden for url: https://theprettybee.com/for-cold-nights-curry-in-hurry/
+2025-04-04 01:06:53,071 [ERROR] The Pretty Bee: Error on link https://theprettybee.com/for-cold-nights-curry-in-hurry/: 403 Client Error: Forbidden for url: https://theprettybee.com/for-cold-nights-curry-in-hurry/
+2025-04-04 01:06:53,072 [INFO] The Pretty Bee: Scraper finished for site: The Pretty Bee
+2025-04-04 01:18:49,328 [INFO] The Pretty Bee: Database connection established successfully.
+2025-04-04 01:18:49,329 [INFO] The Pretty Bee: Initialized scraper for site: The Pretty Bee
+2025-04-04 01:18:49,329 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/category/main-dishes/
+2025-04-04 01:18:51,068 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/category/main-dishes/page/2/
+2025-04-04 01:18:51,769 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/category/main-dishes/page/3/
+2025-04-04 01:18:52,718 [ERROR] The Pretty Bee: Requests failed to load: https://theprettybee.com/category/main-dishes/page/3/ | Error: 403 Client Error: Forbidden for url: https://theprettybee.com/category/main-dishes/page/3/
+2025-04-04 01:18:52,718 [ERROR] The Pretty Bee: Failed to fetch page https://theprettybee.com/category/main-dishes/page/3/: 403 Client Error: Forbidden for url: https://theprettybee.com/category/main-dishes/page/3/
+2025-04-04 01:18:52,718 [INFO] The Pretty Bee: Found 80 unique recipe links for site 'The Pretty Bee'.
+2025-04-04 01:18:52,718 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/turkey-tetrazzini/
+2025-04-04 01:18:53,741 [ERROR] The Pretty Bee: Requests failed to load: https://theprettybee.com/turkey-tetrazzini/ | Error: 403 Client Error: Forbidden for url: https://theprettybee.com/turkey-tetrazzini/
+2025-04-04 01:18:53,741 [ERROR] The Pretty Bee: Error on link https://theprettybee.com/turkey-tetrazzini/: 403 Client Error: Forbidden for url: https://theprettybee.com/turkey-tetrazzini/
+2025-04-04 01:18:53,741 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/white-bean-turkey-chili/
+2025-04-04 01:18:54,767 [ERROR] The Pretty Bee: Requests failed to load: https://theprettybee.com/white-bean-turkey-chili/ | Error: 403 Client Error: Forbidden for url: https://theprettybee.com/white-bean-turkey-chili/
+2025-04-04 01:18:54,767 [ERROR] The Pretty Bee: Error on link https://theprettybee.com/white-bean-turkey-chili/: 403 Client Error: Forbidden for url: https://theprettybee.com/white-bean-turkey-chili/
+2025-04-04 01:18:54,767 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/no-bean-beef-chili/
+2025-04-04 01:18:55,595 [ERROR] The Pretty Bee: Database error saving recipe from https://theprettybee.com/no-bean-beef-chili/: A string literal cannot contain NUL (0x00) characters.
+2025-04-04 01:18:55,595 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/cheeseburger-soup-gluten-free-dairy-free/
+2025-04-04 01:18:56,197 [ERROR] The Pretty Bee: Requests failed to load: https://theprettybee.com/cheeseburger-soup-gluten-free-dairy-free/ | Error: 403 Client Error: Forbidden for url: https://theprettybee.com/cheeseburger-soup-gluten-free-dairy-free/
+2025-04-04 01:18:56,197 [ERROR] The Pretty Bee: Error on link https://theprettybee.com/cheeseburger-soup-gluten-free-dairy-free/: 403 Client Error: Forbidden for url: https://theprettybee.com/cheeseburger-soup-gluten-free-dairy-free/
+2025-04-04 01:18:56,197 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/quinoa-taco-bowls/
+2025-04-04 01:18:56,835 [ERROR] The Pretty Bee: Requests failed to load: https://theprettybee.com/quinoa-taco-bowls/ | Error: 403 Client Error: Forbidden for url: https://theprettybee.com/quinoa-taco-bowls/
+2025-04-04 01:18:56,835 [ERROR] The Pretty Bee: Error on link https://theprettybee.com/quinoa-taco-bowls/: 403 Client Error: Forbidden for url: https://theprettybee.com/quinoa-taco-bowls/
+2025-04-04 01:18:56,836 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/pumpkin-chili/
+2025-04-04 01:18:57,455 [ERROR] The Pretty Bee: Requests failed to load: https://theprettybee.com/pumpkin-chili/ | Error: 403 Client Error: Forbidden for url: https://theprettybee.com/pumpkin-chili/
+2025-04-04 01:18:57,455 [ERROR] The Pretty Bee: Error on link https://theprettybee.com/pumpkin-chili/: 403 Client Error: Forbidden for url: https://theprettybee.com/pumpkin-chili/
+2025-04-04 01:18:57,456 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/allergy-friendly-thanksgiving-recipes/
+2025-04-04 01:18:58,023 [ERROR] The Pretty Bee: Requests failed to load: https://theprettybee.com/allergy-friendly-thanksgiving-recipes/ | Error: 403 Client Error: Forbidden for url: https://theprettybee.com/allergy-friendly-thanksgiving-recipes/
+2025-04-04 01:18:58,024 [ERROR] The Pretty Bee: Error on link https://theprettybee.com/allergy-friendly-thanksgiving-recipes/: 403 Client Error: Forbidden for url: https://theprettybee.com/allergy-friendly-thanksgiving-recipes/
+2025-04-04 01:18:58,024 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/creamy-chicken-casserole-with-kale/
+2025-04-04 01:18:58,929 [INFO] The Pretty Bee: Saved recipe: 'Creamy Chicken Casserole with Kale (Gluten Free, Dairy Free).' (URL: https://theprettybee.com/creamy-chicken-casserole-with-kale/)
+2025-04-04 01:18:58,929 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/gift-jar-homemade-taco-seasoning/
+2025-04-04 01:18:59,542 [ERROR] The Pretty Bee: Requests failed to load: https://theprettybee.com/gift-jar-homemade-taco-seasoning/ | Error: 403 Client Error: Forbidden for url: https://theprettybee.com/gift-jar-homemade-taco-seasoning/
+2025-04-04 01:18:59,542 [ERROR] The Pretty Bee: Error on link https://theprettybee.com/gift-jar-homemade-taco-seasoning/: 403 Client Error: Forbidden for url: https://theprettybee.com/gift-jar-homemade-taco-seasoning/
+2025-04-04 01:18:59,543 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/slow-cooker-garlic-chicken-thighs/
+2025-04-04 01:19:00,113 [ERROR] The Pretty Bee: Database error saving recipe from https://theprettybee.com/slow-cooker-garlic-chicken-thighs/: A string literal cannot contain NUL (0x00) characters.
+2025-04-04 01:19:00,113 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/carrot-noodles/
+2025-04-04 01:19:01,057 [ERROR] The Pretty Bee: Requests failed to load: https://theprettybee.com/carrot-noodles/ | Error: 403 Client Error: Forbidden for url: https://theprettybee.com/carrot-noodles/
+2025-04-04 01:19:01,058 [ERROR] The Pretty Bee: Error on link https://theprettybee.com/carrot-noodles/: 403 Client Error: Forbidden for url: https://theprettybee.com/carrot-noodles/
+2025-04-04 01:19:01,058 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/chicken-meatballs-zoodles/
+2025-04-04 01:19:01,845 [ERROR] The Pretty Bee: Database error saving recipe from https://theprettybee.com/chicken-meatballs-zoodles/: A string literal cannot contain NUL (0x00) characters.
+2025-04-04 01:19:01,845 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/vegan-white-bean-quinoa-chili/
+2025-04-04 01:19:02,752 [ERROR] The Pretty Bee: Requests failed to load: https://theprettybee.com/vegan-white-bean-quinoa-chili/ | Error: 403 Client Error: Forbidden for url: https://theprettybee.com/vegan-white-bean-quinoa-chili/
+2025-04-04 01:19:02,753 [ERROR] The Pretty Bee: Error on link https://theprettybee.com/vegan-white-bean-quinoa-chili/: 403 Client Error: Forbidden for url: https://theprettybee.com/vegan-white-bean-quinoa-chili/
+2025-04-04 01:19:02,753 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/dairy-free-philly-cheesesteak/
+2025-04-04 01:19:03,571 [ERROR] The Pretty Bee: Requests failed to load: https://theprettybee.com/dairy-free-philly-cheesesteak/ | Error: 403 Client Error: Forbidden for url: https://theprettybee.com/dairy-free-philly-cheesesteak/
+2025-04-04 01:19:03,571 [ERROR] The Pretty Bee: Error on link https://theprettybee.com/dairy-free-philly-cheesesteak/: 403 Client Error: Forbidden for url: https://theprettybee.com/dairy-free-philly-cheesesteak/
+2025-04-04 01:19:03,571 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/sweet-baked-bean-turkey-chili/
+2025-04-04 01:19:04,187 [ERROR] The Pretty Bee: Requests failed to load: https://theprettybee.com/sweet-baked-bean-turkey-chili/ | Error: 403 Client Error: Forbidden for url: https://theprettybee.com/sweet-baked-bean-turkey-chili/
+2025-04-04 01:19:04,187 [ERROR] The Pretty Bee: Error on link https://theprettybee.com/sweet-baked-bean-turkey-chili/: 403 Client Error: Forbidden for url: https://theprettybee.com/sweet-baked-bean-turkey-chili/
+2025-04-04 01:19:04,187 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/white-chicken-chili-without-beans/
+2025-04-04 01:19:05,008 [ERROR] The Pretty Bee: Requests failed to load: https://theprettybee.com/white-chicken-chili-without-beans/ | Error: 403 Client Error: Forbidden for url: https://theprettybee.com/white-chicken-chili-without-beans/
+2025-04-04 01:19:05,008 [ERROR] The Pretty Bee: Error on link https://theprettybee.com/white-chicken-chili-without-beans/: 403 Client Error: Forbidden for url: https://theprettybee.com/white-chicken-chili-without-beans/
+2025-04-04 01:19:05,008 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/creamy-orzo-buttered-breadcrumbs-mushrooms/
+2025-04-04 01:19:05,634 [ERROR] The Pretty Bee: Requests failed to load: https://theprettybee.com/creamy-orzo-buttered-breadcrumbs-mushrooms/ | Error: 403 Client Error: Forbidden for url: https://theprettybee.com/creamy-orzo-buttered-breadcrumbs-mushrooms/
+2025-04-04 01:19:05,635 [ERROR] The Pretty Bee: Error on link https://theprettybee.com/creamy-orzo-buttered-breadcrumbs-mushrooms/: 403 Client Error: Forbidden for url: https://theprettybee.com/creamy-orzo-buttered-breadcrumbs-mushrooms/
+2025-04-04 01:19:05,635 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/slow-cooker-sweet-potato-quinoa-chili/
+2025-04-04 01:19:06,337 [ERROR] The Pretty Bee: Requests failed to load: https://theprettybee.com/slow-cooker-sweet-potato-quinoa-chili/ | Error: 403 Client Error: Forbidden for url: https://theprettybee.com/slow-cooker-sweet-potato-quinoa-chili/
+2025-04-04 01:19:06,338 [ERROR] The Pretty Bee: Error on link https://theprettybee.com/slow-cooker-sweet-potato-quinoa-chili/: 403 Client Error: Forbidden for url: https://theprettybee.com/slow-cooker-sweet-potato-quinoa-chili/
+2025-04-04 01:19:06,338 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/one-pot-chicken-mushroom-rice/
+2025-04-04 01:19:07,471 [ERROR] The Pretty Bee: Database error saving recipe from https://theprettybee.com/one-pot-chicken-mushroom-rice/: A string literal cannot contain NUL (0x00) characters.
+2025-04-04 01:19:07,472 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/easy-slow-cooker-taco-chicken/
+2025-04-04 01:19:08,488 [ERROR] The Pretty Bee: Requests failed to load: https://theprettybee.com/easy-slow-cooker-taco-chicken/ | Error: 403 Client Error: Forbidden for url: https://theprettybee.com/easy-slow-cooker-taco-chicken/
+2025-04-04 01:19:08,488 [ERROR] The Pretty Bee: Error on link https://theprettybee.com/easy-slow-cooker-taco-chicken/: 403 Client Error: Forbidden for url: https://theprettybee.com/easy-slow-cooker-taco-chicken/
+2025-04-04 01:19:08,489 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/cheesy-hamburger-rice-casserole/
+2025-04-04 01:19:09,304 [ERROR] The Pretty Bee: Database error saving recipe from https://theprettybee.com/cheesy-hamburger-rice-casserole/: A string literal cannot contain NUL (0x00) characters.
+2025-04-04 01:19:09,305 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/chicken-salad-with-grapes/
+2025-04-04 01:19:10,095 [ERROR] The Pretty Bee: Database error saving recipe from https://theprettybee.com/chicken-salad-with-grapes/: A string literal cannot contain NUL (0x00) characters.
+2025-04-04 01:19:10,096 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/slow-cooker-beef-stew/
+2025-04-04 01:19:10,946 [ERROR] The Pretty Bee: Requests failed to load: https://theprettybee.com/slow-cooker-beef-stew/ | Error: 403 Client Error: Forbidden for url: https://theprettybee.com/slow-cooker-beef-stew/
+2025-04-04 01:19:10,947 [ERROR] The Pretty Bee: Error on link https://theprettybee.com/slow-cooker-beef-stew/: 403 Client Error: Forbidden for url: https://theprettybee.com/slow-cooker-beef-stew/
+2025-04-04 01:19:10,947 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/spicy-stir-fried-eggplant/
+2025-04-04 01:19:11,558 [ERROR] The Pretty Bee: Requests failed to load: https://theprettybee.com/spicy-stir-fried-eggplant/ | Error: 403 Client Error: Forbidden for url: https://theprettybee.com/spicy-stir-fried-eggplant/
+2025-04-04 01:19:11,558 [ERROR] The Pretty Bee: Error on link https://theprettybee.com/spicy-stir-fried-eggplant/: 403 Client Error: Forbidden for url: https://theprettybee.com/spicy-stir-fried-eggplant/
+2025-04-04 01:19:11,558 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/easy-skillet-chicken-and-rice/
+2025-04-04 01:19:12,174 [ERROR] The Pretty Bee: Requests failed to load: https://theprettybee.com/easy-skillet-chicken-and-rice/ | Error: 403 Client Error: Forbidden for url: https://theprettybee.com/easy-skillet-chicken-and-rice/
+2025-04-04 01:19:12,174 [ERROR] The Pretty Bee: Error on link https://theprettybee.com/easy-skillet-chicken-and-rice/: 403 Client Error: Forbidden for url: https://theprettybee.com/easy-skillet-chicken-and-rice/
+2025-04-04 01:19:12,174 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/cheesy-vegan-quesadillas/
+2025-04-04 01:19:12,993 [ERROR] The Pretty Bee: Requests failed to load: https://theprettybee.com/cheesy-vegan-quesadillas/ | Error: 403 Client Error: Forbidden for url: https://theprettybee.com/cheesy-vegan-quesadillas/
+2025-04-04 01:19:12,993 [ERROR] The Pretty Bee: Error on link https://theprettybee.com/cheesy-vegan-quesadillas/: 403 Client Error: Forbidden for url: https://theprettybee.com/cheesy-vegan-quesadillas/
+2025-04-04 01:19:12,994 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/stuffed-delicata-squash/
+2025-04-04 01:19:13,608 [ERROR] The Pretty Bee: Requests failed to load: https://theprettybee.com/stuffed-delicata-squash/ | Error: 403 Client Error: Forbidden for url: https://theprettybee.com/stuffed-delicata-squash/
+2025-04-04 01:19:13,608 [ERROR] The Pretty Bee: Error on link https://theprettybee.com/stuffed-delicata-squash/: 403 Client Error: Forbidden for url: https://theprettybee.com/stuffed-delicata-squash/
+2025-04-04 01:19:13,608 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/black-bean-sweet-potato-turkey-chili/
+2025-04-04 01:19:14,427 [ERROR] The Pretty Bee: Requests failed to load: https://theprettybee.com/black-bean-sweet-potato-turkey-chili/ | Error: 403 Client Error: Forbidden for url: https://theprettybee.com/black-bean-sweet-potato-turkey-chili/
+2025-04-04 01:19:14,427 [ERROR] The Pretty Bee: Error on link https://theprettybee.com/black-bean-sweet-potato-turkey-chili/: 403 Client Error: Forbidden for url: https://theprettybee.com/black-bean-sweet-potato-turkey-chili/
+2025-04-04 01:19:14,427 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/20-easy-gluten-free-dinner-recipes/
+2025-04-04 01:19:15,024 [ERROR] The Pretty Bee: Database error saving recipe from https://theprettybee.com/20-easy-gluten-free-dinner-recipes/: A string literal cannot contain NUL (0x00) characters.
+2025-04-04 01:19:15,024 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/mujadara-lentils-and-rice/
+2025-04-04 01:19:15,746 [ERROR] The Pretty Bee: Database error saving recipe from https://theprettybee.com/mujadara-lentils-and-rice/: A string literal cannot contain NUL (0x00) characters.
+2025-04-04 01:19:15,747 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/comfort-food-shepherds-pie/
+2025-04-04 01:19:16,678 [ERROR] The Pretty Bee: Requests failed to load: https://theprettybee.com/comfort-food-shepherds-pie/ | Error: 403 Client Error: Forbidden for url: https://theprettybee.com/comfort-food-shepherds-pie/
+2025-04-04 01:19:16,678 [ERROR] The Pretty Bee: Error on link https://theprettybee.com/comfort-food-shepherds-pie/: 403 Client Error: Forbidden for url: https://theprettybee.com/comfort-food-shepherds-pie/
+2025-04-04 01:19:16,678 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/easy-oven-roasted-chicken-legs/
+2025-04-04 01:19:17,317 [ERROR] The Pretty Bee: Requests failed to load: https://theprettybee.com/easy-oven-roasted-chicken-legs/ | Error: 403 Client Error: Forbidden for url: https://theprettybee.com/easy-oven-roasted-chicken-legs/
+2025-04-04 01:19:17,317 [ERROR] The Pretty Bee: Error on link https://theprettybee.com/easy-oven-roasted-chicken-legs/: 403 Client Error: Forbidden for url: https://theprettybee.com/easy-oven-roasted-chicken-legs/
+2025-04-04 01:19:17,318 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/sheet-pan-sausage-and-peppers/
+2025-04-04 01:19:18,087 [ERROR] The Pretty Bee: Requests failed to load: https://theprettybee.com/sheet-pan-sausage-and-peppers/ | Error: 403 Client Error: Forbidden for url: https://theprettybee.com/sheet-pan-sausage-and-peppers/
+2025-04-04 01:19:18,087 [ERROR] The Pretty Bee: Error on link https://theprettybee.com/sheet-pan-sausage-and-peppers/: 403 Client Error: Forbidden for url: https://theprettybee.com/sheet-pan-sausage-and-peppers/
+2025-04-04 01:19:18,087 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/creamy-noodles-tuna-cheese-sauce-df-gf/
+2025-04-04 01:19:18,808 [ERROR] The Pretty Bee: Database error saving recipe from https://theprettybee.com/creamy-noodles-tuna-cheese-sauce-df-gf/: A string literal cannot contain NUL (0x00) characters.
+2025-04-04 01:19:18,809 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/skillet-chicken-with-quinoa-and-red-peppers/
+2025-04-04 01:19:19,833 [ERROR] The Pretty Bee: Requests failed to load: https://theprettybee.com/skillet-chicken-with-quinoa-and-red-peppers/ | Error: 403 Client Error: Forbidden for url: https://theprettybee.com/skillet-chicken-with-quinoa-and-red-peppers/
+2025-04-04 01:19:19,834 [ERROR] The Pretty Bee: Error on link https://theprettybee.com/skillet-chicken-with-quinoa-and-red-peppers/: 403 Client Error: Forbidden for url: https://theprettybee.com/skillet-chicken-with-quinoa-and-red-peppers/
+2025-04-04 01:19:19,834 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/simple-meatballs-gluten-free-dairy-free/
+2025-04-04 01:19:20,440 [ERROR] The Pretty Bee: Database error saving recipe from https://theprettybee.com/simple-meatballs-gluten-free-dairy-free/: A string literal cannot contain NUL (0x00) characters.
+2025-04-04 01:19:20,440 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/gluten-free-turkey-quesadillas/
+2025-04-04 01:19:21,185 [ERROR] The Pretty Bee: Requests failed to load: https://theprettybee.com/gluten-free-turkey-quesadillas/ | Error: 403 Client Error: Forbidden for url: https://theprettybee.com/gluten-free-turkey-quesadillas/
+2025-04-04 01:19:21,185 [ERROR] The Pretty Bee: Error on link https://theprettybee.com/gluten-free-turkey-quesadillas/: 403 Client Error: Forbidden for url: https://theprettybee.com/gluten-free-turkey-quesadillas/
+2025-04-04 01:19:21,185 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/homemade-chicken-noodle-soup/
+2025-04-04 01:19:22,055 [ERROR] The Pretty Bee: Database error saving recipe from https://theprettybee.com/homemade-chicken-noodle-soup/: A string literal cannot contain NUL (0x00) characters.
+2025-04-04 01:19:22,056 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/vegan-sloppy-joes/
+2025-04-04 01:19:22,687 [ERROR] The Pretty Bee: Database error saving recipe from https://theprettybee.com/vegan-sloppy-joes/: A string literal cannot contain NUL (0x00) characters.
+2025-04-04 01:19:22,688 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/simple-beef-broccoli-stir-fry/
+2025-04-04 01:19:23,438 [ERROR] The Pretty Bee: Requests failed to load: https://theprettybee.com/simple-beef-broccoli-stir-fry/ | Error: 403 Client Error: Forbidden for url: https://theprettybee.com/simple-beef-broccoli-stir-fry/
+2025-04-04 01:19:23,438 [ERROR] The Pretty Bee: Error on link https://theprettybee.com/simple-beef-broccoli-stir-fry/: 403 Client Error: Forbidden for url: https://theprettybee.com/simple-beef-broccoli-stir-fry/
+2025-04-04 01:19:23,439 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/slow-cooker-cowboy-beans-gluten-free-dairy-free/
+2025-04-04 01:19:24,662 [ERROR] The Pretty Bee: Database error saving recipe from https://theprettybee.com/slow-cooker-cowboy-beans-gluten-free-dairy-free/: A string literal cannot contain NUL (0x00) characters.
+2025-04-04 01:19:24,663 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/gluten-free-dairy-free-chicken-enchiladas/
+2025-04-04 01:19:25,485 [ERROR] The Pretty Bee: Requests failed to load: https://theprettybee.com/gluten-free-dairy-free-chicken-enchiladas/ | Error: 403 Client Error: Forbidden for url: https://theprettybee.com/gluten-free-dairy-free-chicken-enchiladas/
+2025-04-04 01:19:25,486 [ERROR] The Pretty Bee: Error on link https://theprettybee.com/gluten-free-dairy-free-chicken-enchiladas/: 403 Client Error: Forbidden for url: https://theprettybee.com/gluten-free-dairy-free-chicken-enchiladas/
+2025-04-04 01:19:25,486 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/sloppy-joes/
+2025-04-04 01:19:26,305 [ERROR] The Pretty Bee: Requests failed to load: https://theprettybee.com/sloppy-joes/ | Error: 403 Client Error: Forbidden for url: https://theprettybee.com/sloppy-joes/
+2025-04-04 01:19:26,305 [ERROR] The Pretty Bee: Error on link https://theprettybee.com/sloppy-joes/: 403 Client Error: Forbidden for url: https://theprettybee.com/sloppy-joes/
+2025-04-04 01:19:26,305 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/warm-quinoa-salad/
+2025-04-04 01:19:26,921 [ERROR] The Pretty Bee: Requests failed to load: https://theprettybee.com/warm-quinoa-salad/ | Error: 403 Client Error: Forbidden for url: https://theprettybee.com/warm-quinoa-salad/
+2025-04-04 01:19:26,921 [ERROR] The Pretty Bee: Error on link https://theprettybee.com/warm-quinoa-salad/: 403 Client Error: Forbidden for url: https://theprettybee.com/warm-quinoa-salad/
+2025-04-04 01:19:26,922 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/nut-free-dairy-free-pesto/
+2025-04-04 01:19:28,353 [ERROR] The Pretty Bee: Requests failed to load: https://theprettybee.com/nut-free-dairy-free-pesto/ | Error: 403 Client Error: Forbidden for url: https://theprettybee.com/nut-free-dairy-free-pesto/
+2025-04-04 01:19:28,353 [ERROR] The Pretty Bee: Error on link https://theprettybee.com/nut-free-dairy-free-pesto/: 403 Client Error: Forbidden for url: https://theprettybee.com/nut-free-dairy-free-pesto/
+2025-04-04 01:19:28,353 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/garlic-shrimp-and-fresh-tomato-pasta/
+2025-04-04 01:19:29,173 [ERROR] The Pretty Bee: Requests failed to load: https://theprettybee.com/garlic-shrimp-and-fresh-tomato-pasta/ | Error: 403 Client Error: Forbidden for url: https://theprettybee.com/garlic-shrimp-and-fresh-tomato-pasta/
+2025-04-04 01:19:29,174 [ERROR] The Pretty Bee: Error on link https://theprettybee.com/garlic-shrimp-and-fresh-tomato-pasta/: 403 Client Error: Forbidden for url: https://theprettybee.com/garlic-shrimp-and-fresh-tomato-pasta/
+2025-04-04 01:19:29,174 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/sun-dried-tomato-pasta/
+2025-04-04 01:19:29,822 [ERROR] The Pretty Bee: Requests failed to load: https://theprettybee.com/sun-dried-tomato-pasta/ | Error: 403 Client Error: Forbidden for url: https://theprettybee.com/sun-dried-tomato-pasta/
+2025-04-04 01:19:29,822 [ERROR] The Pretty Bee: Error on link https://theprettybee.com/sun-dried-tomato-pasta/: 403 Client Error: Forbidden for url: https://theprettybee.com/sun-dried-tomato-pasta/
+2025-04-04 01:19:29,823 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/slow-cooker-wild-rice-sausage-soup/
+2025-04-04 01:19:30,810 [ERROR] The Pretty Bee: Requests failed to load: https://theprettybee.com/slow-cooker-wild-rice-sausage-soup/ | Error: 403 Client Error: Forbidden for url: https://theprettybee.com/slow-cooker-wild-rice-sausage-soup/
+2025-04-04 01:19:30,810 [ERROR] The Pretty Bee: Error on link https://theprettybee.com/slow-cooker-wild-rice-sausage-soup/: 403 Client Error: Forbidden for url: https://theprettybee.com/slow-cooker-wild-rice-sausage-soup/
+2025-04-04 01:19:30,811 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/mushroom-onion-vegan-quesadillas/
+2025-04-04 01:19:31,677 [ERROR] The Pretty Bee: Requests failed to load: https://theprettybee.com/mushroom-onion-vegan-quesadillas/ | Error: 403 Client Error: Forbidden for url: https://theprettybee.com/mushroom-onion-vegan-quesadillas/
+2025-04-04 01:19:31,678 [ERROR] The Pretty Bee: Error on link https://theprettybee.com/mushroom-onion-vegan-quesadillas/: 403 Client Error: Forbidden for url: https://theprettybee.com/mushroom-onion-vegan-quesadillas/
+2025-04-04 01:19:31,678 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/honey-mustard-kale-salad-sausage/
+2025-04-04 01:19:32,347 [ERROR] The Pretty Bee: Requests failed to load: https://theprettybee.com/honey-mustard-kale-salad-sausage/ | Error: 403 Client Error: Forbidden for url: https://theprettybee.com/honey-mustard-kale-salad-sausage/
+2025-04-04 01:19:32,347 [ERROR] The Pretty Bee: Error on link https://theprettybee.com/honey-mustard-kale-salad-sausage/: 403 Client Error: Forbidden for url: https://theprettybee.com/honey-mustard-kale-salad-sausage/
+2025-04-04 01:19:32,347 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/all-american-vegan-recipes/
+2025-04-04 01:19:33,063 [ERROR] The Pretty Bee: Requests failed to load: https://theprettybee.com/all-american-vegan-recipes/ | Error: 403 Client Error: Forbidden for url: https://theprettybee.com/all-american-vegan-recipes/
+2025-04-04 01:19:33,063 [ERROR] The Pretty Bee: Error on link https://theprettybee.com/all-american-vegan-recipes/: 403 Client Error: Forbidden for url: https://theprettybee.com/all-american-vegan-recipes/
+2025-04-04 01:19:33,064 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/gluten-free-turkey-meatloaf/
+2025-04-04 01:19:33,678 [ERROR] The Pretty Bee: Requests failed to load: https://theprettybee.com/gluten-free-turkey-meatloaf/ | Error: 403 Client Error: Forbidden for url: https://theprettybee.com/gluten-free-turkey-meatloaf/
+2025-04-04 01:19:33,678 [ERROR] The Pretty Bee: Error on link https://theprettybee.com/gluten-free-turkey-meatloaf/: 403 Client Error: Forbidden for url: https://theprettybee.com/gluten-free-turkey-meatloaf/
+2025-04-04 01:19:33,678 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/lemon-pasta-with-chicken-and-peas/
+2025-04-04 01:19:35,316 [ERROR] The Pretty Bee: Requests failed to load: https://theprettybee.com/lemon-pasta-with-chicken-and-peas/ | Error: 403 Client Error: Forbidden for url: https://theprettybee.com/lemon-pasta-with-chicken-and-peas/
+2025-04-04 01:19:35,316 [ERROR] The Pretty Bee: Error on link https://theprettybee.com/lemon-pasta-with-chicken-and-peas/: 403 Client Error: Forbidden for url: https://theprettybee.com/lemon-pasta-with-chicken-and-peas/
+2025-04-04 01:19:35,317 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/taco-seasoning/
+2025-04-04 01:19:36,279 [ERROR] The Pretty Bee: Database error saving recipe from https://theprettybee.com/taco-seasoning/: A string literal cannot contain NUL (0x00) characters.
+2025-04-04 01:19:36,280 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/barbecue-chicken-meatballs/
+2025-04-04 01:19:36,956 [ERROR] The Pretty Bee: Requests failed to load: https://theprettybee.com/barbecue-chicken-meatballs/ | Error: 403 Client Error: Forbidden for url: https://theprettybee.com/barbecue-chicken-meatballs/
+2025-04-04 01:19:36,956 [ERROR] The Pretty Bee: Error on link https://theprettybee.com/barbecue-chicken-meatballs/: 403 Client Error: Forbidden for url: https://theprettybee.com/barbecue-chicken-meatballs/
+2025-04-04 01:19:36,957 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/top-9-allergen-free-meal-plan/
+2025-04-04 01:19:37,774 [ERROR] The Pretty Bee: Requests failed to load: https://theprettybee.com/top-9-allergen-free-meal-plan/ | Error: 403 Client Error: Forbidden for url: https://theprettybee.com/top-9-allergen-free-meal-plan/
+2025-04-04 01:19:37,775 [ERROR] The Pretty Bee: Error on link https://theprettybee.com/top-9-allergen-free-meal-plan/: 403 Client Error: Forbidden for url: https://theprettybee.com/top-9-allergen-free-meal-plan/
+2025-04-04 01:19:37,775 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/slow-cooker-lentil-curry/
+2025-04-04 01:19:38,925 [ERROR] The Pretty Bee: Database error saving recipe from https://theprettybee.com/slow-cooker-lentil-curry/: A string literal cannot contain NUL (0x00) characters.
+2025-04-04 01:19:38,925 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/sheet-pan-chicken-thighs/
+2025-04-04 01:19:39,822 [ERROR] The Pretty Bee: Requests failed to load: https://theprettybee.com/sheet-pan-chicken-thighs/ | Error: 403 Client Error: Forbidden for url: https://theprettybee.com/sheet-pan-chicken-thighs/
+2025-04-04 01:19:39,822 [ERROR] The Pretty Bee: Error on link https://theprettybee.com/sheet-pan-chicken-thighs/: 403 Client Error: Forbidden for url: https://theprettybee.com/sheet-pan-chicken-thighs/
+2025-04-04 01:19:39,823 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/easy-lentil-potato-curry/
+2025-04-04 01:19:40,845 [ERROR] The Pretty Bee: Requests failed to load: https://theprettybee.com/easy-lentil-potato-curry/ | Error: 403 Client Error: Forbidden for url: https://theprettybee.com/easy-lentil-potato-curry/
+2025-04-04 01:19:40,845 [ERROR] The Pretty Bee: Error on link https://theprettybee.com/easy-lentil-potato-curry/: 403 Client Error: Forbidden for url: https://theprettybee.com/easy-lentil-potato-curry/
+2025-04-04 01:19:40,846 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/for-cold-nights-curry-in-hurry/
+2025-04-04 01:19:41,664 [ERROR] The Pretty Bee: Requests failed to load: https://theprettybee.com/for-cold-nights-curry-in-hurry/ | Error: 403 Client Error: Forbidden for url: https://theprettybee.com/for-cold-nights-curry-in-hurry/
+2025-04-04 01:19:41,665 [ERROR] The Pretty Bee: Error on link https://theprettybee.com/for-cold-nights-curry-in-hurry/: 403 Client Error: Forbidden for url: https://theprettybee.com/for-cold-nights-curry-in-hurry/
+2025-04-04 01:19:41,665 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/creamy-garlic-pasta-with-chicken-meatballs/
+2025-04-04 01:19:42,689 [ERROR] The Pretty Bee: Requests failed to load: https://theprettybee.com/creamy-garlic-pasta-with-chicken-meatballs/ | Error: 403 Client Error: Forbidden for url: https://theprettybee.com/creamy-garlic-pasta-with-chicken-meatballs/
+2025-04-04 01:19:42,689 [ERROR] The Pretty Bee: Error on link https://theprettybee.com/creamy-garlic-pasta-with-chicken-meatballs/: 403 Client Error: Forbidden for url: https://theprettybee.com/creamy-garlic-pasta-with-chicken-meatballs/
+2025-04-04 01:19:42,690 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/homemade-hamburger-helper-gluten-free-dairy-free/
+2025-04-04 01:19:43,625 [ERROR] The Pretty Bee: Database error saving recipe from https://theprettybee.com/homemade-hamburger-helper-gluten-free-dairy-free/: A string literal cannot contain NUL (0x00) characters.
+2025-04-04 01:19:43,625 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/easy-vegan-meatballs/
+2025-04-04 01:19:44,531 [ERROR] The Pretty Bee: Requests failed to load: https://theprettybee.com/easy-vegan-meatballs/ | Error: 403 Client Error: Forbidden for url: https://theprettybee.com/easy-vegan-meatballs/
+2025-04-04 01:19:44,532 [ERROR] The Pretty Bee: Error on link https://theprettybee.com/easy-vegan-meatballs/: 403 Client Error: Forbidden for url: https://theprettybee.com/easy-vegan-meatballs/
+2025-04-04 01:19:44,532 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/slow-cooker-lamb-soup/
+2025-04-04 01:19:45,891 [ERROR] The Pretty Bee: Database error saving recipe from https://theprettybee.com/slow-cooker-lamb-soup/: A string literal cannot contain NUL (0x00) characters.
+2025-04-04 01:19:45,891 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/southwestern-corn-sweet-potato-bowls/
+2025-04-04 01:19:46,784 [ERROR] The Pretty Bee: Requests failed to load: https://theprettybee.com/southwestern-corn-sweet-potato-bowls/ | Error: 403 Client Error: Forbidden for url: https://theprettybee.com/southwestern-corn-sweet-potato-bowls/
+2025-04-04 01:19:46,785 [ERROR] The Pretty Bee: Error on link https://theprettybee.com/southwestern-corn-sweet-potato-bowls/: 403 Client Error: Forbidden for url: https://theprettybee.com/southwestern-corn-sweet-potato-bowls/
+2025-04-04 01:19:46,785 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/favorite-beans-and-rice/
+2025-04-04 01:19:47,603 [ERROR] The Pretty Bee: Requests failed to load: https://theprettybee.com/favorite-beans-and-rice/ | Error: 403 Client Error: Forbidden for url: https://theprettybee.com/favorite-beans-and-rice/
+2025-04-04 01:19:47,604 [ERROR] The Pretty Bee: Error on link https://theprettybee.com/favorite-beans-and-rice/: 403 Client Error: Forbidden for url: https://theprettybee.com/favorite-beans-and-rice/
+2025-04-04 01:19:47,604 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/classic-gluten-free-meatloaf/
+2025-04-04 01:19:48,422 [ERROR] The Pretty Bee: Requests failed to load: https://theprettybee.com/classic-gluten-free-meatloaf/ | Error: 403 Client Error: Forbidden for url: https://theprettybee.com/classic-gluten-free-meatloaf/
+2025-04-04 01:19:48,423 [ERROR] The Pretty Bee: Error on link https://theprettybee.com/classic-gluten-free-meatloaf/: 403 Client Error: Forbidden for url: https://theprettybee.com/classic-gluten-free-meatloaf/
+2025-04-04 01:19:48,423 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/delicata-squash-taco-boats/
+2025-04-04 01:19:49,139 [ERROR] The Pretty Bee: Requests failed to load: https://theprettybee.com/delicata-squash-taco-boats/ | Error: 403 Client Error: Forbidden for url: https://theprettybee.com/delicata-squash-taco-boats/
+2025-04-04 01:19:49,140 [ERROR] The Pretty Bee: Error on link https://theprettybee.com/delicata-squash-taco-boats/: 403 Client Error: Forbidden for url: https://theprettybee.com/delicata-squash-taco-boats/
+2025-04-04 01:19:49,140 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/vegan-cheesy-broccoli-casserole/
+2025-04-04 01:19:50,060 [ERROR] The Pretty Bee: Requests failed to load: https://theprettybee.com/vegan-cheesy-broccoli-casserole/ | Error: 403 Client Error: Forbidden for url: https://theprettybee.com/vegan-cheesy-broccoli-casserole/
+2025-04-04 01:19:50,060 [ERROR] The Pretty Bee: Error on link https://theprettybee.com/vegan-cheesy-broccoli-casserole/: 403 Client Error: Forbidden for url: https://theprettybee.com/vegan-cheesy-broccoli-casserole/
+2025-04-04 01:19:50,060 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/dairy-free-beef-stroganoff/
+2025-04-04 01:19:52,447 [INFO] The Pretty Bee: Saved recipe: 'Dairy Free Ground Beef Stroganoff.' (URL: https://theprettybee.com/dairy-free-beef-stroganoff/)
+2025-04-04 01:19:52,447 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/pasta-with-creamy-sun-dried-tomato-and-mushroom-sauce/
+2025-04-04 01:19:53,133 [ERROR] The Pretty Bee: Requests failed to load: https://theprettybee.com/pasta-with-creamy-sun-dried-tomato-and-mushroom-sauce/ | Error: 403 Client Error: Forbidden for url: https://theprettybee.com/pasta-with-creamy-sun-dried-tomato-and-mushroom-sauce/
+2025-04-04 01:19:53,134 [ERROR] The Pretty Bee: Error on link https://theprettybee.com/pasta-with-creamy-sun-dried-tomato-and-mushroom-sauce/: 403 Client Error: Forbidden for url: https://theprettybee.com/pasta-with-creamy-sun-dried-tomato-and-mushroom-sauce/
+2025-04-04 01:19:53,134 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/roasted-red-cabbage-and-red-quinoa/
+2025-04-04 01:19:53,951 [ERROR] The Pretty Bee: Requests failed to load: https://theprettybee.com/roasted-red-cabbage-and-red-quinoa/ | Error: 403 Client Error: Forbidden for url: https://theprettybee.com/roasted-red-cabbage-and-red-quinoa/
+2025-04-04 01:19:53,952 [ERROR] The Pretty Bee: Error on link https://theprettybee.com/roasted-red-cabbage-and-red-quinoa/: 403 Client Error: Forbidden for url: https://theprettybee.com/roasted-red-cabbage-and-red-quinoa/
+2025-04-04 01:19:53,952 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/saucy-beef-and-bean-enchiladas/
+2025-04-04 01:19:54,674 [ERROR] The Pretty Bee: Database error saving recipe from https://theprettybee.com/saucy-beef-and-bean-enchiladas/: A string literal cannot contain NUL (0x00) characters.
+2025-04-04 01:19:54,674 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/sweet-spicy-broccoli-red-pepper-stir-fry-quinoa/
+2025-04-04 01:19:55,385 [ERROR] The Pretty Bee: Requests failed to load: https://theprettybee.com/sweet-spicy-broccoli-red-pepper-stir-fry-quinoa/ | Error: 403 Client Error: Forbidden for url: https://theprettybee.com/sweet-spicy-broccoli-red-pepper-stir-fry-quinoa/
+2025-04-04 01:19:55,385 [ERROR] The Pretty Bee: Error on link https://theprettybee.com/sweet-spicy-broccoli-red-pepper-stir-fry-quinoa/: 403 Client Error: Forbidden for url: https://theprettybee.com/sweet-spicy-broccoli-red-pepper-stir-fry-quinoa/
+2025-04-04 01:19:55,385 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/kid-friendly-gluten-free-meals/
+2025-04-04 01:19:56,205 [ERROR] The Pretty Bee: Requests failed to load: https://theprettybee.com/kid-friendly-gluten-free-meals/ | Error: 403 Client Error: Forbidden for url: https://theprettybee.com/kid-friendly-gluten-free-meals/
+2025-04-04 01:19:56,205 [ERROR] The Pretty Bee: Error on link https://theprettybee.com/kid-friendly-gluten-free-meals/: 403 Client Error: Forbidden for url: https://theprettybee.com/kid-friendly-gluten-free-meals/
+2025-04-04 01:19:56,205 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/vegan-shepherds-pie/
+2025-04-04 01:19:57,024 [ERROR] The Pretty Bee: Requests failed to load: https://theprettybee.com/vegan-shepherds-pie/ | Error: 403 Client Error: Forbidden for url: https://theprettybee.com/vegan-shepherds-pie/
+2025-04-04 01:19:57,024 [ERROR] The Pretty Bee: Error on link https://theprettybee.com/vegan-shepherds-pie/: 403 Client Error: Forbidden for url: https://theprettybee.com/vegan-shepherds-pie/
+2025-04-04 01:19:57,024 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/healthy-stuffed-sweet-potatoes-broccoli/
+2025-04-04 01:19:57,945 [ERROR] The Pretty Bee: Requests failed to load: https://theprettybee.com/healthy-stuffed-sweet-potatoes-broccoli/ | Error: 403 Client Error: Forbidden for url: https://theprettybee.com/healthy-stuffed-sweet-potatoes-broccoli/
+2025-04-04 01:19:57,945 [ERROR] The Pretty Bee: Error on link https://theprettybee.com/healthy-stuffed-sweet-potatoes-broccoli/: 403 Client Error: Forbidden for url: https://theprettybee.com/healthy-stuffed-sweet-potatoes-broccoli/
+2025-04-04 01:19:57,946 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/quick-easy-turkey-tacos/
+2025-04-04 01:19:58,662 [ERROR] The Pretty Bee: Requests failed to load: https://theprettybee.com/quick-easy-turkey-tacos/ | Error: 403 Client Error: Forbidden for url: https://theprettybee.com/quick-easy-turkey-tacos/
+2025-04-04 01:19:58,662 [ERROR] The Pretty Bee: Error on link https://theprettybee.com/quick-easy-turkey-tacos/: 403 Client Error: Forbidden for url: https://theprettybee.com/quick-easy-turkey-tacos/
+2025-04-04 01:19:58,663 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/chicken-salad-sandwiches/
+2025-04-04 01:19:59,318 [ERROR] The Pretty Bee: Requests failed to load: https://theprettybee.com/chicken-salad-sandwiches/ | Error: 403 Client Error: Forbidden for url: https://theprettybee.com/chicken-salad-sandwiches/
+2025-04-04 01:19:59,318 [ERROR] The Pretty Bee: Error on link https://theprettybee.com/chicken-salad-sandwiches/: 403 Client Error: Forbidden for url: https://theprettybee.com/chicken-salad-sandwiches/
+2025-04-04 01:19:59,318 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/easy-dairy-free-chicken-coconut-curry/
+2025-04-04 01:20:00,506 [ERROR] The Pretty Bee: Requests failed to load: https://theprettybee.com/easy-dairy-free-chicken-coconut-curry/ | Error: 403 Client Error: Forbidden for url: https://theprettybee.com/easy-dairy-free-chicken-coconut-curry/
+2025-04-04 01:20:00,506 [ERROR] The Pretty Bee: Error on link https://theprettybee.com/easy-dairy-free-chicken-coconut-curry/: 403 Client Error: Forbidden for url: https://theprettybee.com/easy-dairy-free-chicken-coconut-curry/
+2025-04-04 01:20:00,507 [INFO] The Pretty Bee: Scraper finished for site: The Pretty Bee
+2025-04-04 01:21:32,554 [INFO] The Pretty Bee: Database connection established successfully.
+2025-04-04 01:21:32,555 [INFO] The Pretty Bee: Initialized scraper for site: The Pretty Bee
+2025-04-04 01:21:32,555 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/category/main-dishes/
+2025-04-04 01:21:34,489 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/category/main-dishes/page/2/
+2025-04-04 01:21:34,936 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/category/main-dishes/page/3/
+2025-04-04 01:21:35,532 [ERROR] The Pretty Bee: Requests failed to load: https://theprettybee.com/category/main-dishes/page/3/ | Error: 403 Client Error: Forbidden for url: https://theprettybee.com/category/main-dishes/page/3/
+2025-04-04 01:21:35,532 [ERROR] The Pretty Bee: Failed to fetch page https://theprettybee.com/category/main-dishes/page/3/: 403 Client Error: Forbidden for url: https://theprettybee.com/category/main-dishes/page/3/
+2025-04-04 01:21:35,532 [INFO] The Pretty Bee: Found 80 unique recipe links for site 'The Pretty Bee'.
+2025-04-04 01:21:35,532 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/classic-gluten-free-meatloaf/
+2025-04-04 01:21:36,351 [ERROR] The Pretty Bee: Requests failed to load: https://theprettybee.com/classic-gluten-free-meatloaf/ | Error: 403 Client Error: Forbidden for url: https://theprettybee.com/classic-gluten-free-meatloaf/
+2025-04-04 01:21:36,352 [ERROR] The Pretty Bee: Error on link https://theprettybee.com/classic-gluten-free-meatloaf/: 403 Client Error: Forbidden for url: https://theprettybee.com/classic-gluten-free-meatloaf/
+2025-04-04 01:21:36,353 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/slow-cooker-lamb-soup/
+2025-04-04 01:21:37,161 [ERROR] The Pretty Bee: Database error saving recipe from https://theprettybee.com/slow-cooker-lamb-soup/: A string literal cannot contain NUL (0x00) characters.
+2025-04-04 01:21:37,161 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/quinoa-taco-bowls/
+2025-04-04 01:21:37,828 [ERROR] The Pretty Bee: Requests failed to load: https://theprettybee.com/quinoa-taco-bowls/ | Error: 403 Client Error: Forbidden for url: https://theprettybee.com/quinoa-taco-bowls/
+2025-04-04 01:21:37,828 [ERROR] The Pretty Bee: Error on link https://theprettybee.com/quinoa-taco-bowls/: 403 Client Error: Forbidden for url: https://theprettybee.com/quinoa-taco-bowls/
+2025-04-04 01:21:37,828 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/sloppy-joes/
+2025-04-04 01:21:38,436 [ERROR] The Pretty Bee: Requests failed to load: https://theprettybee.com/sloppy-joes/ | Error: 403 Client Error: Forbidden for url: https://theprettybee.com/sloppy-joes/
+2025-04-04 01:21:38,436 [ERROR] The Pretty Bee: Error on link https://theprettybee.com/sloppy-joes/: 403 Client Error: Forbidden for url: https://theprettybee.com/sloppy-joes/
+2025-04-04 01:21:38,437 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/sun-dried-tomato-pasta/
+2025-04-04 01:21:39,051 [ERROR] The Pretty Bee: Requests failed to load: https://theprettybee.com/sun-dried-tomato-pasta/ | Error: 403 Client Error: Forbidden for url: https://theprettybee.com/sun-dried-tomato-pasta/
+2025-04-04 01:21:39,051 [ERROR] The Pretty Bee: Error on link https://theprettybee.com/sun-dried-tomato-pasta/: 403 Client Error: Forbidden for url: https://theprettybee.com/sun-dried-tomato-pasta/
+2025-04-04 01:21:39,051 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/homemade-chicken-noodle-soup/
+2025-04-04 01:21:39,432 [ERROR] The Pretty Bee: Database error saving recipe from https://theprettybee.com/homemade-chicken-noodle-soup/: A string literal cannot contain NUL (0x00) characters.
+2025-04-04 01:21:39,433 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/slow-cooker-garlic-chicken-thighs/
+2025-04-04 01:21:39,845 [ERROR] The Pretty Bee: Database error saving recipe from https://theprettybee.com/slow-cooker-garlic-chicken-thighs/: A string literal cannot contain NUL (0x00) characters.
+2025-04-04 01:21:39,845 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/cheesy-hamburger-rice-casserole/
+2025-04-04 01:21:40,378 [ERROR] The Pretty Bee: Database error saving recipe from https://theprettybee.com/cheesy-hamburger-rice-casserole/: A string literal cannot contain NUL (0x00) characters.
+2025-04-04 01:21:40,379 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/turkey-tetrazzini/
+2025-04-04 01:21:40,962 [ERROR] The Pretty Bee: Requests failed to load: https://theprettybee.com/turkey-tetrazzini/ | Error: 403 Client Error: Forbidden for url: https://theprettybee.com/turkey-tetrazzini/
+2025-04-04 01:21:40,962 [ERROR] The Pretty Bee: Error on link https://theprettybee.com/turkey-tetrazzini/: 403 Client Error: Forbidden for url: https://theprettybee.com/turkey-tetrazzini/
+2025-04-04 01:21:40,963 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/white-bean-turkey-chili/
+2025-04-04 01:21:41,675 [ERROR] The Pretty Bee: Requests failed to load: https://theprettybee.com/white-bean-turkey-chili/ | Error: 403 Client Error: Forbidden for url: https://theprettybee.com/white-bean-turkey-chili/
+2025-04-04 01:21:41,676 [ERROR] The Pretty Bee: Error on link https://theprettybee.com/white-bean-turkey-chili/: 403 Client Error: Forbidden for url: https://theprettybee.com/white-bean-turkey-chili/
+2025-04-04 01:21:41,676 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/creamy-noodles-tuna-cheese-sauce-df-gf/
+2025-04-04 01:21:42,322 [ERROR] The Pretty Bee: Database error saving recipe from https://theprettybee.com/creamy-noodles-tuna-cheese-sauce-df-gf/: A string literal cannot contain NUL (0x00) characters.
+2025-04-04 01:21:42,323 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/mujadara-lentils-and-rice/
+2025-04-04 01:21:42,827 [ERROR] The Pretty Bee: Database error saving recipe from https://theprettybee.com/mujadara-lentils-and-rice/: A string literal cannot contain NUL (0x00) characters.
+2025-04-04 01:21:42,828 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/chicken-meatballs-zoodles/
+2025-04-04 01:21:43,525 [ERROR] The Pretty Bee: Database error saving recipe from https://theprettybee.com/chicken-meatballs-zoodles/: A string literal cannot contain NUL (0x00) characters.
+2025-04-04 01:21:43,525 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/simple-beef-broccoli-stir-fry/
+2025-04-04 01:21:44,235 [ERROR] The Pretty Bee: Requests failed to load: https://theprettybee.com/simple-beef-broccoli-stir-fry/ | Error: 403 Client Error: Forbidden for url: https://theprettybee.com/simple-beef-broccoli-stir-fry/
+2025-04-04 01:21:44,236 [ERROR] The Pretty Bee: Error on link https://theprettybee.com/simple-beef-broccoli-stir-fry/: 403 Client Error: Forbidden for url: https://theprettybee.com/simple-beef-broccoli-stir-fry/
+2025-04-04 01:21:44,236 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/20-easy-gluten-free-dinner-recipes/
+2025-04-04 01:21:44,823 [ERROR] The Pretty Bee: Database error saving recipe from https://theprettybee.com/20-easy-gluten-free-dinner-recipes/: A string literal cannot contain NUL (0x00) characters.
+2025-04-04 01:21:44,824 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/spicy-stir-fried-eggplant/
+2025-04-04 01:21:45,771 [ERROR] The Pretty Bee: Requests failed to load: https://theprettybee.com/spicy-stir-fried-eggplant/ | Error: 403 Client Error: Forbidden for url: https://theprettybee.com/spicy-stir-fried-eggplant/
+2025-04-04 01:21:45,771 [ERROR] The Pretty Bee: Error on link https://theprettybee.com/spicy-stir-fried-eggplant/: 403 Client Error: Forbidden for url: https://theprettybee.com/spicy-stir-fried-eggplant/
+2025-04-04 01:21:45,771 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/vegan-white-bean-quinoa-chili/
+2025-04-04 01:21:46,486 [ERROR] The Pretty Bee: Requests failed to load: https://theprettybee.com/vegan-white-bean-quinoa-chili/ | Error: 403 Client Error: Forbidden for url: https://theprettybee.com/vegan-white-bean-quinoa-chili/
+2025-04-04 01:21:46,486 [ERROR] The Pretty Bee: Error on link https://theprettybee.com/vegan-white-bean-quinoa-chili/: 403 Client Error: Forbidden for url: https://theprettybee.com/vegan-white-bean-quinoa-chili/
+2025-04-04 01:21:46,486 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/slow-cooker-sweet-potato-quinoa-chili/
+2025-04-04 01:21:47,110 [ERROR] The Pretty Bee: Requests failed to load: https://theprettybee.com/slow-cooker-sweet-potato-quinoa-chili/ | Error: 403 Client Error: Forbidden for url: https://theprettybee.com/slow-cooker-sweet-potato-quinoa-chili/
+2025-04-04 01:21:47,110 [ERROR] The Pretty Bee: Error on link https://theprettybee.com/slow-cooker-sweet-potato-quinoa-chili/: 403 Client Error: Forbidden for url: https://theprettybee.com/slow-cooker-sweet-potato-quinoa-chili/
+2025-04-04 01:21:47,110 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/no-bean-beef-chili/
+2025-04-04 01:21:47,641 [ERROR] The Pretty Bee: Database error saving recipe from https://theprettybee.com/no-bean-beef-chili/: A string literal cannot contain NUL (0x00) characters.
+2025-04-04 01:21:47,641 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/cheesy-vegan-quesadillas/
+2025-04-04 01:21:48,431 [ERROR] The Pretty Bee: Requests failed to load: https://theprettybee.com/cheesy-vegan-quesadillas/ | Error: 403 Client Error: Forbidden for url: https://theprettybee.com/cheesy-vegan-quesadillas/
+2025-04-04 01:21:48,431 [ERROR] The Pretty Bee: Error on link https://theprettybee.com/cheesy-vegan-quesadillas/: 403 Client Error: Forbidden for url: https://theprettybee.com/cheesy-vegan-quesadillas/
+2025-04-04 01:21:48,431 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/slow-cooker-beef-stew/
+2025-04-04 01:21:49,459 [ERROR] The Pretty Bee: Requests failed to load: https://theprettybee.com/slow-cooker-beef-stew/ | Error: 403 Client Error: Forbidden for url: https://theprettybee.com/slow-cooker-beef-stew/
+2025-04-04 01:21:49,460 [ERROR] The Pretty Bee: Error on link https://theprettybee.com/slow-cooker-beef-stew/: 403 Client Error: Forbidden for url: https://theprettybee.com/slow-cooker-beef-stew/
+2025-04-04 01:21:49,460 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/pasta-with-creamy-sun-dried-tomato-and-mushroom-sauce/
+2025-04-04 01:21:50,276 [ERROR] The Pretty Bee: Requests failed to load: https://theprettybee.com/pasta-with-creamy-sun-dried-tomato-and-mushroom-sauce/ | Error: 403 Client Error: Forbidden for url: https://theprettybee.com/pasta-with-creamy-sun-dried-tomato-and-mushroom-sauce/
+2025-04-04 01:21:50,277 [ERROR] The Pretty Bee: Error on link https://theprettybee.com/pasta-with-creamy-sun-dried-tomato-and-mushroom-sauce/: 403 Client Error: Forbidden for url: https://theprettybee.com/pasta-with-creamy-sun-dried-tomato-and-mushroom-sauce/
+2025-04-04 01:21:50,277 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/dairy-free-beef-stroganoff/
+2025-04-04 01:21:51,049 [INFO] The Pretty Bee: Saved recipe: 'Dairy Free Ground Beef Stroganoff.' (URL: https://theprettybee.com/dairy-free-beef-stroganoff/)
+2025-04-04 01:21:51,050 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/black-bean-sweet-potato-turkey-chili/
+2025-04-04 01:21:51,914 [ERROR] The Pretty Bee: Requests failed to load: https://theprettybee.com/black-bean-sweet-potato-turkey-chili/ | Error: 403 Client Error: Forbidden for url: https://theprettybee.com/black-bean-sweet-potato-turkey-chili/
+2025-04-04 01:21:51,914 [ERROR] The Pretty Bee: Error on link https://theprettybee.com/black-bean-sweet-potato-turkey-chili/: 403 Client Error: Forbidden for url: https://theprettybee.com/black-bean-sweet-potato-turkey-chili/
+2025-04-04 01:21:51,914 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/simple-meatballs-gluten-free-dairy-free/
+2025-04-04 01:21:52,550 [ERROR] The Pretty Bee: Database error saving recipe from https://theprettybee.com/simple-meatballs-gluten-free-dairy-free/: A string literal cannot contain NUL (0x00) characters.
+2025-04-04 01:21:52,550 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/vegan-shepherds-pie/
+2025-04-04 01:21:53,553 [ERROR] The Pretty Bee: Requests failed to load: https://theprettybee.com/vegan-shepherds-pie/ | Error: 403 Client Error: Forbidden for url: https://theprettybee.com/vegan-shepherds-pie/
+2025-04-04 01:21:53,553 [ERROR] The Pretty Bee: Error on link https://theprettybee.com/vegan-shepherds-pie/: 403 Client Error: Forbidden for url: https://theprettybee.com/vegan-shepherds-pie/
+2025-04-04 01:21:53,554 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/southwestern-corn-sweet-potato-bowls/
+2025-04-04 01:21:54,134 [ERROR] The Pretty Bee: Requests failed to load: https://theprettybee.com/southwestern-corn-sweet-potato-bowls/ | Error: 403 Client Error: Forbidden for url: https://theprettybee.com/southwestern-corn-sweet-potato-bowls/
+2025-04-04 01:21:54,135 [ERROR] The Pretty Bee: Error on link https://theprettybee.com/southwestern-corn-sweet-potato-bowls/: 403 Client Error: Forbidden for url: https://theprettybee.com/southwestern-corn-sweet-potato-bowls/
+2025-04-04 01:21:54,135 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/healthy-stuffed-sweet-potatoes-broccoli/
+2025-04-04 01:21:54,781 [ERROR] The Pretty Bee: Requests failed to load: https://theprettybee.com/healthy-stuffed-sweet-potatoes-broccoli/ | Error: 403 Client Error: Forbidden for url: https://theprettybee.com/healthy-stuffed-sweet-potatoes-broccoli/
+2025-04-04 01:21:54,781 [ERROR] The Pretty Bee: Error on link https://theprettybee.com/healthy-stuffed-sweet-potatoes-broccoli/: 403 Client Error: Forbidden for url: https://theprettybee.com/healthy-stuffed-sweet-potatoes-broccoli/
+2025-04-04 01:21:54,781 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/lemon-pasta-with-chicken-and-peas/
+2025-04-04 01:21:55,360 [ERROR] The Pretty Bee: Requests failed to load: https://theprettybee.com/lemon-pasta-with-chicken-and-peas/ | Error: 403 Client Error: Forbidden for url: https://theprettybee.com/lemon-pasta-with-chicken-and-peas/
+2025-04-04 01:21:55,360 [ERROR] The Pretty Bee: Error on link https://theprettybee.com/lemon-pasta-with-chicken-and-peas/: 403 Client Error: Forbidden for url: https://theprettybee.com/lemon-pasta-with-chicken-and-peas/
+2025-04-04 01:21:55,360 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/top-9-allergen-free-meal-plan/
+2025-04-04 01:21:56,009 [ERROR] The Pretty Bee: Requests failed to load: https://theprettybee.com/top-9-allergen-free-meal-plan/ | Error: 403 Client Error: Forbidden for url: https://theprettybee.com/top-9-allergen-free-meal-plan/
+2025-04-04 01:21:56,009 [ERROR] The Pretty Bee: Error on link https://theprettybee.com/top-9-allergen-free-meal-plan/: 403 Client Error: Forbidden for url: https://theprettybee.com/top-9-allergen-free-meal-plan/
+2025-04-04 01:21:56,009 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/delicata-squash-taco-boats/
+2025-04-04 01:21:56,635 [ERROR] The Pretty Bee: Requests failed to load: https://theprettybee.com/delicata-squash-taco-boats/ | Error: 403 Client Error: Forbidden for url: https://theprettybee.com/delicata-squash-taco-boats/
+2025-04-04 01:21:56,635 [ERROR] The Pretty Bee: Error on link https://theprettybee.com/delicata-squash-taco-boats/: 403 Client Error: Forbidden for url: https://theprettybee.com/delicata-squash-taco-boats/
+2025-04-04 01:21:56,635 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/favorite-beans-and-rice/
+2025-04-04 01:21:57,200 [ERROR] The Pretty Bee: Requests failed to load: https://theprettybee.com/favorite-beans-and-rice/ | Error: 403 Client Error: Forbidden for url: https://theprettybee.com/favorite-beans-and-rice/
+2025-04-04 01:21:57,201 [ERROR] The Pretty Bee: Error on link https://theprettybee.com/favorite-beans-and-rice/: 403 Client Error: Forbidden for url: https://theprettybee.com/favorite-beans-and-rice/
+2025-04-04 01:21:57,201 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/one-pot-chicken-mushroom-rice/
+2025-04-04 01:21:57,704 [ERROR] The Pretty Bee: Database error saving recipe from https://theprettybee.com/one-pot-chicken-mushroom-rice/: A string literal cannot contain NUL (0x00) characters.
+2025-04-04 01:21:57,704 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/garlic-shrimp-and-fresh-tomato-pasta/
+2025-04-04 01:21:59,083 [ERROR] The Pretty Bee: Requests failed to load: https://theprettybee.com/garlic-shrimp-and-fresh-tomato-pasta/ | Error: 403 Client Error: Forbidden for url: https://theprettybee.com/garlic-shrimp-and-fresh-tomato-pasta/
+2025-04-04 01:21:59,083 [ERROR] The Pretty Bee: Error on link https://theprettybee.com/garlic-shrimp-and-fresh-tomato-pasta/: 403 Client Error: Forbidden for url: https://theprettybee.com/garlic-shrimp-and-fresh-tomato-pasta/
+2025-04-04 01:21:59,084 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/pumpkin-chili/
+2025-04-04 01:21:59,902 [ERROR] The Pretty Bee: Requests failed to load: https://theprettybee.com/pumpkin-chili/ | Error: 403 Client Error: Forbidden for url: https://theprettybee.com/pumpkin-chili/
+2025-04-04 01:21:59,902 [ERROR] The Pretty Bee: Error on link https://theprettybee.com/pumpkin-chili/: 403 Client Error: Forbidden for url: https://theprettybee.com/pumpkin-chili/
+2025-04-04 01:21:59,902 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/sweet-spicy-broccoli-red-pepper-stir-fry-quinoa/
+2025-04-04 01:22:00,618 [ERROR] The Pretty Bee: Requests failed to load: https://theprettybee.com/sweet-spicy-broccoli-red-pepper-stir-fry-quinoa/ | Error: 403 Client Error: Forbidden for url: https://theprettybee.com/sweet-spicy-broccoli-red-pepper-stir-fry-quinoa/
+2025-04-04 01:22:00,618 [ERROR] The Pretty Bee: Error on link https://theprettybee.com/sweet-spicy-broccoli-red-pepper-stir-fry-quinoa/: 403 Client Error: Forbidden for url: https://theprettybee.com/sweet-spicy-broccoli-red-pepper-stir-fry-quinoa/
+2025-04-04 01:22:00,619 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/creamy-chicken-casserole-with-kale/
+2025-04-04 01:22:01,691 [INFO] The Pretty Bee: Saved recipe: 'Creamy Chicken Casserole with Kale (Gluten Free, Dairy Free).' (URL: https://theprettybee.com/creamy-chicken-casserole-with-kale/)
+2025-04-04 01:22:01,692 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/slow-cooker-wild-rice-sausage-soup/
+2025-04-04 01:22:02,308 [ERROR] The Pretty Bee: Requests failed to load: https://theprettybee.com/slow-cooker-wild-rice-sausage-soup/ | Error: 403 Client Error: Forbidden for url: https://theprettybee.com/slow-cooker-wild-rice-sausage-soup/
+2025-04-04 01:22:02,309 [ERROR] The Pretty Bee: Error on link https://theprettybee.com/slow-cooker-wild-rice-sausage-soup/: 403 Client Error: Forbidden for url: https://theprettybee.com/slow-cooker-wild-rice-sausage-soup/
+2025-04-04 01:22:02,309 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/saucy-beef-and-bean-enchiladas/
+2025-04-04 01:22:03,371 [ERROR] The Pretty Bee: Database error saving recipe from https://theprettybee.com/saucy-beef-and-bean-enchiladas/: A string literal cannot contain NUL (0x00) characters.
+2025-04-04 01:22:03,371 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/gluten-free-dairy-free-chicken-enchiladas/
+2025-04-04 01:22:04,202 [ERROR] The Pretty Bee: Requests failed to load: https://theprettybee.com/gluten-free-dairy-free-chicken-enchiladas/ | Error: 403 Client Error: Forbidden for url: https://theprettybee.com/gluten-free-dairy-free-chicken-enchiladas/
+2025-04-04 01:22:04,202 [ERROR] The Pretty Bee: Error on link https://theprettybee.com/gluten-free-dairy-free-chicken-enchiladas/: 403 Client Error: Forbidden for url: https://theprettybee.com/gluten-free-dairy-free-chicken-enchiladas/
+2025-04-04 01:22:04,202 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/easy-lentil-potato-curry/
+2025-04-04 01:22:06,149 [ERROR] The Pretty Bee: Requests failed to load: https://theprettybee.com/easy-lentil-potato-curry/ | Error: 403 Client Error: Forbidden for url: https://theprettybee.com/easy-lentil-potato-curry/
+2025-04-04 01:22:06,149 [ERROR] The Pretty Bee: Error on link https://theprettybee.com/easy-lentil-potato-curry/: 403 Client Error: Forbidden for url: https://theprettybee.com/easy-lentil-potato-curry/
+2025-04-04 01:22:06,149 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/white-chicken-chili-without-beans/
+2025-04-04 01:22:07,069 [ERROR] The Pretty Bee: Requests failed to load: https://theprettybee.com/white-chicken-chili-without-beans/ | Error: 403 Client Error: Forbidden for url: https://theprettybee.com/white-chicken-chili-without-beans/
+2025-04-04 01:22:07,069 [ERROR] The Pretty Bee: Error on link https://theprettybee.com/white-chicken-chili-without-beans/: 403 Client Error: Forbidden for url: https://theprettybee.com/white-chicken-chili-without-beans/
+2025-04-04 01:22:07,070 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/slow-cooker-lentil-curry/
+2025-04-04 01:22:08,116 [ERROR] The Pretty Bee: Database error saving recipe from https://theprettybee.com/slow-cooker-lentil-curry/: A string literal cannot contain NUL (0x00) characters.
+2025-04-04 01:22:08,116 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/chicken-salad-with-grapes/
+2025-04-04 01:22:08,671 [ERROR] The Pretty Bee: Database error saving recipe from https://theprettybee.com/chicken-salad-with-grapes/: A string literal cannot contain NUL (0x00) characters.
+2025-04-04 01:22:08,671 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/slow-cooker-cowboy-beans-gluten-free-dairy-free/
+2025-04-04 01:22:09,288 [ERROR] The Pretty Bee: Database error saving recipe from https://theprettybee.com/slow-cooker-cowboy-beans-gluten-free-dairy-free/: A string literal cannot contain NUL (0x00) characters.
+2025-04-04 01:22:09,288 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/quick-easy-turkey-tacos/
+2025-04-04 01:22:09,935 [ERROR] The Pretty Bee: Requests failed to load: https://theprettybee.com/quick-easy-turkey-tacos/ | Error: 403 Client Error: Forbidden for url: https://theprettybee.com/quick-easy-turkey-tacos/
+2025-04-04 01:22:09,935 [ERROR] The Pretty Bee: Error on link https://theprettybee.com/quick-easy-turkey-tacos/: 403 Client Error: Forbidden for url: https://theprettybee.com/quick-easy-turkey-tacos/
+2025-04-04 01:22:09,935 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/carrot-noodles/
+2025-04-04 01:22:10,755 [ERROR] The Pretty Bee: Requests failed to load: https://theprettybee.com/carrot-noodles/ | Error: 403 Client Error: Forbidden for url: https://theprettybee.com/carrot-noodles/
+2025-04-04 01:22:10,755 [ERROR] The Pretty Bee: Error on link https://theprettybee.com/carrot-noodles/: 403 Client Error: Forbidden for url: https://theprettybee.com/carrot-noodles/
+2025-04-04 01:22:10,756 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/kid-friendly-gluten-free-meals/
+2025-04-04 01:22:11,372 [ERROR] The Pretty Bee: Requests failed to load: https://theprettybee.com/kid-friendly-gluten-free-meals/ | Error: 403 Client Error: Forbidden for url: https://theprettybee.com/kid-friendly-gluten-free-meals/
+2025-04-04 01:22:11,373 [ERROR] The Pretty Bee: Error on link https://theprettybee.com/kid-friendly-gluten-free-meals/: 403 Client Error: Forbidden for url: https://theprettybee.com/kid-friendly-gluten-free-meals/
+2025-04-04 01:22:11,373 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/sheet-pan-chicken-thighs/
+2025-04-04 01:22:12,005 [ERROR] The Pretty Bee: Requests failed to load: https://theprettybee.com/sheet-pan-chicken-thighs/ | Error: 403 Client Error: Forbidden for url: https://theprettybee.com/sheet-pan-chicken-thighs/
+2025-04-04 01:22:12,006 [ERROR] The Pretty Bee: Error on link https://theprettybee.com/sheet-pan-chicken-thighs/: 403 Client Error: Forbidden for url: https://theprettybee.com/sheet-pan-chicken-thighs/
+2025-04-04 01:22:12,006 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/vegan-sloppy-joes/
+2025-04-04 01:22:12,595 [ERROR] The Pretty Bee: Database error saving recipe from https://theprettybee.com/vegan-sloppy-joes/: A string literal cannot contain NUL (0x00) characters.
+2025-04-04 01:22:12,596 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/easy-slow-cooker-taco-chicken/
+2025-04-04 01:22:13,423 [ERROR] The Pretty Bee: Requests failed to load: https://theprettybee.com/easy-slow-cooker-taco-chicken/ | Error: 403 Client Error: Forbidden for url: https://theprettybee.com/easy-slow-cooker-taco-chicken/
+2025-04-04 01:22:13,424 [ERROR] The Pretty Bee: Error on link https://theprettybee.com/easy-slow-cooker-taco-chicken/: 403 Client Error: Forbidden for url: https://theprettybee.com/easy-slow-cooker-taco-chicken/
+2025-04-04 01:22:13,425 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/skillet-chicken-with-quinoa-and-red-peppers/
+2025-04-04 01:22:14,646 [ERROR] The Pretty Bee: Requests failed to load: https://theprettybee.com/skillet-chicken-with-quinoa-and-red-peppers/ | Error: 403 Client Error: Forbidden for url: https://theprettybee.com/skillet-chicken-with-quinoa-and-red-peppers/
+2025-04-04 01:22:14,647 [ERROR] The Pretty Bee: Error on link https://theprettybee.com/skillet-chicken-with-quinoa-and-red-peppers/: 403 Client Error: Forbidden for url: https://theprettybee.com/skillet-chicken-with-quinoa-and-red-peppers/
+2025-04-04 01:22:14,647 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/roasted-red-cabbage-and-red-quinoa/
+2025-04-04 01:22:15,671 [ERROR] The Pretty Bee: Requests failed to load: https://theprettybee.com/roasted-red-cabbage-and-red-quinoa/ | Error: 403 Client Error: Forbidden for url: https://theprettybee.com/roasted-red-cabbage-and-red-quinoa/
+2025-04-04 01:22:15,671 [ERROR] The Pretty Bee: Error on link https://theprettybee.com/roasted-red-cabbage-and-red-quinoa/: 403 Client Error: Forbidden for url: https://theprettybee.com/roasted-red-cabbage-and-red-quinoa/
+2025-04-04 01:22:15,672 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/easy-oven-roasted-chicken-legs/
+2025-04-04 01:22:16,387 [ERROR] The Pretty Bee: Requests failed to load: https://theprettybee.com/easy-oven-roasted-chicken-legs/ | Error: 403 Client Error: Forbidden for url: https://theprettybee.com/easy-oven-roasted-chicken-legs/
+2025-04-04 01:22:16,387 [ERROR] The Pretty Bee: Error on link https://theprettybee.com/easy-oven-roasted-chicken-legs/: 403 Client Error: Forbidden for url: https://theprettybee.com/easy-oven-roasted-chicken-legs/
+2025-04-04 01:22:16,387 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/all-american-vegan-recipes/
+2025-04-04 01:22:17,310 [ERROR] The Pretty Bee: Requests failed to load: https://theprettybee.com/all-american-vegan-recipes/ | Error: 403 Client Error: Forbidden for url: https://theprettybee.com/all-american-vegan-recipes/
+2025-04-04 01:22:17,310 [ERROR] The Pretty Bee: Error on link https://theprettybee.com/all-american-vegan-recipes/: 403 Client Error: Forbidden for url: https://theprettybee.com/all-american-vegan-recipes/
+2025-04-04 01:22:17,310 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/for-cold-nights-curry-in-hurry/
+2025-04-04 01:22:18,127 [ERROR] The Pretty Bee: Requests failed to load: https://theprettybee.com/for-cold-nights-curry-in-hurry/ | Error: 403 Client Error: Forbidden for url: https://theprettybee.com/for-cold-nights-curry-in-hurry/
+2025-04-04 01:22:18,127 [ERROR] The Pretty Bee: Error on link https://theprettybee.com/for-cold-nights-curry-in-hurry/: 403 Client Error: Forbidden for url: https://theprettybee.com/for-cold-nights-curry-in-hurry/
+2025-04-04 01:22:18,127 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/easy-skillet-chicken-and-rice/
+2025-04-04 01:22:18,845 [ERROR] The Pretty Bee: Requests failed to load: https://theprettybee.com/easy-skillet-chicken-and-rice/ | Error: 403 Client Error: Forbidden for url: https://theprettybee.com/easy-skillet-chicken-and-rice/
+2025-04-04 01:22:18,846 [ERROR] The Pretty Bee: Error on link https://theprettybee.com/easy-skillet-chicken-and-rice/: 403 Client Error: Forbidden for url: https://theprettybee.com/easy-skillet-chicken-and-rice/
+2025-04-04 01:22:18,846 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/creamy-orzo-buttered-breadcrumbs-mushrooms/
+2025-04-04 01:22:19,562 [ERROR] The Pretty Bee: Requests failed to load: https://theprettybee.com/creamy-orzo-buttered-breadcrumbs-mushrooms/ | Error: 403 Client Error: Forbidden for url: https://theprettybee.com/creamy-orzo-buttered-breadcrumbs-mushrooms/
+2025-04-04 01:22:19,563 [ERROR] The Pretty Bee: Error on link https://theprettybee.com/creamy-orzo-buttered-breadcrumbs-mushrooms/: 403 Client Error: Forbidden for url: https://theprettybee.com/creamy-orzo-buttered-breadcrumbs-mushrooms/
+2025-04-04 01:22:19,563 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/warm-quinoa-salad/
+2025-04-04 01:22:20,183 [ERROR] The Pretty Bee: Requests failed to load: https://theprettybee.com/warm-quinoa-salad/ | Error: 403 Client Error: Forbidden for url: https://theprettybee.com/warm-quinoa-salad/
+2025-04-04 01:22:20,183 [ERROR] The Pretty Bee: Error on link https://theprettybee.com/warm-quinoa-salad/: 403 Client Error: Forbidden for url: https://theprettybee.com/warm-quinoa-salad/
+2025-04-04 01:22:20,183 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/gift-jar-homemade-taco-seasoning/
+2025-04-04 01:22:20,768 [ERROR] The Pretty Bee: Requests failed to load: https://theprettybee.com/gift-jar-homemade-taco-seasoning/ | Error: 403 Client Error: Forbidden for url: https://theprettybee.com/gift-jar-homemade-taco-seasoning/
+2025-04-04 01:22:20,768 [ERROR] The Pretty Bee: Error on link https://theprettybee.com/gift-jar-homemade-taco-seasoning/: 403 Client Error: Forbidden for url: https://theprettybee.com/gift-jar-homemade-taco-seasoning/
+2025-04-04 01:22:20,768 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/stuffed-delicata-squash/
+2025-04-04 01:22:21,390 [ERROR] The Pretty Bee: Requests failed to load: https://theprettybee.com/stuffed-delicata-squash/ | Error: 403 Client Error: Forbidden for url: https://theprettybee.com/stuffed-delicata-squash/
+2025-04-04 01:22:21,390 [ERROR] The Pretty Bee: Error on link https://theprettybee.com/stuffed-delicata-squash/: 403 Client Error: Forbidden for url: https://theprettybee.com/stuffed-delicata-squash/
+2025-04-04 01:22:21,391 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/nut-free-dairy-free-pesto/
+2025-04-04 01:22:21,986 [ERROR] The Pretty Bee: Requests failed to load: https://theprettybee.com/nut-free-dairy-free-pesto/ | Error: 403 Client Error: Forbidden for url: https://theprettybee.com/nut-free-dairy-free-pesto/
+2025-04-04 01:22:21,986 [ERROR] The Pretty Bee: Error on link https://theprettybee.com/nut-free-dairy-free-pesto/: 403 Client Error: Forbidden for url: https://theprettybee.com/nut-free-dairy-free-pesto/
+2025-04-04 01:22:21,986 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/sheet-pan-sausage-and-peppers/
+2025-04-04 01:22:22,575 [ERROR] The Pretty Bee: Requests failed to load: https://theprettybee.com/sheet-pan-sausage-and-peppers/ | Error: 403 Client Error: Forbidden for url: https://theprettybee.com/sheet-pan-sausage-and-peppers/
+2025-04-04 01:22:22,576 [ERROR] The Pretty Bee: Error on link https://theprettybee.com/sheet-pan-sausage-and-peppers/: 403 Client Error: Forbidden for url: https://theprettybee.com/sheet-pan-sausage-and-peppers/
+2025-04-04 01:22:22,576 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/cheeseburger-soup-gluten-free-dairy-free/
+2025-04-04 01:22:23,169 [ERROR] The Pretty Bee: Requests failed to load: https://theprettybee.com/cheeseburger-soup-gluten-free-dairy-free/ | Error: 403 Client Error: Forbidden for url: https://theprettybee.com/cheeseburger-soup-gluten-free-dairy-free/
+2025-04-04 01:22:23,170 [ERROR] The Pretty Bee: Error on link https://theprettybee.com/cheeseburger-soup-gluten-free-dairy-free/: 403 Client Error: Forbidden for url: https://theprettybee.com/cheeseburger-soup-gluten-free-dairy-free/
+2025-04-04 01:22:23,170 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/comfort-food-shepherds-pie/
+2025-04-04 01:22:24,117 [ERROR] The Pretty Bee: Requests failed to load: https://theprettybee.com/comfort-food-shepherds-pie/ | Error: 403 Client Error: Forbidden for url: https://theprettybee.com/comfort-food-shepherds-pie/
+2025-04-04 01:22:24,117 [ERROR] The Pretty Bee: Error on link https://theprettybee.com/comfort-food-shepherds-pie/: 403 Client Error: Forbidden for url: https://theprettybee.com/comfort-food-shepherds-pie/
+2025-04-04 01:22:24,117 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/allergy-friendly-thanksgiving-recipes/
+2025-04-04 01:22:24,991 [ERROR] The Pretty Bee: Requests failed to load: https://theprettybee.com/allergy-friendly-thanksgiving-recipes/ | Error: 403 Client Error: Forbidden for url: https://theprettybee.com/allergy-friendly-thanksgiving-recipes/
+2025-04-04 01:22:24,991 [ERROR] The Pretty Bee: Error on link https://theprettybee.com/allergy-friendly-thanksgiving-recipes/: 403 Client Error: Forbidden for url: https://theprettybee.com/allergy-friendly-thanksgiving-recipes/
+2025-04-04 01:22:24,992 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/vegan-cheesy-broccoli-casserole/
+2025-04-04 01:22:25,620 [ERROR] The Pretty Bee: Requests failed to load: https://theprettybee.com/vegan-cheesy-broccoli-casserole/ | Error: 403 Client Error: Forbidden for url: https://theprettybee.com/vegan-cheesy-broccoli-casserole/
+2025-04-04 01:22:25,621 [ERROR] The Pretty Bee: Error on link https://theprettybee.com/vegan-cheesy-broccoli-casserole/: 403 Client Error: Forbidden for url: https://theprettybee.com/vegan-cheesy-broccoli-casserole/
+2025-04-04 01:22:25,622 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/mushroom-onion-vegan-quesadillas/
+2025-04-04 01:22:26,275 [ERROR] The Pretty Bee: Requests failed to load: https://theprettybee.com/mushroom-onion-vegan-quesadillas/ | Error: 403 Client Error: Forbidden for url: https://theprettybee.com/mushroom-onion-vegan-quesadillas/
+2025-04-04 01:22:26,276 [ERROR] The Pretty Bee: Error on link https://theprettybee.com/mushroom-onion-vegan-quesadillas/: 403 Client Error: Forbidden for url: https://theprettybee.com/mushroom-onion-vegan-quesadillas/
+2025-04-04 01:22:26,276 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/dairy-free-philly-cheesesteak/
+2025-04-04 01:22:26,932 [ERROR] The Pretty Bee: Requests failed to load: https://theprettybee.com/dairy-free-philly-cheesesteak/ | Error: 403 Client Error: Forbidden for url: https://theprettybee.com/dairy-free-philly-cheesesteak/
+2025-04-04 01:22:26,933 [ERROR] The Pretty Bee: Error on link https://theprettybee.com/dairy-free-philly-cheesesteak/: 403 Client Error: Forbidden for url: https://theprettybee.com/dairy-free-philly-cheesesteak/
+2025-04-04 01:22:26,933 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/sweet-baked-bean-turkey-chili/
+2025-04-04 01:22:27,538 [ERROR] The Pretty Bee: Requests failed to load: https://theprettybee.com/sweet-baked-bean-turkey-chili/ | Error: 403 Client Error: Forbidden for url: https://theprettybee.com/sweet-baked-bean-turkey-chili/
+2025-04-04 01:22:27,539 [ERROR] The Pretty Bee: Error on link https://theprettybee.com/sweet-baked-bean-turkey-chili/: 403 Client Error: Forbidden for url: https://theprettybee.com/sweet-baked-bean-turkey-chili/
+2025-04-04 01:22:27,539 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/gluten-free-turkey-meatloaf/
+2025-04-04 01:22:28,267 [ERROR] The Pretty Bee: Requests failed to load: https://theprettybee.com/gluten-free-turkey-meatloaf/ | Error: 403 Client Error: Forbidden for url: https://theprettybee.com/gluten-free-turkey-meatloaf/
+2025-04-04 01:22:28,268 [ERROR] The Pretty Bee: Error on link https://theprettybee.com/gluten-free-turkey-meatloaf/: 403 Client Error: Forbidden for url: https://theprettybee.com/gluten-free-turkey-meatloaf/
+2025-04-04 01:22:28,269 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/homemade-hamburger-helper-gluten-free-dairy-free/
+2025-04-04 01:22:29,037 [ERROR] The Pretty Bee: Database error saving recipe from https://theprettybee.com/homemade-hamburger-helper-gluten-free-dairy-free/: A string literal cannot contain NUL (0x00) characters.
+2025-04-04 01:22:29,038 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/taco-seasoning/
+2025-04-04 01:22:30,526 [ERROR] The Pretty Bee: Database error saving recipe from https://theprettybee.com/taco-seasoning/: A string literal cannot contain NUL (0x00) characters.
+2025-04-04 01:22:30,526 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/gluten-free-turkey-quesadillas/
+2025-04-04 01:22:31,235 [ERROR] The Pretty Bee: Requests failed to load: https://theprettybee.com/gluten-free-turkey-quesadillas/ | Error: 403 Client Error: Forbidden for url: https://theprettybee.com/gluten-free-turkey-quesadillas/
+2025-04-04 01:22:31,235 [ERROR] The Pretty Bee: Error on link https://theprettybee.com/gluten-free-turkey-quesadillas/: 403 Client Error: Forbidden for url: https://theprettybee.com/gluten-free-turkey-quesadillas/
+2025-04-04 01:22:31,235 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/honey-mustard-kale-salad-sausage/
+2025-04-04 01:22:31,850 [ERROR] The Pretty Bee: Requests failed to load: https://theprettybee.com/honey-mustard-kale-salad-sausage/ | Error: 403 Client Error: Forbidden for url: https://theprettybee.com/honey-mustard-kale-salad-sausage/
+2025-04-04 01:22:31,850 [ERROR] The Pretty Bee: Error on link https://theprettybee.com/honey-mustard-kale-salad-sausage/: 403 Client Error: Forbidden for url: https://theprettybee.com/honey-mustard-kale-salad-sausage/
+2025-04-04 01:22:31,850 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/barbecue-chicken-meatballs/
+2025-04-04 01:22:32,669 [ERROR] The Pretty Bee: Requests failed to load: https://theprettybee.com/barbecue-chicken-meatballs/ | Error: 403 Client Error: Forbidden for url: https://theprettybee.com/barbecue-chicken-meatballs/
+2025-04-04 01:22:32,670 [ERROR] The Pretty Bee: Error on link https://theprettybee.com/barbecue-chicken-meatballs/: 403 Client Error: Forbidden for url: https://theprettybee.com/barbecue-chicken-meatballs/
+2025-04-04 01:22:32,670 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/creamy-garlic-pasta-with-chicken-meatballs/
+2025-04-04 01:22:33,488 [ERROR] The Pretty Bee: Requests failed to load: https://theprettybee.com/creamy-garlic-pasta-with-chicken-meatballs/ | Error: 403 Client Error: Forbidden for url: https://theprettybee.com/creamy-garlic-pasta-with-chicken-meatballs/
+2025-04-04 01:22:33,488 [ERROR] The Pretty Bee: Error on link https://theprettybee.com/creamy-garlic-pasta-with-chicken-meatballs/: 403 Client Error: Forbidden for url: https://theprettybee.com/creamy-garlic-pasta-with-chicken-meatballs/
+2025-04-04 01:22:33,488 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/easy-dairy-free-chicken-coconut-curry/
+2025-04-04 01:22:34,307 [ERROR] The Pretty Bee: Requests failed to load: https://theprettybee.com/easy-dairy-free-chicken-coconut-curry/ | Error: 403 Client Error: Forbidden for url: https://theprettybee.com/easy-dairy-free-chicken-coconut-curry/
+2025-04-04 01:22:34,308 [ERROR] The Pretty Bee: Error on link https://theprettybee.com/easy-dairy-free-chicken-coconut-curry/: 403 Client Error: Forbidden for url: https://theprettybee.com/easy-dairy-free-chicken-coconut-curry/
+2025-04-04 01:22:34,308 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/easy-vegan-meatballs/
+2025-04-04 01:22:35,125 [ERROR] The Pretty Bee: Requests failed to load: https://theprettybee.com/easy-vegan-meatballs/ | Error: 403 Client Error: Forbidden for url: https://theprettybee.com/easy-vegan-meatballs/
+2025-04-04 01:22:35,126 [ERROR] The Pretty Bee: Error on link https://theprettybee.com/easy-vegan-meatballs/: 403 Client Error: Forbidden for url: https://theprettybee.com/easy-vegan-meatballs/
+2025-04-04 01:22:35,126 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/chicken-salad-sandwiches/
+2025-04-04 01:22:36,150 [ERROR] The Pretty Bee: Requests failed to load: https://theprettybee.com/chicken-salad-sandwiches/ | Error: 403 Client Error: Forbidden for url: https://theprettybee.com/chicken-salad-sandwiches/
+2025-04-04 01:22:36,150 [ERROR] The Pretty Bee: Error on link https://theprettybee.com/chicken-salad-sandwiches/: 403 Client Error: Forbidden for url: https://theprettybee.com/chicken-salad-sandwiches/
+2025-04-04 01:22:36,151 [INFO] The Pretty Bee: Scraper finished for site: The Pretty Bee

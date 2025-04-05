@@ -1,0 +1,16 @@
+2025-04-05 15:21:15,528 [INFO] The Allergen Free Kitchen: Database connection established successfully.
+2025-04-05 15:21:15,529 [INFO] The Allergen Free Kitchen: Initialized scraper for site: The Allergen Free Kitchen
+2025-04-05 15:21:15,529 [INFO] The Allergen Free Kitchen: Fetching URL: https://www.theallergenfreekitchen.com/category/recipes/
+2025-04-05 15:21:16,642 [ERROR] The Allergen Free Kitchen: Requests failed to load: https://www.theallergenfreekitchen.com/category/recipes/ | Error: 403 Client Error: Forbidden for url: https://www.theallergenfreekitchen.com/category/recipes/
+2025-04-05 15:21:16,642 [ERROR] The Allergen Free Kitchen: Failed to fetch page https://www.theallergenfreekitchen.com/category/recipes/: 403 Client Error: Forbidden for url: https://www.theallergenfreekitchen.com/category/recipes/
+2025-04-05 15:21:16,647 [INFO] The Allergen Free Kitchen: Fetching URL: https://www.theallergenfreekitchen.com/category/meals/
+2025-04-05 15:21:17,109 [ERROR] The Allergen Free Kitchen: Requests failed to load: https://www.theallergenfreekitchen.com/category/meals/ | Error: 403 Client Error: Forbidden for url: https://www.theallergenfreekitchen.com/category/meals/
+2025-04-05 15:21:17,109 [ERROR] The Allergen Free Kitchen: Failed to fetch page https://www.theallergenfreekitchen.com/category/meals/: 403 Client Error: Forbidden for url: https://www.theallergenfreekitchen.com/category/meals/
+2025-04-05 15:21:17,109 [INFO] The Allergen Free Kitchen: Fetching URL: https://www.theallergenfreekitchen.com/category/special-diets/
+2025-04-05 15:21:17,608 [ERROR] The Allergen Free Kitchen: Requests failed to load: https://www.theallergenfreekitchen.com/category/special-diets/ | Error: 403 Client Error: Forbidden for url: https://www.theallergenfreekitchen.com/category/special-diets/
+2025-04-05 15:21:17,608 [ERROR] The Allergen Free Kitchen: Failed to fetch page https://www.theallergenfreekitchen.com/category/special-diets/: 403 Client Error: Forbidden for url: https://www.theallergenfreekitchen.com/category/special-diets/
+2025-04-05 15:21:17,608 [INFO] The Allergen Free Kitchen: Fetching URL: https://www.theallergenfreekitchen.com/category/snacks/
+2025-04-05 15:21:18,118 [ERROR] The Allergen Free Kitchen: Requests failed to load: https://www.theallergenfreekitchen.com/category/snacks/ | Error: 403 Client Error: Forbidden for url: https://www.theallergenfreekitchen.com/category/snacks/
+2025-04-05 15:21:18,118 [ERROR] The Allergen Free Kitchen: Failed to fetch page https://www.theallergenfreekitchen.com/category/snacks/: 403 Client Error: Forbidden for url: https://www.theallergenfreekitchen.com/category/snacks/
+2025-04-05 15:21:18,118 [INFO] The Allergen Free Kitchen: Found 0 unique recipe links for site 'The Allergen Free Kitchen'.
+2025-04-05 15:21:18,119 [INFO] The Allergen Free Kitchen: Scraper finished for site: The Allergen Free Kitchen

@@ -1,0 +1,17 @@
+{
+  "site_name": "Yummly Easy",
+  "base_url": "https://yummlyeasy.com",
+  "start_urls": [
+    "https://yummlyeasy.com/category/all-recipes/",
+    "https://yummlyeasy.com/category/main-dishes/",
+    "https://yummlyeasy.com/category/appetizer/",
+    "https://yummlyeasy.com/category/desserts/"
+  ],
+  "recipe_link_selector": "h2.entry-title a.entry-title-link",
+  "pagination_selector": "li.pagination-next a",
+  "title_selector": "header.entry-header h1.entry-title",
+  "ingredients_selector": "div.entry-content ol:first-of-type li",
+  "instructions_selector": "div.entry-content ol:nth-of-type(3) li",
+  "tags_selector": null,
+  "use_selenium": false
+}

@@ -1,0 +1,17 @@
+{
+  "site_name": "The Allergen Free Kitchen",
+  "base_url": "https://www.theallergenfreekitchen.com",
+  "start_urls": [
+    "https://www.theallergenfreekitchen.com/category/recipes/",
+    "https://www.theallergenfreekitchen.com/category/meals/",
+    "https://www.theallergenfreekitchen.com/category/special-diets/",
+    "https://www.theallergenfreekitchen.com/category/snacks/"
+  ],
+  "recipe_link_selector": "ul.fsri-list li.listing-item a",
+  "pagination_selector": "a.next.page-numbers",
+  "title_selector": "h1.entry-title",
+  "ingredients_selector": "div.wprm-recipe-ingredient-group ul.wprm-recipe-ingredients li.wprm-recipe-ingredient",
+  "instructions_selector": "div.wprm-recipe-instruction-text",
+  "tags_selector": null,
+  "use_selenium": false
+}

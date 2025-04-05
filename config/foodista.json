@@ -1,0 +1,15 @@
+
+{
+  "site_name": "Foodista",
+  "base_url": "https://www.foodista.com",
+  "start_urls": [
+    "https://www.foodista.com/community-recipes"
+  ],
+  "recipe_link_selector": "div.views-field.views-field-title span.field-content a",
+  "pagination_selector": "div.item-list ul.pager li.pager-next a",
+  "title_selector": "h1.title#page-title",
+  "ingredients_selector": "div.field-items div[itemprop='ingredients']",
+  "instructions_selector": "div.step-body[itemprop='recipeInstructions']",
+  "tags_selector": null,
+  "use_selenium": false
+}

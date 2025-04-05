@@ -1,0 +1,566 @@
+2025-04-05 00:05:19,551 [INFO] Yummly Easy: Database connection established successfully.
+2025-04-05 00:05:19,551 [INFO] Yummly Easy: Initialized scraper for site: Yummly Easy
+2025-04-05 00:05:19,551 [INFO] Yummly Easy: Fetching URL: https://yummlyeasy.com/category/all-recipes/
+2025-04-05 00:05:24,136 [INFO] Yummly Easy: Fetching URL: https://yummlyeasy.com/category/all-recipes/page/2/
+2025-04-05 00:05:28,235 [INFO] Yummly Easy: Fetching URL: https://yummlyeasy.com/category/all-recipes/page/3/
+2025-04-05 00:05:31,504 [INFO] Yummly Easy: Fetching URL: https://yummlyeasy.com/category/main-dishes/
+2025-04-05 00:05:35,132 [INFO] Yummly Easy: Fetching URL: https://yummlyeasy.com/category/main-dishes/page/2/
+2025-04-05 00:05:38,497 [INFO] Yummly Easy: Fetching URL: https://yummlyeasy.com/category/main-dishes/page/3/
+2025-04-05 00:05:41,714 [INFO] Yummly Easy: Fetching URL: https://yummlyeasy.com/category/main-dishes/page/4/
+2025-04-05 00:05:45,086 [INFO] Yummly Easy: Fetching URL: https://yummlyeasy.com/category/main-dishes/page/5/
+2025-04-05 00:05:48,334 [INFO] Yummly Easy: Fetching URL: https://yummlyeasy.com/category/main-dishes/page/6/
+2025-04-05 00:05:53,560 [INFO] Yummly Easy: Fetching URL: https://yummlyeasy.com/category/main-dishes/page/7/
+2025-04-05 00:05:57,217 [INFO] Yummly Easy: Fetching URL: https://yummlyeasy.com/category/main-dishes/page/8/
+2025-04-05 00:06:01,573 [INFO] Yummly Easy: Fetching URL: https://yummlyeasy.com/category/main-dishes/page/9/
+2025-04-05 00:06:05,731 [INFO] Yummly Easy: Fetching URL: https://yummlyeasy.com/category/main-dishes/page/10/
+2025-04-05 00:06:09,542 [INFO] Yummly Easy: Fetching URL: https://yummlyeasy.com/category/main-dishes/page/11/
+2025-04-05 00:06:13,104 [INFO] Yummly Easy: Fetching URL: https://yummlyeasy.com/category/main-dishes/page/12/
+2025-04-05 00:06:17,855 [INFO] Yummly Easy: Fetching URL: https://yummlyeasy.com/category/main-dishes/page/13/
+2025-04-05 00:06:21,572 [INFO] Yummly Easy: Fetching URL: https://yummlyeasy.com/category/main-dishes/page/14/
+2025-04-05 00:06:25,221 [INFO] Yummly Easy: Fetching URL: https://yummlyeasy.com/category/main-dishes/page/15/
+2025-04-05 00:06:28,803 [INFO] Yummly Easy: Fetching URL: https://yummlyeasy.com/category/main-dishes/page/16/
+2025-04-05 00:06:32,602 [INFO] Yummly Easy: Fetching URL: https://yummlyeasy.com/category/main-dishes/page/17/
+2025-04-05 00:06:36,444 [INFO] Yummly Easy: Fetching URL: https://yummlyeasy.com/category/main-dishes/page/18/
+2025-04-05 00:06:40,157 [INFO] Yummly Easy: Fetching URL: https://yummlyeasy.com/category/main-dishes/page/19/
+2025-04-05 00:06:43,804 [INFO] Yummly Easy: Fetching URL: https://yummlyeasy.com/category/main-dishes/page/20/
+2025-04-05 00:06:47,392 [INFO] Yummly Easy: Fetching URL: https://yummlyeasy.com/category/main-dishes/page/21/
+2025-04-05 00:06:50,969 [INFO] Yummly Easy: Fetching URL: https://yummlyeasy.com/category/main-dishes/page/22/
+2025-04-05 00:06:54,514 [INFO] Yummly Easy: Fetching URL: https://yummlyeasy.com/category/main-dishes/page/23/
+2025-04-05 00:06:58,017 [INFO] Yummly Easy: Fetching URL: https://yummlyeasy.com/category/main-dishes/page/24/
+2025-04-05 00:07:01,380 [INFO] Yummly Easy: Fetching URL: https://yummlyeasy.com/category/main-dishes/page/25/
+2025-04-05 00:07:04,932 [INFO] Yummly Easy: Fetching URL: https://yummlyeasy.com/category/main-dishes/page/26/
+2025-04-05 00:07:08,856 [INFO] Yummly Easy: Fetching URL: https://yummlyeasy.com/category/main-dishes/page/27/
+2025-04-05 00:07:12,406 [INFO] Yummly Easy: Fetching URL: https://yummlyeasy.com/category/main-dishes/page/28/
+2025-04-05 00:07:16,155 [INFO] Yummly Easy: Fetching URL: https://yummlyeasy.com/category/main-dishes/page/29/
+2025-04-05 00:07:19,791 [INFO] Yummly Easy: Fetching URL: https://yummlyeasy.com/category/main-dishes/page/30/
+2025-04-05 00:07:23,438 [INFO] Yummly Easy: Fetching URL: https://yummlyeasy.com/category/main-dishes/page/31/
+2025-04-05 00:07:27,110 [INFO] Yummly Easy: Fetching URL: https://yummlyeasy.com/category/main-dishes/page/32/
+2025-04-05 00:07:30,382 [INFO] Yummly Easy: Fetching URL: https://yummlyeasy.com/category/main-dishes/page/33/
+2025-04-05 00:07:33,597 [INFO] Yummly Easy: Fetching URL: https://yummlyeasy.com/category/main-dishes/page/34/
+2025-04-05 00:07:37,241 [INFO] Yummly Easy: Fetching URL: https://yummlyeasy.com/category/main-dishes/page/35/
+2025-04-05 00:07:40,360 [INFO] Yummly Easy: Fetching URL: https://yummlyeasy.com/category/main-dishes/page/36/
+2025-04-05 00:07:43,898 [INFO] Yummly Easy: Fetching URL: https://yummlyeasy.com/category/main-dishes/page/37/
+2025-04-05 00:07:46,954 [INFO] Yummly Easy: Fetching URL: https://yummlyeasy.com/category/main-dishes/page/38/
+2025-04-05 00:07:50,118 [INFO] Yummly Easy: Fetching URL: https://yummlyeasy.com/category/main-dishes/page/39/
+2025-04-05 00:07:53,295 [INFO] Yummly Easy: Fetching URL: https://yummlyeasy.com/category/main-dishes/page/40/
+2025-04-05 00:07:56,696 [INFO] Yummly Easy: Fetching URL: https://yummlyeasy.com/category/main-dishes/page/41/
+2025-04-05 00:08:00,109 [INFO] Yummly Easy: Fetching URL: https://yummlyeasy.com/category/main-dishes/page/42/
+2025-04-05 00:08:03,591 [INFO] Yummly Easy: Fetching URL: https://yummlyeasy.com/category/main-dishes/page/43/
+2025-04-05 00:08:07,338 [INFO] Yummly Easy: Fetching URL: https://yummlyeasy.com/category/main-dishes/page/44/
+2025-04-05 00:08:10,517 [INFO] Yummly Easy: Fetching URL: https://yummlyeasy.com/category/main-dishes/page/45/
+2025-04-05 00:08:14,689 [INFO] Yummly Easy: Fetching URL: https://yummlyeasy.com/category/main-dishes/page/46/
+2025-04-05 00:08:18,214 [INFO] Yummly Easy: Fetching URL: https://yummlyeasy.com/category/main-dishes/page/47/
+2025-04-05 00:08:21,407 [INFO] Yummly Easy: Fetching URL: https://yummlyeasy.com/category/main-dishes/page/48/
+2025-04-05 00:08:24,776 [INFO] Yummly Easy: Fetching URL: https://yummlyeasy.com/category/main-dishes/page/49/
+2025-04-05 00:08:27,912 [INFO] Yummly Easy: Fetching URL: https://yummlyeasy.com/category/main-dishes/page/50/
+2025-04-05 00:08:31,369 [INFO] Yummly Easy: Fetching URL: https://yummlyeasy.com/category/main-dishes/page/51/
+2025-04-05 00:08:35,687 [INFO] Yummly Easy: Fetching URL: https://yummlyeasy.com/category/main-dishes/page/52/
+2025-04-05 00:08:39,212 [INFO] Yummly Easy: Fetching URL: https://yummlyeasy.com/category/main-dishes/page/53/
+2025-04-05 00:08:42,835 [INFO] Yummly Easy: Fetching URL: https://yummlyeasy.com/category/main-dishes/page/54/
+2025-04-05 00:08:46,199 [INFO] Yummly Easy: Fetching URL: https://yummlyeasy.com/category/main-dishes/page/55/
+2025-04-05 00:08:49,880 [INFO] Yummly Easy: Fetching URL: https://yummlyeasy.com/category/main-dishes/page/56/
+2025-04-05 00:08:53,139 [INFO] Yummly Easy: Fetching URL: https://yummlyeasy.com/category/main-dishes/page/57/
+2025-04-05 00:08:56,457 [INFO] Yummly Easy: Fetching URL: https://yummlyeasy.com/category/main-dishes/page/58/
+2025-04-05 00:08:59,815 [INFO] Yummly Easy: Fetching URL: https://yummlyeasy.com/category/main-dishes/page/59/
+2025-04-05 00:09:04,102 [INFO] Yummly Easy: Fetching URL: https://yummlyeasy.com/category/appetizer/
+2025-04-05 00:09:08,108 [INFO] Yummly Easy: Fetching URL: https://yummlyeasy.com/category/appetizer/page/2/
+2025-04-05 00:09:11,490 [INFO] Yummly Easy: Fetching URL: https://yummlyeasy.com/category/appetizer/page/3/
+2025-04-05 00:09:15,787 [INFO] Yummly Easy: Fetching URL: https://yummlyeasy.com/category/appetizer/page/4/
+2025-04-05 00:09:19,418 [INFO] Yummly Easy: Fetching URL: https://yummlyeasy.com/category/appetizer/page/5/
+2025-04-05 00:09:22,828 [INFO] Yummly Easy: Fetching URL: https://yummlyeasy.com/category/appetizer/page/6/
+2025-04-05 00:09:26,258 [INFO] Yummly Easy: Fetching URL: https://yummlyeasy.com/category/appetizer/page/7/
+2025-04-05 00:09:29,631 [INFO] Yummly Easy: Fetching URL: https://yummlyeasy.com/category/appetizer/page/8/
+2025-04-05 00:09:32,754 [INFO] Yummly Easy: Fetching URL: https://yummlyeasy.com/category/appetizer/page/9/
+2025-04-05 00:09:36,239 [INFO] Yummly Easy: Fetching URL: https://yummlyeasy.com/category/appetizer/page/10/
+2025-04-05 00:09:40,002 [INFO] Yummly Easy: Fetching URL: https://yummlyeasy.com/category/desserts/
+2025-04-05 00:09:43,321 [INFO] Yummly Easy: Fetching URL: https://yummlyeasy.com/category/desserts/page/2/
+2025-04-05 00:09:46,725 [INFO] Yummly Easy: Fetching URL: https://yummlyeasy.com/category/desserts/page/3/
+2025-04-05 00:09:50,101 [INFO] Yummly Easy: Fetching URL: https://yummlyeasy.com/category/desserts/page/4/
+2025-04-05 00:09:53,373 [INFO] Yummly Easy: Fetching URL: https://yummlyeasy.com/category/desserts/page/5/
+2025-04-05 00:09:57,098 [INFO] Yummly Easy: Fetching URL: https://yummlyeasy.com/category/desserts/page/6/
+2025-04-05 00:10:00,404 [INFO] Yummly Easy: Fetching URL: https://yummlyeasy.com/category/desserts/page/7/
+2025-04-05 00:10:04,598 [INFO] Yummly Easy: Fetching URL: https://yummlyeasy.com/category/desserts/page/8/
+2025-04-05 00:10:08,396 [INFO] Yummly Easy: Fetching URL: https://yummlyeasy.com/category/desserts/page/9/
+2025-04-05 00:10:12,267 [INFO] Yummly Easy: Fetching URL: https://yummlyeasy.com/category/desserts/page/10/
+2025-04-05 00:10:17,086 [INFO] Yummly Easy: Fetching URL: https://yummlyeasy.com/category/desserts/page/11/
+2025-04-05 00:10:20,443 [INFO] Yummly Easy: Fetching URL: https://yummlyeasy.com/category/desserts/page/12/
+2025-04-05 00:10:23,875 [INFO] Yummly Easy: Fetching URL: https://yummlyeasy.com/category/desserts/page/13/
+2025-04-05 00:10:27,500 [INFO] Yummly Easy: Fetching URL: https://yummlyeasy.com/category/desserts/page/14/
+2025-04-05 00:10:31,302 [INFO] Yummly Easy: Fetching URL: https://yummlyeasy.com/category/desserts/page/15/
+2025-04-05 00:10:34,530 [INFO] Yummly Easy: Fetching URL: https://yummlyeasy.com/category/desserts/page/16/
+2025-04-05 00:10:37,869 [INFO] Yummly Easy: Fetching URL: https://yummlyeasy.com/category/desserts/page/17/
+2025-04-05 00:10:41,215 [INFO] Yummly Easy: Fetching URL: https://yummlyeasy.com/category/desserts/page/18/
+2025-04-05 00:10:44,622 [INFO] Yummly Easy: Fetching URL: https://yummlyeasy.com/category/desserts/page/19/
+2025-04-05 00:10:47,953 [INFO] Yummly Easy: Fetching URL: https://yummlyeasy.com/category/desserts/page/20/
+2025-04-05 00:10:51,530 [INFO] Yummly Easy: Fetching URL: https://yummlyeasy.com/category/desserts/page/21/
+2025-04-05 00:10:54,760 [INFO] Yummly Easy: Fetching URL: https://yummlyeasy.com/category/desserts/page/22/
+2025-04-05 00:10:58,028 [INFO] Yummly Easy: Fetching URL: https://yummlyeasy.com/category/desserts/page/23/
+2025-04-05 00:11:01,215 [INFO] Yummly Easy: Fetching URL: https://yummlyeasy.com/category/desserts/page/24/
+2025-04-05 00:11:05,040 [INFO] Yummly Easy: Fetching URL: https://yummlyeasy.com/category/desserts/page/25/
+2025-04-05 00:11:08,891 [INFO] Yummly Easy: Fetching URL: https://yummlyeasy.com/category/desserts/page/26/
+2025-04-05 00:11:12,307 [INFO] Yummly Easy: Fetching URL: https://yummlyeasy.com/category/desserts/page/27/
+2025-04-05 00:11:16,250 [INFO] Yummly Easy: Fetching URL: https://yummlyeasy.com/category/desserts/page/28/
+2025-04-05 00:11:19,949 [INFO] Yummly Easy: Fetching URL: https://yummlyeasy.com/category/desserts/page/29/
+2025-04-05 00:11:23,812 [INFO] Yummly Easy: Fetching URL: https://yummlyeasy.com/category/desserts/page/30/
+2025-04-05 00:11:27,802 [INFO] Yummly Easy: Fetching URL: https://yummlyeasy.com/category/desserts/page/31/
+2025-04-05 00:11:31,128 [INFO] Yummly Easy: Fetching URL: https://yummlyeasy.com/category/desserts/page/32/
+2025-04-05 00:11:34,521 [INFO] Yummly Easy: Fetching URL: https://yummlyeasy.com/category/desserts/page/33/
+2025-04-05 00:11:37,880 [INFO] Yummly Easy: Fetching URL: https://yummlyeasy.com/category/desserts/page/34/
+2025-04-05 00:11:41,086 [INFO] Yummly Easy: Found 1035 unique recipe links for site 'Yummly Easy'.
+2025-04-05 00:11:41,086 [INFO] Yummly Easy: Fetching URL: https://yummlyeasy.com/no-bake-pineapple-heaven-cheesecake-dessert/
+2025-04-05 00:11:44,913 [INFO] Yummly Easy: Saved recipe: 'No-Bake Pineapple Heaven Cheesecake Dessert' (URL: https://yummlyeasy.com/no-bake-pineapple-heaven-cheesecake-dessert/)
+2025-04-05 00:11:44,913 [INFO] Yummly Easy: Fetching URL: https://yummlyeasy.com/easy-chicken-fried-rice-delicious-one-pot-meal/
+2025-04-05 00:11:48,826 [INFO] Yummly Easy: Saved recipe: 'Easy Chicken Fried Rice – Delicious One-Pot Meal' (URL: https://yummlyeasy.com/easy-chicken-fried-rice-delicious-one-pot-meal/)
+2025-04-05 00:11:48,826 [INFO] Yummly Easy: Fetching URL: https://yummlyeasy.com/chicken-kabobs-recipe/
+2025-04-05 00:11:53,695 [INFO] Yummly Easy: Saved recipe: 'Chicken Kabobs Recipe' (URL: https://yummlyeasy.com/chicken-kabobs-recipe/)
+2025-04-05 00:11:53,695 [INFO] Yummly Easy: Fetching URL: https://yummlyeasy.com/chicken-teriyaki-recipe/
+2025-04-05 00:11:57,817 [INFO] Yummly Easy: Saved recipe: 'Chicken Teriyaki Recipe' (URL: https://yummlyeasy.com/chicken-teriyaki-recipe/)
+2025-04-05 00:11:57,817 [INFO] Yummly Easy: Fetching URL: https://yummlyeasy.com/indulge-in-smoky-cheesy-goodness-with-smoked-mac-and-cheese/
+2025-04-05 00:12:02,394 [INFO] Yummly Easy: Saved recipe: 'Indulge in Smoky, Cheesy Goodness with Smoked Mac and Cheese' (URL: https://yummlyeasy.com/indulge-in-smoky-cheesy-goodness-with-smoked-mac-and-cheese/)
+2025-04-05 00:12:02,394 [INFO] Yummly Easy: Fetching URL: https://yummlyeasy.com/ground-beef-mongolian-noodles-recipe/
+2025-04-05 00:12:06,783 [INFO] Yummly Easy: Saved recipe: 'Ground Beef Mongolian Noodles Recipe' (URL: https://yummlyeasy.com/ground-beef-mongolian-noodles-recipe/)
+2025-04-05 00:12:06,783 [INFO] Yummly Easy: Fetching URL: https://yummlyeasy.com/feta-cheese-recipe/
+2025-04-05 00:12:11,098 [INFO] Yummly Easy: Saved recipe: 'Feta Cheese Recipe' (URL: https://yummlyeasy.com/feta-cheese-recipe/)
+2025-04-05 00:12:11,098 [INFO] Yummly Easy: Fetching URL: https://yummlyeasy.com/easy-croissant-breakfast-sandwich-casserole-recipe/
+2025-04-05 00:12:16,285 [INFO] Yummly Easy: Saved recipe: 'Easy Croissant Breakfast Sandwich Casserole Recipe' (URL: https://yummlyeasy.com/easy-croissant-breakfast-sandwich-casserole-recipe/)
+2025-04-05 00:12:16,286 [INFO] Yummly Easy: Fetching URL: https://yummlyeasy.com/sesame-chicken-recipe/
+2025-04-05 00:12:20,186 [INFO] Yummly Easy: Saved recipe: 'Sesame Chicken Recipe' (URL: https://yummlyeasy.com/sesame-chicken-recipe/)
+2025-04-05 00:12:20,186 [INFO] Yummly Easy: Fetching URL: https://yummlyeasy.com/air-fryer-mozzarella-sticks-recipe/
+2025-04-05 00:12:24,067 [INFO] Yummly Easy: Saved recipe: 'Air Fryer Mozzarella Sticks Recipe' (URL: https://yummlyeasy.com/air-fryer-mozzarella-sticks-recipe/)
+2025-04-05 00:12:24,067 [INFO] Yummly Easy: Fetching URL: https://yummlyeasy.com/strawberry-muffins-recipe/
+2025-04-05 00:12:28,172 [INFO] Yummly Easy: Saved recipe: 'Strawberry Muffins Recipe' (URL: https://yummlyeasy.com/strawberry-muffins-recipe/)
+2025-04-05 00:12:28,172 [INFO] Yummly Easy: Fetching URL: https://yummlyeasy.com/boston-cream-donuts-recipe/
+2025-04-05 00:12:32,439 [INFO] Yummly Easy: Saved recipe: 'Boston Cream Donuts Recipe' (URL: https://yummlyeasy.com/boston-cream-donuts-recipe/)
+2025-04-05 00:12:32,439 [INFO] Yummly Easy: Fetching URL: https://yummlyeasy.com/creamy-one-pot-spaghetti-with-italian-sausage-a-comforting-weeknight-dinner/
+2025-04-05 00:12:36,453 [INFO] Yummly Easy: Saved recipe: 'Creamy One-Pot Spaghetti with Italian Sausage – A Comforting Weeknight Dinner' (URL: https://yummlyeasy.com/creamy-one-pot-spaghetti-with-italian-sausage-a-comforting-weeknight-dinner/)
+2025-04-05 00:12:36,453 [INFO] Yummly Easy: Fetching URL: https://yummlyeasy.com/no-bake-chocolate-peanut-butter-rice-krispie-treats-easy-delicious/
+2025-04-05 00:12:40,604 [INFO] Yummly Easy: Saved recipe: 'No Bake Chocolate Peanut Butter Rice Krispie Treats – Easy & Delicious!' (URL: https://yummlyeasy.com/no-bake-chocolate-peanut-butter-rice-krispie-treats-easy-delicious/)
+2025-04-05 00:12:40,604 [INFO] Yummly Easy: Fetching URL: https://yummlyeasy.com/quiche-recipe/
+2025-04-05 00:12:44,391 [INFO] Yummly Easy: Saved recipe: 'Quiche Recipe' (URL: https://yummlyeasy.com/quiche-recipe/)
+2025-04-05 00:12:44,391 [INFO] Yummly Easy: Fetching URL: https://yummlyeasy.com/sausage-gravy-recipe/
+2025-04-05 00:12:48,528 [INFO] Yummly Easy: Saved recipe: 'Sausage Gravy Recipe' (URL: https://yummlyeasy.com/sausage-gravy-recipe/)
+2025-04-05 00:12:48,528 [INFO] Yummly Easy: Fetching URL: https://yummlyeasy.com/eggnog-bundt-cake-with-eggnog-frosting-the-ultimate-holiday-recipe/
+2025-04-05 00:12:52,817 [INFO] Yummly Easy: Saved recipe: 'Eggnog Bundt Cake with Eggnog Frosting: The Ultimate Holiday Recipe' (URL: https://yummlyeasy.com/eggnog-bundt-cake-with-eggnog-frosting-the-ultimate-holiday-recipe/)
+2025-04-05 00:12:52,817 [INFO] Yummly Easy: Fetching URL: https://yummlyeasy.com/fluffy-blueberry-marshmallow-delight/
+2025-04-05 00:12:56,970 [INFO] Yummly Easy: Saved recipe: 'Fluffy Blueberry Marshmallow Delight' (URL: https://yummlyeasy.com/fluffy-blueberry-marshmallow-delight/)
+2025-04-05 00:12:56,970 [INFO] Yummly Easy: Fetching URL: https://yummlyeasy.com/california-spaghetti-salad-recipe/
+2025-04-05 00:13:01,154 [INFO] Yummly Easy: Saved recipe: 'California Spaghetti Salad Recipe' (URL: https://yummlyeasy.com/california-spaghetti-salad-recipe/)
+2025-04-05 00:13:01,154 [INFO] Yummly Easy: Fetching URL: https://yummlyeasy.com/fish-taco-sauce-recipe/
+2025-04-05 00:13:05,610 [INFO] Yummly Easy: Saved recipe: 'Fish Taco Sauce Recipe' (URL: https://yummlyeasy.com/fish-taco-sauce-recipe/)
+2025-04-05 00:13:05,610 [INFO] Yummly Easy: Fetching URL: https://yummlyeasy.com/strawberry-milkshake-recipe/
+2025-04-05 00:13:09,939 [INFO] Yummly Easy: Saved recipe: 'Strawberry Milkshake Recipe' (URL: https://yummlyeasy.com/strawberry-milkshake-recipe/)
+2025-04-05 00:13:09,939 [INFO] Yummly Easy: Fetching URL: https://yummlyeasy.com/hamburger-steak-recipe/
+2025-04-05 00:13:14,206 [INFO] Yummly Easy: Saved recipe: 'Hamburger Steak Recipe' (URL: https://yummlyeasy.com/hamburger-steak-recipe/)
+2025-04-05 00:13:14,206 [INFO] Yummly Easy: Fetching URL: https://yummlyeasy.com/marry-me-chicken-pasta-recipe/
+2025-04-05 00:13:18,778 [INFO] Yummly Easy: Saved recipe: 'Marry Me Chicken Pasta Recipe' (URL: https://yummlyeasy.com/marry-me-chicken-pasta-recipe/)
+2025-04-05 00:13:18,778 [INFO] Yummly Easy: Fetching URL: https://yummlyeasy.com/twice-baked-potato-casserole-recipe/
+2025-04-05 00:13:22,694 [INFO] Yummly Easy: Saved recipe: 'Twice Baked Potato Casserole Recipe' (URL: https://yummlyeasy.com/twice-baked-potato-casserole-recipe/)
+2025-04-05 00:13:22,694 [INFO] Yummly Easy: Fetching URL: https://yummlyeasy.com/beef-and-broccoli-recipe/
+2025-04-05 00:13:26,804 [INFO] Yummly Easy: Saved recipe: 'Beef and Broccoli Recipe' (URL: https://yummlyeasy.com/beef-and-broccoli-recipe/)
+2025-04-05 00:13:26,804 [INFO] Yummly Easy: Fetching URL: https://yummlyeasy.com/easy-southern-fried-cabbage-a-comforting-classic/
+2025-04-05 00:13:31,177 [INFO] Yummly Easy: Saved recipe: 'Easy Southern Fried Cabbage: A Comforting Classic' (URL: https://yummlyeasy.com/easy-southern-fried-cabbage-a-comforting-classic/)
+2025-04-05 00:13:31,177 [INFO] Yummly Easy: Fetching URL: https://yummlyeasy.com/potato-leek-soup-recipe/
+2025-04-05 00:13:35,558 [INFO] Yummly Easy: Saved recipe: 'Potato Leek Soup Recipe' (URL: https://yummlyeasy.com/potato-leek-soup-recipe/)
+2025-04-05 00:13:35,558 [INFO] Yummly Easy: Fetching URL: https://yummlyeasy.com/mini-pineapple-coconut-heaven-cheesecake-irresistible-tropical-delight/
+2025-04-05 00:13:40,107 [INFO] Yummly Easy: Saved recipe: 'Mini Pineapple Coconut Heaven Cheesecake – Irresistible Tropical Delight!' (URL: https://yummlyeasy.com/mini-pineapple-coconut-heaven-cheesecake-irresistible-tropical-delight/)
+2025-04-05 00:13:40,107 [INFO] Yummly Easy: Fetching URL: https://yummlyeasy.com/delightful-peach-raspberry-yogurt-loaf-cake-perfect-with-tea/
+2025-04-05 00:13:44,409 [INFO] Yummly Easy: Saved recipe: 'Delightful Peach Raspberry Yogurt Loaf Cake: Perfect with Tea!' (URL: https://yummlyeasy.com/delightful-peach-raspberry-yogurt-loaf-cake-perfect-with-tea/)
+2025-04-05 00:13:44,409 [INFO] Yummly Easy: Fetching URL: https://yummlyeasy.com/snickerdoodle-apple-pie-bars-a-scrumptious-dessert/
+2025-04-05 00:13:48,565 [INFO] Yummly Easy: Saved recipe: 'Snickerdoodle Apple Pie Bars: A Scrumptious Dessert' (URL: https://yummlyeasy.com/snickerdoodle-apple-pie-bars-a-scrumptious-dessert/)
+2025-04-05 00:13:48,565 [INFO] Yummly Easy: Fetching URL: https://yummlyeasy.com/italian-wedding-soup-recipe/
+2025-04-05 00:13:52,836 [INFO] Yummly Easy: Saved recipe: 'Italian Wedding Soup Recipe' (URL: https://yummlyeasy.com/italian-wedding-soup-recipe/)
+2025-04-05 00:13:52,837 [INFO] Yummly Easy: Fetching URL: https://yummlyeasy.com/peach-cake-with-brown-sugar-frosting-a-sweet-and-fruity-delight/
+2025-04-05 00:13:56,850 [INFO] Yummly Easy: Saved recipe: 'Peach Cake with Brown Sugar Frosting: A Sweet and Fruity Delight' (URL: https://yummlyeasy.com/peach-cake-with-brown-sugar-frosting-a-sweet-and-fruity-delight/)
+2025-04-05 00:13:56,851 [INFO] Yummly Easy: Fetching URL: https://yummlyeasy.com/pasta-alla-norma-recipe/
+2025-04-05 00:14:00,745 [INFO] Yummly Easy: Saved recipe: 'Pasta Alla Norma Recipe' (URL: https://yummlyeasy.com/pasta-alla-norma-recipe/)
+2025-04-05 00:14:00,745 [INFO] Yummly Easy: Fetching URL: https://yummlyeasy.com/cajun-shrimp-scampi-recipe/
+2025-04-05 00:14:04,835 [INFO] Yummly Easy: Saved recipe: 'Cajun Shrimp Scampi Recipe' (URL: https://yummlyeasy.com/cajun-shrimp-scampi-recipe/)
+2025-04-05 00:14:04,836 [INFO] Yummly Easy: Fetching URL: https://yummlyeasy.com/shakshuka-recipe/
+2025-04-05 00:14:10,431 [INFO] Yummly Easy: Saved recipe: 'Shakshuka Recipe' (URL: https://yummlyeasy.com/shakshuka-recipe/)
+2025-04-05 00:14:10,432 [INFO] Yummly Easy: Fetching URL: https://yummlyeasy.com/eel-sauce-recipe/
+2025-04-05 00:14:15,520 [INFO] Yummly Easy: Saved recipe: 'Eel Sauce Recipe' (URL: https://yummlyeasy.com/eel-sauce-recipe/)
+2025-04-05 00:14:15,520 [INFO] Yummly Easy: Fetching URL: https://yummlyeasy.com/air-fryer-chicken-breast-recipe/
+2025-04-05 00:14:19,732 [INFO] Yummly Easy: Saved recipe: 'Air Fryer Chicken Breast Recipe' (URL: https://yummlyeasy.com/air-fryer-chicken-breast-recipe/)
+2025-04-05 00:14:19,732 [INFO] Yummly Easy: Fetching URL: https://yummlyeasy.com/easy-taco-lime-grilled-chicken-recipe-a-flavorful-mexican-inspired-dish/
+2025-04-05 00:14:24,456 [INFO] Yummly Easy: Saved recipe: 'Easy Taco Lime Grilled Chicken Recipe: A Flavorful Mexican-Inspired Dish' (URL: https://yummlyeasy.com/easy-taco-lime-grilled-chicken-recipe-a-flavorful-mexican-inspired-dish/)
+2025-04-05 00:14:24,456 [INFO] Yummly Easy: Fetching URL: https://yummlyeasy.com/air-fryer-chicken-drumsticks-recipe/
+2025-04-05 00:14:28,630 [INFO] Yummly Easy: Saved recipe: 'Air Fryer Chicken Drumsticks Recipe' (URL: https://yummlyeasy.com/air-fryer-chicken-drumsticks-recipe/)
+2025-04-05 00:14:28,630 [INFO] Yummly Easy: Fetching URL: https://yummlyeasy.com/delicious-spaghetti-salad-with-balsamic-and-basil-a-perfect-summer-pasta-dish/
+2025-04-05 00:14:32,779 [INFO] Yummly Easy: Saved recipe: 'Delicious Spaghetti Salad with Balsamic and Basil: A Perfect Summer Pasta Dish' (URL: https://yummlyeasy.com/delicious-spaghetti-salad-with-balsamic-and-basil-a-perfect-summer-pasta-dish/)
+2025-04-05 00:14:32,779 [INFO] Yummly Easy: Fetching URL: https://yummlyeasy.com/slow-cooker-buffalo-chicken-dip-recipe/
+2025-04-05 00:14:36,951 [INFO] Yummly Easy: Saved recipe: 'Slow Cooker Buffalo Chicken Dip Recipe' (URL: https://yummlyeasy.com/slow-cooker-buffalo-chicken-dip-recipe/)
+2025-04-05 00:14:36,952 [INFO] Yummly Easy: Fetching URL: https://yummlyeasy.com/tasty-southern-style-hush-puppies-a-delicious-treat/
+2025-04-05 00:14:41,109 [INFO] Yummly Easy: Saved recipe: 'Tasty Southern-Style Hush Puppies: A Delicious Treat' (URL: https://yummlyeasy.com/tasty-southern-style-hush-puppies-a-delicious-treat/)
+2025-04-05 00:14:41,109 [INFO] Yummly Easy: Fetching URL: https://yummlyeasy.com/crockpot-crack-chicken-recipe/
+2025-04-05 00:14:44,944 [INFO] Yummly Easy: Saved recipe: 'Crockpot Crack Chicken Recipe' (URL: https://yummlyeasy.com/crockpot-crack-chicken-recipe/)
+2025-04-05 00:14:44,944 [INFO] Yummly Easy: Fetching URL: https://yummlyeasy.com/tater-tot-casserole-with-ground-beef-recipe/
+2025-04-05 00:14:48,800 [INFO] Yummly Easy: Saved recipe: 'Tater Tot Casserole with Ground Beef Recipe' (URL: https://yummlyeasy.com/tater-tot-casserole-with-ground-beef-recipe/)
+2025-04-05 00:14:48,800 [INFO] Yummly Easy: Fetching URL: https://yummlyeasy.com/starbucks-iced-coffee-drinks-recipe/
+2025-04-05 00:14:53,086 [INFO] Yummly Easy: Saved recipe: 'Starbucks Iced Coffee Drinks Recipe' (URL: https://yummlyeasy.com/starbucks-iced-coffee-drinks-recipe/)
+2025-04-05 00:14:53,086 [INFO] Yummly Easy: Fetching URL: https://yummlyeasy.com/frito-pie-recipe/
+2025-04-05 00:14:56,673 [INFO] Yummly Easy: Saved recipe: 'Frito Pie Recipe' (URL: https://yummlyeasy.com/frito-pie-recipe/)
+2025-04-05 00:14:56,673 [INFO] Yummly Easy: Fetching URL: https://yummlyeasy.com/smoked-chicken-legs-recipe/
+2025-04-05 00:15:01,260 [INFO] Yummly Easy: Saved recipe: 'Smoked Chicken Legs Recipe' (URL: https://yummlyeasy.com/smoked-chicken-legs-recipe/)
+2025-04-05 00:15:01,260 [INFO] Yummly Easy: Fetching URL: https://yummlyeasy.com/heavenly-cherry-pistachio-cheesecake-bars/
+2025-04-05 00:15:07,496 [INFO] Yummly Easy: Saved recipe: 'Heavenly Cherry Pistachio Cheesecake Bars' (URL: https://yummlyeasy.com/heavenly-cherry-pistachio-cheesecake-bars/)
+2025-04-05 00:15:07,496 [INFO] Yummly Easy: Fetching URL: https://yummlyeasy.com/tuna-melt-recipe/
+2025-04-05 00:15:11,784 [INFO] Yummly Easy: Saved recipe: 'Tuna Melt Recipe' (URL: https://yummlyeasy.com/tuna-melt-recipe/)
+2025-04-05 00:15:11,784 [INFO] Yummly Easy: Fetching URL: https://yummlyeasy.com/american-flag-cake-recipe/
+2025-04-05 00:15:16,929 [INFO] Yummly Easy: Saved recipe: 'American Flag Cake Recipe' (URL: https://yummlyeasy.com/american-flag-cake-recipe/)
+2025-04-05 00:15:16,929 [INFO] Yummly Easy: Fetching URL: https://yummlyeasy.com/spaghetti-squash-casserole-recipe/
+2025-04-05 00:15:21,220 [INFO] Yummly Easy: Saved recipe: 'Spaghetti Squash Casserole Recipe' (URL: https://yummlyeasy.com/spaghetti-squash-casserole-recipe/)
+2025-04-05 00:15:21,220 [INFO] Yummly Easy: Fetching URL: https://yummlyeasy.com/pesto-grilled-shrimp-a-flavor-packed-summer-delight/
+2025-04-05 00:15:26,492 [INFO] Yummly Easy: Saved recipe: 'Pesto Grilled Shrimp – A Flavor-Packed Summer Delight' (URL: https://yummlyeasy.com/pesto-grilled-shrimp-a-flavor-packed-summer-delight/)
+2025-04-05 00:15:26,492 [INFO] Yummly Easy: Fetching URL: https://yummlyeasy.com/delicious-marry-me-chicken-soup-recipe-a-heartwarming-comfort-dish/
+2025-04-05 00:15:30,352 [INFO] Yummly Easy: Saved recipe: 'Delicious Marry Me Chicken Soup Recipe: A Heartwarming Comfort Dish' (URL: https://yummlyeasy.com/delicious-marry-me-chicken-soup-recipe-a-heartwarming-comfort-dish/)
+2025-04-05 00:15:30,352 [INFO] Yummly Easy: Fetching URL: https://yummlyeasy.com/ramen-salad-recipe/
+2025-04-05 00:15:34,431 [INFO] Yummly Easy: Saved recipe: 'Ramen Salad Recipe' (URL: https://yummlyeasy.com/ramen-salad-recipe/)
+2025-04-05 00:15:34,431 [INFO] Yummly Easy: Fetching URL: https://yummlyeasy.com/air-fryer-garlic-bread-recipe/
+2025-04-05 00:15:38,276 [INFO] Yummly Easy: Saved recipe: 'Air Fryer Garlic Bread Recipe' (URL: https://yummlyeasy.com/air-fryer-garlic-bread-recipe/)
+2025-04-05 00:15:38,276 [INFO] Yummly Easy: Fetching URL: https://yummlyeasy.com/grilled-corn-recipe/
+2025-04-05 00:15:42,489 [INFO] Yummly Easy: Saved recipe: 'Grilled Corn Recipe' (URL: https://yummlyeasy.com/grilled-corn-recipe/)
+2025-04-05 00:15:42,489 [INFO] Yummly Easy: Fetching URL: https://yummlyeasy.com/irresistible-luscious-strawberry-cake-recipe/
+2025-04-05 00:15:46,306 [INFO] Yummly Easy: Saved recipe: 'Irresistible Luscious Strawberry Cake Recipe!' (URL: https://yummlyeasy.com/irresistible-luscious-strawberry-cake-recipe/)
+2025-04-05 00:15:46,306 [INFO] Yummly Easy: Fetching URL: https://yummlyeasy.com/shrimp-ceviche-recipe/
+2025-04-05 00:15:50,040 [INFO] Yummly Easy: Saved recipe: 'Shrimp Ceviche Recipe' (URL: https://yummlyeasy.com/shrimp-ceviche-recipe/)
+2025-04-05 00:15:50,040 [INFO] Yummly Easy: Fetching URL: https://yummlyeasy.com/slow-cooker-creamy-ranch-chicken-easy-delicious/
+2025-04-05 00:15:54,001 [INFO] Yummly Easy: Saved recipe: 'Slow Cooker Creamy Ranch Chicken: Easy & Delicious' (URL: https://yummlyeasy.com/slow-cooker-creamy-ranch-chicken-easy-delicious/)
+2025-04-05 00:15:54,001 [INFO] Yummly Easy: Fetching URL: https://yummlyeasy.com/irresistible-cinnamon-swirl-zucchini-bread-recipe-a-perfect-blend-of-sweet-healthy/
+2025-04-05 00:15:58,149 [INFO] Yummly Easy: Saved recipe: 'Irresistible Cinnamon Swirl Zucchini Bread Recipe: A Perfect Blend of Sweet & Healthy' (URL: https://yummlyeasy.com/irresistible-cinnamon-swirl-zucchini-bread-recipe-a-perfect-blend-of-sweet-healthy/)
+2025-04-05 00:15:58,149 [INFO] Yummly Easy: Fetching URL: https://yummlyeasy.com/sweet-spicy-jalapeno-peach-chicken-a-flavor-explosion/
+2025-04-05 00:16:02,530 [INFO] Yummly Easy: Saved recipe: 'Sweet & Spicy Jalapeño Peach Chicken – A Flavor Explosion!' (URL: https://yummlyeasy.com/sweet-spicy-jalapeno-peach-chicken-a-flavor-explosion/)
+2025-04-05 00:16:02,530 [INFO] Yummly Easy: Fetching URL: https://yummlyeasy.com/grandmas-molasses-cookies-a-timeless-treat/
+2025-04-05 00:16:06,914 [INFO] Yummly Easy: Saved recipe: 'Grandma’s Molasses Cookies: A Timeless Treat' (URL: https://yummlyeasy.com/grandmas-molasses-cookies-a-timeless-treat/)
+2025-04-05 00:16:06,914 [INFO] Yummly Easy: Fetching URL: https://yummlyeasy.com/easy-homemade-coconut-cream-puffs/
+2025-04-05 00:16:11,224 [INFO] Yummly Easy: Saved recipe: 'Easy Homemade Coconut Cream Puffs' (URL: https://yummlyeasy.com/easy-homemade-coconut-cream-puffs/)
+2025-04-05 00:16:11,224 [INFO] Yummly Easy: Fetching URL: https://yummlyeasy.com/savory-southern-hash-brown-casserole-recipe-a-classic-comfort-dish/
+2025-04-05 00:16:16,510 [INFO] Yummly Easy: Saved recipe: 'Savory Southern Hash Brown Casserole Recipe: A Classic Comfort Dish' (URL: https://yummlyeasy.com/savory-southern-hash-brown-casserole-recipe-a-classic-comfort-dish/)
+2025-04-05 00:16:16,511 [INFO] Yummly Easy: Fetching URL: https://yummlyeasy.com/fried-cabbage-with-sausage-a-comforting-flavorful-meal/
+2025-04-05 00:16:20,179 [INFO] Yummly Easy: Saved recipe: 'Fried Cabbage with Sausage: A Comforting, Flavorful Meal' (URL: https://yummlyeasy.com/fried-cabbage-with-sausage-a-comforting-flavorful-meal/)
+2025-04-05 00:16:20,179 [INFO] Yummly Easy: Fetching URL: https://yummlyeasy.com/cucumber-tomato-and-onion-salad-a-refreshing-classic/
+2025-04-05 00:16:24,311 [INFO] Yummly Easy: Saved recipe: 'Cucumber, Tomato, and Onion Salad – A Refreshing Classic!' (URL: https://yummlyeasy.com/cucumber-tomato-and-onion-salad-a-refreshing-classic/)
+2025-04-05 00:16:24,311 [INFO] Yummly Easy: Fetching URL: https://yummlyeasy.com/buffalo-sauce-recipe/
+2025-04-05 00:16:28,751 [INFO] Yummly Easy: Saved recipe: 'Buffalo Sauce Recipe' (URL: https://yummlyeasy.com/buffalo-sauce-recipe/)
+2025-04-05 00:16:28,751 [INFO] Yummly Easy: Fetching URL: https://yummlyeasy.com/delicious-oven-baked-fries-from-bonnies-best-a-perfect-crispy-side-dish/
+2025-04-05 00:16:32,923 [INFO] Yummly Easy: Saved recipe: 'Delicious Oven Baked Fries from Bonnie’s Best: A Perfect Crispy Side Dish' (URL: https://yummlyeasy.com/delicious-oven-baked-fries-from-bonnies-best-a-perfect-crispy-side-dish/)
+2025-04-05 00:16:32,923 [INFO] Yummly Easy: Fetching URL: https://yummlyeasy.com/grilled-cheese-recipe/
+2025-04-05 00:16:36,969 [INFO] Yummly Easy: Saved recipe: 'Grilled Cheese Recipe' (URL: https://yummlyeasy.com/grilled-cheese-recipe/)
+2025-04-05 00:16:36,969 [INFO] Yummly Easy: Fetching URL: https://yummlyeasy.com/beer-can-chicken-recipe/
+2025-04-05 00:16:41,386 [INFO] Yummly Easy: Saved recipe: 'Beer Can Chicken Recipe' (URL: https://yummlyeasy.com/beer-can-chicken-recipe/)
+2025-04-05 00:16:41,386 [INFO] Yummly Easy: Fetching URL: https://yummlyeasy.com/cucumber-tomato-salad-recipe/
+2025-04-05 00:16:45,568 [INFO] Yummly Easy: Saved recipe: 'Cucumber Tomato Salad Recipe' (URL: https://yummlyeasy.com/cucumber-tomato-salad-recipe/)
+2025-04-05 00:16:45,568 [INFO] Yummly Easy: Fetching URL: https://yummlyeasy.com/classic-best-macaroni-salad-recipe-everyone-will-love/
+2025-04-05 00:16:49,491 [INFO] Yummly Easy: Saved recipe: 'Classic Best Macaroni Salad Recipe Everyone Will Love' (URL: https://yummlyeasy.com/classic-best-macaroni-salad-recipe-everyone-will-love/)
+2025-04-05 00:16:49,491 [INFO] Yummly Easy: Fetching URL: https://yummlyeasy.com/killer-white-chili-a-hearty-and-flavorful-delight/
+2025-04-05 00:16:53,759 [INFO] Yummly Easy: Saved recipe: 'Killer White Chili – A Hearty and Flavorful Delight' (URL: https://yummlyeasy.com/killer-white-chili-a-hearty-and-flavorful-delight/)
+2025-04-05 00:16:53,759 [INFO] Yummly Easy: Fetching URL: https://yummlyeasy.com/chicken-stir-fry-recipe/
+2025-04-05 00:16:57,890 [INFO] Yummly Easy: Saved recipe: 'Chicken Stir Fry Recipe' (URL: https://yummlyeasy.com/chicken-stir-fry-recipe/)
+2025-04-05 00:16:57,890 [INFO] Yummly Easy: Fetching URL: https://yummlyeasy.com/cheese-platter-recipe/
+2025-04-05 00:17:01,932 [INFO] Yummly Easy: Saved recipe: 'Cheese Platter Recipe' (URL: https://yummlyeasy.com/cheese-platter-recipe/)
+2025-04-05 00:17:01,932 [INFO] Yummly Easy: Fetching URL: https://yummlyeasy.com/quick-easy-instant-pot-cajun-potato-soup-a-comforting-creole-favorite/
+2025-04-05 00:17:05,860 [INFO] Yummly Easy: Saved recipe: 'Quick & Easy Instant Pot Cajun Potato Soup: A Comforting Creole Favorite' (URL: https://yummlyeasy.com/quick-easy-instant-pot-cajun-potato-soup-a-comforting-creole-favorite/)
+2025-04-05 00:17:05,860 [INFO] Yummly Easy: Fetching URL: https://yummlyeasy.com/hearty-sausage-and-egg-breakfast-rolls-for-a-delicious-start/
+2025-04-05 00:17:10,596 [INFO] Yummly Easy: Saved recipe: 'Hearty Sausage and Egg Breakfast Rolls for a Delicious Start' (URL: https://yummlyeasy.com/hearty-sausage-and-egg-breakfast-rolls-for-a-delicious-start/)
+2025-04-05 00:17:10,596 [INFO] Yummly Easy: Fetching URL: https://yummlyeasy.com/lemon-raspberry-swirl-cheesecake-a-burst-of-summer-in-every-bite/
+2025-04-05 00:17:15,873 [INFO] Yummly Easy: Saved recipe: 'Lemon Raspberry Swirl Cheesecake – A Burst of Summer in Every Bite!' (URL: https://yummlyeasy.com/lemon-raspberry-swirl-cheesecake-a-burst-of-summer-in-every-bite/)
+2025-04-05 00:17:15,873 [INFO] Yummly Easy: Fetching URL: https://yummlyeasy.com/scones-recipe/
+2025-04-05 00:17:19,528 [INFO] Yummly Easy: Saved recipe: 'Scones Recipe' (URL: https://yummlyeasy.com/scones-recipe/)
+2025-04-05 00:17:19,529 [INFO] Yummly Easy: Fetching URL: https://yummlyeasy.com/20-minute-fried-rice-quick-easy-and-delicious/
+2025-04-05 00:17:23,499 [INFO] Yummly Easy: Saved recipe: '20-Minute Fried Rice – Quick, Easy, and Delicious!' (URL: https://yummlyeasy.com/20-minute-fried-rice-quick-easy-and-delicious/)
+2025-04-05 00:17:23,499 [INFO] Yummly Easy: Fetching URL: https://yummlyeasy.com/crockpot-angel-chicken-easy-delicious-dinner/
+2025-04-05 00:17:27,585 [INFO] Yummly Easy: Saved recipe: 'Crockpot Angel Chicken: Easy, Delicious Dinner' (URL: https://yummlyeasy.com/crockpot-angel-chicken-easy-delicious-dinner/)
+2025-04-05 00:17:27,586 [INFO] Yummly Easy: Fetching URL: https://yummlyeasy.com/creamy-chicken-enchiladas-recipe/
+2025-04-05 00:17:31,682 [INFO] Yummly Easy: Saved recipe: 'Creamy Chicken Enchiladas Recipe' (URL: https://yummlyeasy.com/creamy-chicken-enchiladas-recipe/)
+2025-04-05 00:17:31,682 [INFO] Yummly Easy: Fetching URL: https://yummlyeasy.com/white-chocolate-blueberry-cheesecake-cupcakes-your-new-dessert-crush/
+2025-04-05 00:17:35,972 [INFO] Yummly Easy: Saved recipe: 'White Chocolate Blueberry Cheesecake Cupcakes – Your New Dessert Crush!' (URL: https://yummlyeasy.com/white-chocolate-blueberry-cheesecake-cupcakes-your-new-dessert-crush/)
+2025-04-05 00:17:35,972 [INFO] Yummly Easy: Fetching URL: https://yummlyeasy.com/spaghetti-and-meatballs-recipe/
+2025-04-05 00:17:39,712 [INFO] Yummly Easy: Saved recipe: 'Spaghetti and Meatballs Recipe' (URL: https://yummlyeasy.com/spaghetti-and-meatballs-recipe/)
+2025-04-05 00:17:39,712 [INFO] Yummly Easy: Fetching URL: https://yummlyeasy.com/chinese-chicken-salad-recipe/
+2025-04-05 00:17:43,464 [INFO] Yummly Easy: Saved recipe: 'Chinese Chicken Salad Recipe' (URL: https://yummlyeasy.com/chinese-chicken-salad-recipe/)
+2025-04-05 00:17:43,464 [INFO] Yummly Easy: Fetching URL: https://yummlyeasy.com/best-crumbl-carrot-cake-cookies-copycat-recipe-a-perfect-homemade-treat/
+2025-04-05 00:17:47,598 [INFO] Yummly Easy: Saved recipe: 'Best Crumbl Carrot Cake Cookies Copycat Recipe: A Perfect Homemade Treat' (URL: https://yummlyeasy.com/best-crumbl-carrot-cake-cookies-copycat-recipe-a-perfect-homemade-treat/)
+2025-04-05 00:17:47,598 [INFO] Yummly Easy: Fetching URL: https://yummlyeasy.com/easy-air-fryer-chicken-drumsticks-recipe/
+2025-04-05 00:17:51,354 [INFO] Yummly Easy: Saved recipe: 'Easy Air Fryer Chicken Drumsticks Recipe' (URL: https://yummlyeasy.com/easy-air-fryer-chicken-drumsticks-recipe/)
+2025-04-05 00:17:51,354 [INFO] Yummly Easy: Fetching URL: https://yummlyeasy.com/braised-short-ribs-recipe/
+2025-04-05 00:17:55,579 [INFO] Yummly Easy: Saved recipe: 'Braised Short Ribs Recipe' (URL: https://yummlyeasy.com/braised-short-ribs-recipe/)
+2025-04-05 00:17:55,579 [INFO] Yummly Easy: Fetching URL: https://yummlyeasy.com/smoothie-king-inspired-recipe/
+2025-04-05 00:18:00,257 [INFO] Yummly Easy: Saved recipe: 'Smoothie King-Inspired Recipe' (URL: https://yummlyeasy.com/smoothie-king-inspired-recipe/)
+2025-04-05 00:18:00,257 [INFO] Yummly Easy: Fetching URL: https://yummlyeasy.com/homemade-cornbread-dressing-the-perfect-thanksgiving-side/
+2025-04-05 00:18:05,070 [INFO] Yummly Easy: Saved recipe: 'Homemade Cornbread Dressing: The Perfect Thanksgiving Side' (URL: https://yummlyeasy.com/homemade-cornbread-dressing-the-perfect-thanksgiving-side/)
+2025-04-05 00:18:05,070 [INFO] Yummly Easy: Fetching URL: https://yummlyeasy.com/potato-pancakes-recipe/
+2025-04-05 00:18:08,918 [INFO] Yummly Easy: Saved recipe: 'Potato Pancakes Recipe' (URL: https://yummlyeasy.com/potato-pancakes-recipe/)
+2025-04-05 00:18:08,918 [INFO] Yummly Easy: Fetching URL: https://yummlyeasy.com/pumpkin-spice-doughnut-muffins-a-delightful-treat/
+2025-04-05 00:18:13,064 [INFO] Yummly Easy: Saved recipe: 'Pumpkin Spice Doughnut Muffins: A Delightful Treat' (URL: https://yummlyeasy.com/pumpkin-spice-doughnut-muffins-a-delightful-treat/)
+2025-04-05 00:18:13,064 [INFO] Yummly Easy: Fetching URL: https://yummlyeasy.com/how-to-make-french-fries-in-the-air-fryer-with-garlic-parmesan/
+2025-04-05 00:18:18,544 [INFO] Yummly Easy: Saved recipe: 'How to Make French Fries in the Air Fryer with Garlic & Parmesan' (URL: https://yummlyeasy.com/how-to-make-french-fries-in-the-air-fryer-with-garlic-parmesan/)
+2025-04-05 00:18:18,544 [INFO] Yummly Easy: Fetching URL: https://yummlyeasy.com/ratatouille-recipe/
+2025-04-05 00:18:22,539 [INFO] Yummly Easy: Saved recipe: 'Ratatouille Recipe' (URL: https://yummlyeasy.com/ratatouille-recipe/)
+2025-04-05 00:18:22,539 [INFO] Yummly Easy: Fetching URL: https://yummlyeasy.com/tofu-stir-fry-recipe/
+2025-04-05 00:18:26,212 [INFO] Yummly Easy: Saved recipe: 'Tofu Stir Fry Recipe' (URL: https://yummlyeasy.com/tofu-stir-fry-recipe/)
+2025-04-05 00:18:26,212 [INFO] Yummly Easy: Fetching URL: https://yummlyeasy.com/delicious-blackberry-cobbler-simple-satisfying/
+2025-04-05 00:18:30,126 [INFO] Yummly Easy: Saved recipe: 'Delicious Blackberry Cobbler: Simple, Satisfying' (URL: https://yummlyeasy.com/delicious-blackberry-cobbler-simple-satisfying/)
+2025-04-05 00:18:30,126 [INFO] Yummly Easy: Fetching URL: https://yummlyeasy.com/apple-cake-recipe/
+2025-04-05 00:18:35,195 [INFO] Yummly Easy: Saved recipe: 'Apple Cake Recipe' (URL: https://yummlyeasy.com/apple-cake-recipe/)
+2025-04-05 00:18:35,195 [INFO] Yummly Easy: Fetching URL: https://yummlyeasy.com/popcorn-chicken-recipe/
+2025-04-05 00:18:38,904 [INFO] Yummly Easy: Saved recipe: 'Popcorn Chicken Recipe' (URL: https://yummlyeasy.com/popcorn-chicken-recipe/)
+2025-04-05 00:18:38,904 [INFO] Yummly Easy: Fetching URL: https://yummlyeasy.com/air-fryer-chicken-wings-recipe/
+2025-04-05 00:18:43,093 [INFO] Yummly Easy: Saved recipe: 'Air Fryer Chicken Wings Recipe' (URL: https://yummlyeasy.com/air-fryer-chicken-wings-recipe/)
+2025-04-05 00:18:43,093 [INFO] Yummly Easy: Fetching URL: https://yummlyeasy.com/apple-pie-monkey-bread-recipe-easy-fall-breakfast/
+2025-04-05 00:18:47,333 [INFO] Yummly Easy: Saved recipe: 'Apple Pie Monkey Bread Recipe | Easy Fall Breakfast' (URL: https://yummlyeasy.com/apple-pie-monkey-bread-recipe-easy-fall-breakfast/)
+2025-04-05 00:18:47,334 [INFO] Yummly Easy: Fetching URL: https://yummlyeasy.com/shrimp-and-grits-recipe/
+2025-04-05 00:18:51,137 [INFO] Yummly Easy: Saved recipe: 'Shrimp and Grits Recipe' (URL: https://yummlyeasy.com/shrimp-and-grits-recipe/)
+2025-04-05 00:18:51,137 [INFO] Yummly Easy: Fetching URL: https://yummlyeasy.com/grinch-desserts-festive-treats-to-steal-your-heart/
+2025-04-05 00:18:55,010 [INFO] Yummly Easy: Saved recipe: 'Grinch Desserts: Festive Treats to Steal Your Heart' (URL: https://yummlyeasy.com/grinch-desserts-festive-treats-to-steal-your-heart/)
+2025-04-05 00:18:55,010 [INFO] Yummly Easy: Fetching URL: https://yummlyeasy.com/refreshing-marinated-cucumbers-onions-and-tomatoes-a-perfect-summer-side-dish/
+2025-04-05 00:18:58,754 [INFO] Yummly Easy: Saved recipe: 'Refreshing Marinated Cucumbers, Onions, and Tomatoes: A Perfect Summer Side Dish!' (URL: https://yummlyeasy.com/refreshing-marinated-cucumbers-onions-and-tomatoes-a-perfect-summer-side-dish/)
+2025-04-05 00:18:58,754 [INFO] Yummly Easy: Fetching URL: https://yummlyeasy.com/moms-signature-macaroni-salad-a-classic-summer-dish/
+2025-04-05 00:19:02,636 [INFO] Yummly Easy: Saved recipe: 'Mom’s Signature Macaroni Salad – A Classic Summer Dish' (URL: https://yummlyeasy.com/moms-signature-macaroni-salad-a-classic-summer-dish/)
+2025-04-05 00:19:02,636 [INFO] Yummly Easy: Fetching URL: https://yummlyeasy.com/fluffy-amish-dinner-rolls-perfect-for-every-occasion/
+2025-04-05 00:19:06,823 [INFO] Yummly Easy: Saved recipe: 'Fluffy Amish Dinner Rolls – Perfect for Every Occasion!' (URL: https://yummlyeasy.com/fluffy-amish-dinner-rolls-perfect-for-every-occasion/)
+2025-04-05 00:19:06,823 [INFO] Yummly Easy: Fetching URL: https://yummlyeasy.com/homemade-chocolate-cake-with-peanut-butter-frosting-a-decadent-dessert-recipe/
+2025-04-05 00:19:10,374 [INFO] Yummly Easy: Saved recipe: 'Homemade Chocolate Cake with Peanut Butter Frosting: A Decadent Dessert Recipe' (URL: https://yummlyeasy.com/homemade-chocolate-cake-with-peanut-butter-frosting-a-decadent-dessert-recipe/)
+2025-04-05 00:19:10,374 [INFO] Yummly Easy: Fetching URL: https://yummlyeasy.com/homemade-chocolate-cake-with-peanut-butter-frosting-irresistible/
+2025-04-05 00:19:15,115 [INFO] Yummly Easy: Saved recipe: 'Homemade Chocolate Cake With Peanut Butter Frosting: Irresistible!' (URL: https://yummlyeasy.com/homemade-chocolate-cake-with-peanut-butter-frosting-irresistible/)
+2025-04-05 00:19:15,115 [INFO] Yummly Easy: Fetching URL: https://yummlyeasy.com/irresistible-boston-cream-pie-donuts/
+2025-04-05 00:19:19,994 [INFO] Yummly Easy: Saved recipe: 'Irresistible Boston Cream Pie Donuts' (URL: https://yummlyeasy.com/irresistible-boston-cream-pie-donuts/)
+2025-04-05 00:19:19,994 [INFO] Yummly Easy: Fetching URL: https://yummlyeasy.com/maraschino-cherry-chocolate-chip-cookies-a-sweet-twist-on-a-classic/
+2025-04-05 00:19:24,121 [INFO] Yummly Easy: Saved recipe: 'Maraschino Cherry Chocolate Chip Cookies: A Sweet Twist on a Classic!' (URL: https://yummlyeasy.com/maraschino-cherry-chocolate-chip-cookies-a-sweet-twist-on-a-classic/)
+2025-04-05 00:19:24,121 [INFO] Yummly Easy: Fetching URL: https://yummlyeasy.com/chicken-skewers-grilled-recipe/
+2025-04-05 00:19:28,419 [INFO] Yummly Easy: Saved recipe: 'Chicken Skewers Grilled Recipe' (URL: https://yummlyeasy.com/chicken-skewers-grilled-recipe/)
+2025-04-05 00:19:28,419 [INFO] Yummly Easy: Fetching URL: https://yummlyeasy.com/corn-casserole-recipe/
+2025-04-05 00:19:32,594 [INFO] Yummly Easy: Saved recipe: 'Corn Casserole Recipe' (URL: https://yummlyeasy.com/corn-casserole-recipe/)
+2025-04-05 00:19:32,594 [INFO] Yummly Easy: Fetching URL: https://yummlyeasy.com/detroit-style-pizza-recipe/
+2025-04-05 00:19:37,214 [INFO] Yummly Easy: Saved recipe: 'Detroit Style Pizza Recipe' (URL: https://yummlyeasy.com/detroit-style-pizza-recipe/)
+2025-04-05 00:19:37,215 [INFO] Yummly Easy: Fetching URL: https://yummlyeasy.com/baked-ziti-a-comforting-and-flavorful-pasta-recipe/
+2025-04-05 00:19:41,273 [INFO] Yummly Easy: Saved recipe: 'Baked Ziti: A Comforting and Flavorful Pasta Recipe' (URL: https://yummlyeasy.com/baked-ziti-a-comforting-and-flavorful-pasta-recipe/)
+2025-04-05 00:19:41,273 [INFO] Yummly Easy: Fetching URL: https://yummlyeasy.com/honey-mustard-chicken-recipe/
+2025-04-05 00:19:45,257 [INFO] Yummly Easy: Saved recipe: 'Honey Mustard Chicken Recipe' (URL: https://yummlyeasy.com/honey-mustard-chicken-recipe/)
+2025-04-05 00:19:45,257 [INFO] Yummly Easy: Fetching URL: https://yummlyeasy.com/steak-fajitas-recipe/
+2025-04-05 00:19:49,464 [INFO] Yummly Easy: Saved recipe: 'Steak Fajitas Recipe' (URL: https://yummlyeasy.com/steak-fajitas-recipe/)
+2025-04-05 00:19:49,465 [INFO] Yummly Easy: Fetching URL: https://yummlyeasy.com/irish-coffee-recipe/
+2025-04-05 00:19:53,268 [INFO] Yummly Easy: Saved recipe: 'Irish Coffee Recipe' (URL: https://yummlyeasy.com/irish-coffee-recipe/)
+2025-04-05 00:19:53,268 [INFO] Yummly Easy: Fetching URL: https://yummlyeasy.com/garlic-bread-recipe/
+2025-04-05 00:19:57,757 [INFO] Yummly Easy: Saved recipe: 'Garlic Bread Recipe' (URL: https://yummlyeasy.com/garlic-bread-recipe/)
+2025-04-05 00:19:57,757 [INFO] Yummly Easy: Fetching URL: https://yummlyeasy.com/corn-chowder-recipe/
+2025-04-05 00:20:01,800 [INFO] Yummly Easy: Saved recipe: 'Corn Chowder Recipe' (URL: https://yummlyeasy.com/corn-chowder-recipe/)
+2025-04-05 00:20:01,801 [INFO] Yummly Easy: Fetching URL: https://yummlyeasy.com/grilled-cheese-burgers-the-mouthwatering-combo-you-need-to-try/
+2025-04-05 00:20:06,636 [INFO] Yummly Easy: Saved recipe: 'Grilled Cheese Burgers: The Mouthwatering Combo You Need to Try' (URL: https://yummlyeasy.com/grilled-cheese-burgers-the-mouthwatering-combo-you-need-to-try/)
+2025-04-05 00:20:06,636 [INFO] Yummly Easy: Fetching URL: https://yummlyeasy.com/walking-taco-bake-recipe/
+2025-04-05 00:20:10,945 [INFO] Yummly Easy: Saved recipe: 'Walking Taco Bake Recipe' (URL: https://yummlyeasy.com/walking-taco-bake-recipe/)
+2025-04-05 00:20:10,945 [INFO] Yummly Easy: Fetching URL: https://yummlyeasy.com/chicken-cacciatore-recipe/
+2025-04-05 00:20:15,615 [INFO] Yummly Easy: Saved recipe: 'Chicken Cacciatore Recipe' (URL: https://yummlyeasy.com/chicken-cacciatore-recipe/)
+2025-04-05 00:20:15,615 [INFO] Yummly Easy: Fetching URL: https://yummlyeasy.com/hashbrown-casserole-recipe/
+2025-04-05 00:20:19,493 [INFO] Yummly Easy: Saved recipe: 'Hashbrown Casserole Recipe' (URL: https://yummlyeasy.com/hashbrown-casserole-recipe/)
+2025-04-05 00:20:19,493 [INFO] Yummly Easy: Fetching URL: https://yummlyeasy.com/homemade-french-dip-biscuits-savory-satisfying/
+2025-04-05 00:20:23,591 [INFO] Yummly Easy: Saved recipe: 'Homemade French Dip Biscuits: Savory & Satisfying' (URL: https://yummlyeasy.com/homemade-french-dip-biscuits-savory-satisfying/)
+2025-04-05 00:20:23,591 [INFO] Yummly Easy: Fetching URL: https://yummlyeasy.com/easy-homemade-chocolate-pudding-and-pie-filling-recipe/
+2025-04-05 00:20:28,161 [INFO] Yummly Easy: Saved recipe: 'Easy Homemade Chocolate Pudding and Pie Filling Recipe' (URL: https://yummlyeasy.com/easy-homemade-chocolate-pudding-and-pie-filling-recipe/)
+2025-04-05 00:20:28,162 [INFO] Yummly Easy: Fetching URL: https://yummlyeasy.com/blueberry-cream-cheese-french-toast-casserole/
+2025-04-05 00:20:31,860 [INFO] Yummly Easy: Saved recipe: 'Blueberry Cream Cheese French Toast Casserole' (URL: https://yummlyeasy.com/blueberry-cream-cheese-french-toast-casserole/)
+2025-04-05 00:20:31,860 [INFO] Yummly Easy: Fetching URL: https://yummlyeasy.com/irresistible-snickerdoodle-apple-pie-bars-a-perfect-blend-of-cookie-and-pie/
+2025-04-05 00:20:36,596 [INFO] Yummly Easy: Saved recipe: 'Irresistible Snickerdoodle Apple Pie Bars: A Perfect Blend of Cookie and Pie' (URL: https://yummlyeasy.com/irresistible-snickerdoodle-apple-pie-bars-a-perfect-blend-of-cookie-and-pie/)
+2025-04-05 00:20:36,596 [INFO] Yummly Easy: Fetching URL: https://yummlyeasy.com/irresistible-peach-pie-dessert-cups-a-bite-of-summer-bliss/
+2025-04-05 00:20:40,291 [INFO] Yummly Easy: Saved recipe: 'Irresistible Peach Pie Dessert Cups  – A Bite of Summer Bliss!' (URL: https://yummlyeasy.com/irresistible-peach-pie-dessert-cups-a-bite-of-summer-bliss/)
+2025-04-05 00:20:40,291 [INFO] Yummly Easy: Fetching URL: https://yummlyeasy.com/texas-caviar-recipe/
+2025-04-05 00:20:44,148 [INFO] Yummly Easy: Saved recipe: 'Texas Caviar Recipe' (URL: https://yummlyeasy.com/texas-caviar-recipe/)
+2025-04-05 00:20:44,149 [INFO] Yummly Easy: Fetching URL: https://yummlyeasy.com/sugar-cookie-icing-recipe/
+2025-04-05 00:20:48,723 [INFO] Yummly Easy: Saved recipe: 'Sugar Cookie Icing Recipe' (URL: https://yummlyeasy.com/sugar-cookie-icing-recipe/)
+2025-04-05 00:20:48,723 [INFO] Yummly Easy: Fetching URL: https://yummlyeasy.com/potato-soup-recipe/
+2025-04-05 00:20:52,380 [INFO] Yummly Easy: Saved recipe: 'Potato Soup Recipe' (URL: https://yummlyeasy.com/potato-soup-recipe/)
+2025-04-05 00:20:52,380 [INFO] Yummly Easy: Fetching URL: https://yummlyeasy.com/delicious-strawberry-cinnamon-rolls-for-breakfast-joy/
+2025-04-05 00:20:56,464 [INFO] Yummly Easy: Saved recipe: 'Delicious Strawberry Cinnamon Rolls for Breakfast Joy' (URL: https://yummlyeasy.com/delicious-strawberry-cinnamon-rolls-for-breakfast-joy/)
+2025-04-05 00:20:56,464 [INFO] Yummly Easy: Fetching URL: https://yummlyeasy.com/air-fryer-chicken-thighs-recipe/
+2025-04-05 00:21:00,299 [INFO] Yummly Easy: Saved recipe: 'Air Fryer Chicken Thighs Recipe' (URL: https://yummlyeasy.com/air-fryer-chicken-thighs-recipe/)
+2025-04-05 00:21:00,300 [INFO] Yummly Easy: Fetching URL: https://yummlyeasy.com/grilled-chicken-breast-recipe/
+2025-04-05 00:21:04,925 [INFO] Yummly Easy: Saved recipe: 'Grilled Chicken Breast Recipe' (URL: https://yummlyeasy.com/grilled-chicken-breast-recipe/)
+2025-04-05 00:21:04,925 [INFO] Yummly Easy: Fetching URL: https://yummlyeasy.com/irresistible-mango-sago-dessert-recipe-cool-down-your-summer/
+2025-04-05 00:21:08,545 [INFO] Yummly Easy: Saved recipe: 'Irresistible Mango Sago Dessert Recipe :  Cool Down Your Summer!' (URL: https://yummlyeasy.com/irresistible-mango-sago-dessert-recipe-cool-down-your-summer/)
+2025-04-05 00:21:08,545 [INFO] Yummly Easy: Fetching URL: https://yummlyeasy.com/indulge-in-elegant-chocolate-enrobed-berry-gelee-delights/
+2025-04-05 00:21:12,198 [INFO] Yummly Easy: Saved recipe: 'Indulge in Elegant Chocolate-Enrobed Berry Gelee Delights!' (URL: https://yummlyeasy.com/indulge-in-elegant-chocolate-enrobed-berry-gelee-delights/)
+2025-04-05 00:21:12,198 [INFO] Yummly Easy: Fetching URL: https://yummlyeasy.com/country-apple-fritter-cake-recipe/
+2025-04-05 00:21:17,382 [INFO] Yummly Easy: Saved recipe: 'Country Apple Fritter Cake Recipe' (URL: https://yummlyeasy.com/country-apple-fritter-cake-recipe/)
+2025-04-05 00:21:17,382 [INFO] Yummly Easy: Fetching URL: https://yummlyeasy.com/tres-leches-cake-recipe/
+2025-04-05 00:21:21,152 [INFO] Yummly Easy: Saved recipe: 'Tres Leches Cake Recipe' (URL: https://yummlyeasy.com/tres-leches-cake-recipe/)
+2025-04-05 00:21:21,152 [INFO] Yummly Easy: Fetching URL: https://yummlyeasy.com/white-chicken-chili-recipe/
+2025-04-05 00:21:25,613 [INFO] Yummly Easy: Saved recipe: 'White Chicken Chili Recipe' (URL: https://yummlyeasy.com/white-chicken-chili-recipe/)
+2025-04-05 00:21:25,613 [INFO] Yummly Easy: Fetching URL: https://yummlyeasy.com/mouthwatering-lemon-cheesecake-bars/
+2025-04-05 00:21:29,921 [INFO] Yummly Easy: Saved recipe: 'Mouthwatering Lemon Cheesecake Bars!' (URL: https://yummlyeasy.com/mouthwatering-lemon-cheesecake-bars/)
+2025-04-05 00:21:29,921 [INFO] Yummly Easy: Fetching URL: https://yummlyeasy.com/minestrone-soup-recipe/
+2025-04-05 00:21:33,798 [INFO] Yummly Easy: Saved recipe: 'Minestrone Soup Recipe' (URL: https://yummlyeasy.com/minestrone-soup-recipe/)
+2025-04-05 00:21:33,798 [INFO] Yummly Easy: Fetching URL: https://yummlyeasy.com/aunt-kathys-oven-burgers-savory-and-juicy-made-easy/
+2025-04-05 00:21:37,434 [INFO] Yummly Easy: Saved recipe: 'Aunt Kathy’s Oven Burgers – Savory and Juicy, Made Easy!' (URL: https://yummlyeasy.com/aunt-kathys-oven-burgers-savory-and-juicy-made-easy/)
+2025-04-05 00:21:37,434 [INFO] Yummly Easy: Fetching URL: https://yummlyeasy.com/air-fryer-jalapeno-poppers-recipe/
+2025-04-05 00:21:41,750 [INFO] Yummly Easy: Saved recipe: 'Air Fryer Jalapeño Poppers Recipe' (URL: https://yummlyeasy.com/air-fryer-jalapeno-poppers-recipe/)
+2025-04-05 00:21:41,750 [INFO] Yummly Easy: Fetching URL: https://yummlyeasy.com/pickled-red-onions-recipe/
+2025-04-05 00:21:45,897 [INFO] Yummly Easy: Saved recipe: 'Pickled Red Onions Recipe' (URL: https://yummlyeasy.com/pickled-red-onions-recipe/)
+2025-04-05 00:21:45,897 [INFO] Yummly Easy: Fetching URL: https://yummlyeasy.com/slow-cooker-balsamic-glazed-roast-beef-a-flavor-packed-comfort-meal/
+2025-04-05 00:21:49,584 [INFO] Yummly Easy: Saved recipe: 'Slow Cooker Balsamic Glazed Roast Beef – A Flavor-Packed Comfort Meal!' (URL: https://yummlyeasy.com/slow-cooker-balsamic-glazed-roast-beef-a-flavor-packed-comfort-meal/)
+2025-04-05 00:21:49,584 [INFO] Yummly Easy: Fetching URL: https://yummlyeasy.com/melt-in-your-mouth-chicken-recipe/
+2025-04-05 00:21:53,624 [INFO] Yummly Easy: Saved recipe: 'Melt in Your Mouth Chicken Recipe' (URL: https://yummlyeasy.com/melt-in-your-mouth-chicken-recipe/)
+2025-04-05 00:21:53,625 [INFO] Yummly Easy: Fetching URL: https://yummlyeasy.com/instant-pot-mac-and-cheese-recipe/
+2025-04-05 00:21:57,740 [INFO] Yummly Easy: Saved recipe: 'Instant Pot Mac and Cheese Recipe' (URL: https://yummlyeasy.com/instant-pot-mac-and-cheese-recipe/)
+2025-04-05 00:21:57,740 [INFO] Yummly Easy: Fetching URL: https://yummlyeasy.com/savory-delight-blue-cheese-walnut-thyme-puff-pastry-twirl-recipe/
+2025-04-05 00:22:01,326 [INFO] Yummly Easy: Saved recipe: 'Savory Delight: Blue Cheese Walnut Thyme Puff Pastry Twirl Recipe' (URL: https://yummlyeasy.com/savory-delight-blue-cheese-walnut-thyme-puff-pastry-twirl-recipe/)
+2025-04-05 00:22:01,326 [INFO] Yummly Easy: Fetching URL: https://yummlyeasy.com/creamy-pasta-salad-recipe/
+2025-04-05 00:22:05,713 [INFO] Yummly Easy: Saved recipe: 'Creamy Pasta Salad Recipe' (URL: https://yummlyeasy.com/creamy-pasta-salad-recipe/)
+2025-04-05 00:22:05,713 [INFO] Yummly Easy: Fetching URL: https://yummlyeasy.com/starbucks-frappuccino-recipe/
+2025-04-05 00:22:09,792 [INFO] Yummly Easy: Saved recipe: 'Starbucks Frappuccino Recipe' (URL: https://yummlyeasy.com/starbucks-frappuccino-recipe/)
+2025-04-05 00:22:09,792 [INFO] Yummly Easy: Fetching URL: https://yummlyeasy.com/roasted-pumpkin-seed-recipe/
+2025-04-05 00:22:15,152 [INFO] Yummly Easy: Saved recipe: 'Roasted Pumpkin Seed Recipe' (URL: https://yummlyeasy.com/roasted-pumpkin-seed-recipe/)
+2025-04-05 00:22:15,152 [INFO] Yummly Easy: Fetching URL: https://yummlyeasy.com/peach-lemonade-recipe/
+2025-04-05 00:22:18,923 [INFO] Yummly Easy: Saved recipe: 'Peach Lemonade Recipe' (URL: https://yummlyeasy.com/peach-lemonade-recipe/)
+2025-04-05 00:22:18,923 [INFO] Yummly Easy: Fetching URL: https://yummlyeasy.com/delicious-chicken-parmesan-soup-recipe-easy-flavorful/
+2025-04-05 00:22:23,213 [INFO] Yummly Easy: Saved recipe: 'Delicious Chicken Parmesan Soup Recipe – Easy & Flavorful' (URL: https://yummlyeasy.com/delicious-chicken-parmesan-soup-recipe-easy-flavorful/)
+2025-04-05 00:22:23,213 [INFO] Yummly Easy: Fetching URL: https://yummlyeasy.com/red-velvet-cake-recipe/
+2025-04-05 00:22:26,839 [INFO] Yummly Easy: Saved recipe: 'Red Velvet Cake Recipe' (URL: https://yummlyeasy.com/red-velvet-cake-recipe/)
+2025-04-05 00:22:26,839 [INFO] Yummly Easy: Fetching URL: https://yummlyeasy.com/albondigas-soup-recipe/
+2025-04-05 00:22:30,549 [INFO] Yummly Easy: Saved recipe: 'Albondigas Soup Recipe' (URL: https://yummlyeasy.com/albondigas-soup-recipe/)
+2025-04-05 00:22:30,549 [INFO] Yummly Easy: Fetching URL: https://yummlyeasy.com/blackstone-tortellini-recipe/
+2025-04-05 00:22:34,658 [INFO] Yummly Easy: Saved recipe: 'Blackstone Tortellini Recipe' (URL: https://yummlyeasy.com/blackstone-tortellini-recipe/)
+2025-04-05 00:22:34,658 [INFO] Yummly Easy: Fetching URL: https://yummlyeasy.com/crispy-homemade-chicken-tenders-a-family-favorite/
+2025-04-05 00:22:38,394 [INFO] Yummly Easy: Saved recipe: 'Crispy Homemade Chicken Tenders – A Family Favorite!' (URL: https://yummlyeasy.com/crispy-homemade-chicken-tenders-a-family-favorite/)
+2025-04-05 00:22:38,395 [INFO] Yummly Easy: Fetching URL: https://yummlyeasy.com/deliciously-easy-mayonnaise-roasted-potatoes-a-must-try-side/
+2025-04-05 00:22:42,267 [INFO] Yummly Easy: Saved recipe: 'Deliciously Easy Mayonnaise-Roasted Potatoes – A Must-Try Side' (URL: https://yummlyeasy.com/deliciously-easy-mayonnaise-roasted-potatoes-a-must-try-side/)
+2025-04-05 00:22:42,267 [INFO] Yummly Easy: Fetching URL: https://yummlyeasy.com/savor-the-taste-of-a-cherry-lime-bourbon-smash-a-perfect-summer-cocktail/
+2025-04-05 00:22:46,344 [INFO] Yummly Easy: Saved recipe: 'Savor the Taste of a Cherry Lime Bourbon Smash: A Perfect Summer Cocktail' (URL: https://yummlyeasy.com/savor-the-taste-of-a-cherry-lime-bourbon-smash-a-perfect-summer-cocktail/)
+2025-04-05 00:22:46,344 [INFO] Yummly Easy: Fetching URL: https://yummlyeasy.com/glazed-salmon-recipe/
+2025-04-05 00:22:50,058 [INFO] Yummly Easy: Saved recipe: 'Glazed Salmon Recipe' (URL: https://yummlyeasy.com/glazed-salmon-recipe/)
+2025-04-05 00:22:50,058 [INFO] Yummly Easy: Fetching URL: https://yummlyeasy.com/italian-stuffed-peppers-recipe/
+2025-04-05 00:22:53,706 [INFO] Yummly Easy: Saved recipe: 'Italian Stuffed Peppers Recipe' (URL: https://yummlyeasy.com/italian-stuffed-peppers-recipe/)
+2025-04-05 00:22:53,706 [INFO] Yummly Easy: Fetching URL: https://yummlyeasy.com/roasted-broccoli-recipe/
+2025-04-05 00:22:57,723 [INFO] Yummly Easy: Saved recipe: 'Roasted Broccoli Recipe' (URL: https://yummlyeasy.com/roasted-broccoli-recipe/)
+2025-04-05 00:22:57,723 [INFO] Yummly Easy: Fetching URL: https://yummlyeasy.com/%e2%9c%a8-white-chocolate-blueberry-cheesecake-bliss-%e2%9c%a8/
+2025-04-05 00:23:02,866 [INFO] Yummly Easy: Saved recipe: '\u2728 White Chocolate Blueberry Cheesecake Bliss \u2728' (URL: https://yummlyeasy.com/%e2%9c%a8-white-chocolate-blueberry-cheesecake-bliss-%e2%9c%a8/)
+2025-04-05 00:23:02,866 [INFO] Yummly Easy: Fetching URL: https://yummlyeasy.com/mulberry-cake-recipe/
+2025-04-05 00:23:07,026 [INFO] Yummly Easy: Saved recipe: 'Mulberry Cake Recipe' (URL: https://yummlyeasy.com/mulberry-cake-recipe/)
+2025-04-05 00:23:07,026 [INFO] Yummly Easy: Fetching URL: https://yummlyeasy.com/taco-pizza-with-pizza-crust-recipe/
+2025-04-05 00:23:11,441 [INFO] Yummly Easy: Saved recipe: 'Taco Pizza with Pizza Crust Recipe' (URL: https://yummlyeasy.com/taco-pizza-with-pizza-crust-recipe/)
+2025-04-05 00:23:11,442 [INFO] Yummly Easy: Fetching URL: https://yummlyeasy.com/pizza-dough-recipe/
+2025-04-05 00:23:16,405 [INFO] Yummly Easy: Saved recipe: 'Pizza Dough Recipe' (URL: https://yummlyeasy.com/pizza-dough-recipe/)
+2025-04-05 00:23:16,405 [INFO] Yummly Easy: Fetching URL: https://yummlyeasy.com/luscious-no-bake-mango-swirl-cheesecake/
+2025-04-05 00:23:20,149 [INFO] Yummly Easy: Saved recipe: 'Luscious No-Bake Mango Swirl Cheesecake' (URL: https://yummlyeasy.com/luscious-no-bake-mango-swirl-cheesecake/)
+2025-04-05 00:23:20,149 [INFO] Yummly Easy: Fetching URL: https://yummlyeasy.com/pavlova-recipe/
+2025-04-05 00:23:24,627 [INFO] Yummly Easy: Saved recipe: 'Pavlova Recipe' (URL: https://yummlyeasy.com/pavlova-recipe/)
+2025-04-05 00:23:24,627 [INFO] Yummly Easy: Fetching URL: https://yummlyeasy.com/orzo-salad-recipe/
+2025-04-05 00:23:29,612 [INFO] Yummly Easy: Saved recipe: 'Orzo Salad Recipe' (URL: https://yummlyeasy.com/orzo-salad-recipe/)
+2025-04-05 00:23:29,612 [INFO] Yummly Easy: Fetching URL: https://yummlyeasy.com/irresistible-strawberry-cheesecake-french-toast/
+2025-04-05 00:23:33,722 [INFO] Yummly Easy: Saved recipe: 'Irresistible Strawberry Cheesecake French Toast' (URL: https://yummlyeasy.com/irresistible-strawberry-cheesecake-french-toast/)
+2025-04-05 00:23:33,722 [INFO] Yummly Easy: Fetching URL: https://yummlyeasy.com/irresistible-summer-peach-cake-a-sweet-slice-of-summer/
+2025-04-05 00:23:37,395 [INFO] Yummly Easy: Saved recipe: 'Irresistible Summer Peach Cake: A Sweet Slice of Summer!' (URL: https://yummlyeasy.com/irresistible-summer-peach-cake-a-sweet-slice-of-summer/)
+2025-04-05 00:23:37,395 [INFO] Yummly Easy: Fetching URL: https://yummlyeasy.com/easy-creamy-garlic-mashed-potatoes-recipe-a-comfort-food-classic/
+2025-04-05 00:23:41,165 [INFO] Yummly Easy: Saved recipe: 'Easy Creamy Garlic Mashed Potatoes Recipe – A Comfort Food Classic' (URL: https://yummlyeasy.com/easy-creamy-garlic-mashed-potatoes-recipe-a-comfort-food-classic/)
+2025-04-05 00:23:41,165 [INFO] Yummly Easy: Fetching URL: https://yummlyeasy.com/cobb-salad-recipe/
+2025-04-05 00:23:45,244 [INFO] Yummly Easy: Saved recipe: 'Cobb Salad Recipe' (URL: https://yummlyeasy.com/cobb-salad-recipe/)
+2025-04-05 00:23:45,245 [INFO] Yummly Easy: Fetching URL: https://yummlyeasy.com/broccoli-cheese-balls-recipe-crispy-cheesy/
+2025-04-05 00:23:49,372 [INFO] Yummly Easy: Saved recipe: 'Broccoli Cheese Balls Recipe: Crispy & Cheesy' (URL: https://yummlyeasy.com/broccoli-cheese-balls-recipe-crispy-cheesy/)
+2025-04-05 00:23:49,372 [INFO] Yummly Easy: Fetching URL: https://yummlyeasy.com/lentil-soup-recipe/
+2025-04-05 00:23:53,432 [INFO] Yummly Easy: Saved recipe: 'Lentil Soup Recipe' (URL: https://yummlyeasy.com/lentil-soup-recipe/)
+2025-04-05 00:23:53,432 [INFO] Yummly Easy: Fetching URL: https://yummlyeasy.com/ocharleys-caramel-pie-recipe-delicious-dessert/
+2025-04-05 00:23:57,394 [INFO] Yummly Easy: Saved recipe: 'O’Charley’s Caramel Pie Recipe: Delicious Dessert' (URL: https://yummlyeasy.com/ocharleys-caramel-pie-recipe-delicious-dessert/)
+2025-04-05 00:23:57,394 [INFO] Yummly Easy: Fetching URL: https://yummlyeasy.com/linzer-cookies-recipe/
+2025-04-05 00:24:01,126 [INFO] Yummly Easy: Saved recipe: 'Linzer Cookies Recipe' (URL: https://yummlyeasy.com/linzer-cookies-recipe/)
+2025-04-05 00:24:01,126 [INFO] Yummly Easy: Fetching URL: https://yummlyeasy.com/chicken-and-dumplings-recipe/
+2025-04-05 00:24:05,933 [INFO] Yummly Easy: Saved recipe: 'Chicken and Dumplings Recipe' (URL: https://yummlyeasy.com/chicken-and-dumplings-recipe/)
+2025-04-05 00:24:05,933 [INFO] Yummly Easy: Fetching URL: https://yummlyeasy.com/coconut-cake-recipe/
+2025-04-05 00:24:09,603 [INFO] Yummly Easy: Saved recipe: 'Coconut Cake Recipe' (URL: https://yummlyeasy.com/coconut-cake-recipe/)
+2025-04-05 00:24:09,603 [INFO] Yummly Easy: Fetching URL: https://yummlyeasy.com/baked-sausage-cream-cheese-crescents-the-perfect-appetizer/
+2025-04-05 00:24:13,970 [INFO] Yummly Easy: Saved recipe: 'Baked Sausage Cream Cheese Crescents: The Perfect Appetizer' (URL: https://yummlyeasy.com/baked-sausage-cream-cheese-crescents-the-perfect-appetizer/)
+2025-04-05 00:24:13,970 [INFO] Yummly Easy: Fetching URL: https://yummlyeasy.com/elegant-lemon-marbled-cheesecake-bars/
+2025-04-05 00:24:18,714 [INFO] Yummly Easy: Saved recipe: 'Elegant Lemon Marbled Cheesecake Bars' (URL: https://yummlyeasy.com/elegant-lemon-marbled-cheesecake-bars/)
+2025-04-05 00:24:18,715 [INFO] Yummly Easy: Fetching URL: https://yummlyeasy.com/fried-green-tomatoes-the-southern-classic/
+2025-04-05 00:24:22,771 [INFO] Yummly Easy: Saved recipe: 'Fried Green Tomatoes: The Southern Classic' (URL: https://yummlyeasy.com/fried-green-tomatoes-the-southern-classic/)
+2025-04-05 00:24:22,771 [INFO] Yummly Easy: Fetching URL: https://yummlyeasy.com/szechuan-chicken-recipe/
+2025-04-05 00:24:27,252 [INFO] Yummly Easy: Saved recipe: 'Szechuan Chicken Recipe' (URL: https://yummlyeasy.com/szechuan-chicken-recipe/)
+2025-04-05 00:24:27,253 [INFO] Yummly Easy: Fetching URL: https://yummlyeasy.com/taco-spaghetti-recipe/
+2025-04-05 00:24:31,046 [INFO] Yummly Easy: Saved recipe: 'Taco Spaghetti Recipe' (URL: https://yummlyeasy.com/taco-spaghetti-recipe/)
+2025-04-05 00:24:31,046 [INFO] Yummly Easy: Fetching URL: https://yummlyeasy.com/roasted-butternut-squash-recipe/
+2025-04-05 00:24:34,739 [INFO] Yummly Easy: Saved recipe: 'Roasted Butternut Squash Recipe' (URL: https://yummlyeasy.com/roasted-butternut-squash-recipe/)
+2025-04-05 00:24:34,739 [INFO] Yummly Easy: Fetching URL: https://yummlyeasy.com/luscious-german-chocolate-cruffins-a-heavenly-twist-on-a-classic-treat/
+2025-04-05 00:24:39,032 [INFO] Yummly Easy: Saved recipe: 'Luscious German Chocolate Cruffins – A Heavenly Twist on a Classic Treat!' (URL: https://yummlyeasy.com/luscious-german-chocolate-cruffins-a-heavenly-twist-on-a-classic-treat/)
+2025-04-05 00:24:39,032 [INFO] Yummly Easy: Fetching URL: https://yummlyeasy.com/homemade-teriyaki-sauce-recipe/
+2025-04-05 00:24:42,678 [INFO] Yummly Easy: Saved recipe: 'Homemade Teriyaki Sauce Recipe' (URL: https://yummlyeasy.com/homemade-teriyaki-sauce-recipe/)
+2025-04-05 00:24:42,678 [INFO] Yummly Easy: Fetching URL: https://yummlyeasy.com/lobster-mac-and-cheese-recipe/
+2025-04-05 00:24:46,411 [INFO] Yummly Easy: Saved recipe: 'Lobster Mac and Cheese Recipe' (URL: https://yummlyeasy.com/lobster-mac-and-cheese-recipe/)
+2025-04-05 00:24:46,411 [INFO] Yummly Easy: Fetching URL: https://yummlyeasy.com/easy-cranberry-turkey-sliders-recipe-perfect-holiday-leftovers/
+2025-04-05 00:24:50,655 [INFO] Yummly Easy: Saved recipe: 'Easy CRANBERRY TURKEY SLIDERS Recipe: Perfect Holiday Leftovers' (URL: https://yummlyeasy.com/easy-cranberry-turkey-sliders-recipe-perfect-holiday-leftovers/)
+2025-04-05 00:24:50,655 [INFO] Yummly Easy: Fetching URL: https://yummlyeasy.com/heavenly-blueberry-cheesecake-bars-a-dreamy-delight-you-cant-resist/
+2025-04-05 00:24:55,120 [INFO] Yummly Easy: Saved recipe: 'Heavenly Blueberry Cheesecake Bars: A Dreamy Delight You Can’t Resist!' (URL: https://yummlyeasy.com/heavenly-blueberry-cheesecake-bars-a-dreamy-delight-you-cant-resist/)
+2025-04-05 00:24:55,120 [INFO] Yummly Easy: Fetching URL: https://yummlyeasy.com/master-the-art-of-par-baking-cinnamon-rolls-a-complete-guide/
+2025-04-05 00:24:58,823 [INFO] Yummly Easy: Saved recipe: 'Master the Art of Par-Baking Cinnamon Rolls: A Complete Guide' (URL: https://yummlyeasy.com/master-the-art-of-par-baking-cinnamon-rolls-a-complete-guide/)
+2025-04-05 00:24:58,823 [INFO] Yummly Easy: Fetching URL: https://yummlyeasy.com/corn-salad-recipe/
+2025-04-05 00:25:02,439 [INFO] Yummly Easy: Saved recipe: 'Corn Salad Recipe' (URL: https://yummlyeasy.com/corn-salad-recipe/)
+2025-04-05 00:25:02,440 [INFO] Yummly Easy: Fetching URL: https://yummlyeasy.com/maple-dijon-roasted-carrots-easy-flavorful-recipe/
+2025-04-05 00:25:06,925 [INFO] Yummly Easy: Saved recipe: 'Maple Dijon Roasted Carrots: Easy, Flavorful Recipe' (URL: https://yummlyeasy.com/maple-dijon-roasted-carrots-easy-flavorful-recipe/)
+2025-04-05 00:25:06,925 [INFO] Yummly Easy: Fetching URL: https://yummlyeasy.com/pecan-pie-balls-bite-sized-perfection/
+2025-04-05 00:25:11,610 [INFO] Yummly Easy: Saved recipe: 'Pecan Pie Balls: Bite-Sized Perfection' (URL: https://yummlyeasy.com/pecan-pie-balls-bite-sized-perfection/)
+2025-04-05 00:25:11,610 [INFO] Yummly Easy: Fetching URL: https://yummlyeasy.com/traditional-filipino-kutsinta-with-creamy-yema-a-sweet-delight-you-must-try/
+2025-04-05 00:25:16,306 [INFO] Yummly Easy: Saved recipe: 'Traditional Filipino Kutsinta with Creamy Yema – A Sweet Delight You Must Try' (URL: https://yummlyeasy.com/traditional-filipino-kutsinta-with-creamy-yema-a-sweet-delight-you-must-try/)
+2025-04-05 00:25:16,306 [INFO] Yummly Easy: Fetching URL: https://yummlyeasy.com/baked-honey-buffalo-chicken-crispy-flavorful-and-easy/
+2025-04-05 00:25:20,552 [INFO] Yummly Easy: Saved recipe: 'Baked Honey Buffalo Chicken: Crispy, Flavorful, and Easy' (URL: https://yummlyeasy.com/baked-honey-buffalo-chicken-crispy-flavorful-and-easy/)
+2025-04-05 00:25:20,552 [INFO] Yummly Easy: Fetching URL: https://yummlyeasy.com/rotisserie-chicken-casserole-recipe/
+2025-04-05 00:25:33,910 [ERROR] Yummly Easy: Requests failed to load: https://yummlyeasy.com/rotisserie-chicken-casserole-recipe/ | Error: HTTPSConnectionPool(host='yummlyeasy.com', port=443): Read timed out.
+2025-04-05 00:25:33,910 [ERROR] Yummly Easy: Error on link https://yummlyeasy.com/rotisserie-chicken-casserole-recipe/: HTTPSConnectionPool(host='yummlyeasy.com', port=443): Read timed out.
+2025-04-05 00:25:33,911 [INFO] Yummly Easy: Fetching URL: https://yummlyeasy.com/delicious-texas-style-chili-recipe-my-signature-dish/
+2025-04-05 00:25:43,980 [WARNING] urllib3.connectionpool: Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ReadTimeoutError("HTTPSConnectionPool(host='yummlyeasy.com', port=443): Read timed out. (read timeout=10)")': /delicious-texas-style-chili-recipe-my-signature-dish/
+2025-04-05 00:25:58,076 [WARNING] urllib3.connectionpool: Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ReadTimeoutError("HTTPSConnectionPool(host='yummlyeasy.com', port=443): Read timed out. (read timeout=10)")': /delicious-texas-style-chili-recipe-my-signature-dish/
+2025-04-05 00:26:16,152 [WARNING] urllib3.connectionpool: Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ReadTimeoutError("HTTPSConnectionPool(host='yummlyeasy.com', port=443): Read timed out. (read timeout=10)")': /delicious-texas-style-chili-recipe-my-signature-dish/
+2025-04-05 00:26:26,198 [ERROR] Yummly Easy: Requests failed to load: https://yummlyeasy.com/delicious-texas-style-chili-recipe-my-signature-dish/ | Error: HTTPSConnectionPool(host='yummlyeasy.com', port=443): Max retries exceeded with url: /delicious-texas-style-chili-recipe-my-signature-dish/ (Caused by ReadTimeoutError("HTTPSConnectionPool(host='yummlyeasy.com', port=443): Read timed out. (read timeout=10)"))
+2025-04-05 00:26:26,198 [ERROR] Yummly Easy: Error on link https://yummlyeasy.com/delicious-texas-style-chili-recipe-my-signature-dish/: HTTPSConnectionPool(host='yummlyeasy.com', port=443): Max retries exceeded with url: /delicious-texas-style-chili-recipe-my-signature-dish/ (Caused by ReadTimeoutError("HTTPSConnectionPool(host='yummlyeasy.com', port=443): Read timed out. (read timeout=10)"))
+2025-04-05 00:26:26,199 [INFO] Yummly Easy: Fetching URL: https://yummlyeasy.com/orzo-lemon-soup-recipe/
+2025-04-05 00:26:36,382 [WARNING] urllib3.connectionpool: Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ReadTimeoutError("HTTPSConnectionPool(host='yummlyeasy.com', port=443): Read timed out. (read timeout=10)")': /orzo-lemon-soup-recipe/
+2025-04-05 00:26:50,445 [WARNING] urllib3.connectionpool: Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ReadTimeoutError("HTTPSConnectionPool(host='yummlyeasy.com', port=443): Read timed out. (read timeout=10)")': /orzo-lemon-soup-recipe/
+2025-04-05 00:27:08,498 [WARNING] urllib3.connectionpool: Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ReadTimeoutError("HTTPSConnectionPool(host='yummlyeasy.com', port=443): Read timed out. (read timeout=10)")': /orzo-lemon-soup-recipe/
+2025-04-05 00:27:18,595 [ERROR] Yummly Easy: Requests failed to load: https://yummlyeasy.com/orzo-lemon-soup-recipe/ | Error: HTTPSConnectionPool(host='yummlyeasy.com', port=443): Max retries exceeded with url: /orzo-lemon-soup-recipe/ (Caused by ReadTimeoutError("HTTPSConnectionPool(host='yummlyeasy.com', port=443): Read timed out. (read timeout=10)"))
+2025-04-05 00:27:18,595 [ERROR] Yummly Easy: Error on link https://yummlyeasy.com/orzo-lemon-soup-recipe/: HTTPSConnectionPool(host='yummlyeasy.com', port=443): Max retries exceeded with url: /orzo-lemon-soup-recipe/ (Caused by ReadTimeoutError("HTTPSConnectionPool(host='yummlyeasy.com', port=443): Read timed out. (read timeout=10)"))
+2025-04-05 00:27:18,596 [INFO] Yummly Easy: Fetching URL: https://yummlyeasy.com/iced-matcha-latte-recipe/
+2025-04-05 00:27:28,677 [WARNING] urllib3.connectionpool: Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ReadTimeoutError("HTTPSConnectionPool(host='yummlyeasy.com', port=443): Read timed out. (read timeout=10)")': /iced-matcha-latte-recipe/
+2025-04-05 00:27:42,747 [WARNING] urllib3.connectionpool: Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ReadTimeoutError("HTTPSConnectionPool(host='yummlyeasy.com', port=443): Read timed out. (read timeout=10)")': /iced-matcha-latte-recipe/
+2025-04-05 00:28:00,834 [WARNING] urllib3.connectionpool: Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ReadTimeoutError("HTTPSConnectionPool(host='yummlyeasy.com', port=443): Read timed out. (read timeout=10)")': /iced-matcha-latte-recipe/
+2025-04-05 00:28:10,917 [ERROR] Yummly Easy: Requests failed to load: https://yummlyeasy.com/iced-matcha-latte-recipe/ | Error: HTTPSConnectionPool(host='yummlyeasy.com', port=443): Max retries exceeded with url: /iced-matcha-latte-recipe/ (Caused by ReadTimeoutError("HTTPSConnectionPool(host='yummlyeasy.com', port=443): Read timed out. (read timeout=10)"))
+2025-04-05 00:28:10,917 [ERROR] Yummly Easy: Error on link https://yummlyeasy.com/iced-matcha-latte-recipe/: HTTPSConnectionPool(host='yummlyeasy.com', port=443): Max retries exceeded with url: /iced-matcha-latte-recipe/ (Caused by ReadTimeoutError("HTTPSConnectionPool(host='yummlyeasy.com', port=443): Read timed out. (read timeout=10)"))
+2025-04-05 00:28:10,918 [INFO] Yummly Easy: Fetching URL: https://yummlyeasy.com/mouth-watering-german-chocolate-poke-cake/
+2025-04-05 00:28:20,998 [WARNING] urllib3.connectionpool: Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ReadTimeoutError("HTTPSConnectionPool(host='yummlyeasy.com', port=443): Read timed out. (read timeout=10)")': /mouth-watering-german-chocolate-poke-cake/
+2025-04-05 00:28:35,455 [WARNING] urllib3.connectionpool: Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ReadTimeoutError("HTTPSConnectionPool(host='yummlyeasy.com', port=443): Read timed out. (read timeout=10)")': /mouth-watering-german-chocolate-poke-cake/
+2025-04-05 00:28:53,552 [WARNING] urllib3.connectionpool: Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ReadTimeoutError("HTTPSConnectionPool(host='yummlyeasy.com', port=443): Read timed out. (read timeout=10)")': /mouth-watering-german-chocolate-poke-cake/
+2025-04-05 00:29:03,692 [ERROR] Yummly Easy: Requests failed to load: https://yummlyeasy.com/mouth-watering-german-chocolate-poke-cake/ | Error: HTTPSConnectionPool(host='yummlyeasy.com', port=443): Max retries exceeded with url: /mouth-watering-german-chocolate-poke-cake/ (Caused by ReadTimeoutError("HTTPSConnectionPool(host='yummlyeasy.com', port=443): Read timed out. (read timeout=10)"))
+2025-04-05 00:29:03,693 [ERROR] Yummly Easy: Error on link https://yummlyeasy.com/mouth-watering-german-chocolate-poke-cake/: HTTPSConnectionPool(host='yummlyeasy.com', port=443): Max retries exceeded with url: /mouth-watering-german-chocolate-poke-cake/ (Caused by ReadTimeoutError("HTTPSConnectionPool(host='yummlyeasy.com', port=443): Read timed out. (read timeout=10)"))
+2025-04-05 00:29:03,693 [INFO] Yummly Easy: Fetching URL: https://yummlyeasy.com/mango-smoothie-recipe/
+2025-04-05 00:29:13,810 [WARNING] urllib3.connectionpool: Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ReadTimeoutError("HTTPSConnectionPool(host='yummlyeasy.com', port=443): Read timed out. (read timeout=10)")': /mango-smoothie-recipe/
+2025-04-05 00:29:27,888 [WARNING] urllib3.connectionpool: Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ReadTimeoutError("HTTPSConnectionPool(host='yummlyeasy.com', port=443): Read timed out. (read timeout=10)")': /mango-smoothie-recipe/
+2025-04-05 00:29:45,946 [WARNING] urllib3.connectionpool: Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ReadTimeoutError("HTTPSConnectionPool(host='yummlyeasy.com', port=443): Read timed out. (read timeout=10)")': /mango-smoothie-recipe/
+2025-04-05 00:29:56,045 [ERROR] Yummly Easy: Requests failed to load: https://yummlyeasy.com/mango-smoothie-recipe/ | Error: HTTPSConnectionPool(host='yummlyeasy.com', port=443): Max retries exceeded with url: /mango-smoothie-recipe/ (Caused by ReadTimeoutError("HTTPSConnectionPool(host='yummlyeasy.com', port=443): Read timed out. (read timeout=10)"))
+2025-04-05 00:29:56,046 [ERROR] Yummly Easy: Error on link https://yummlyeasy.com/mango-smoothie-recipe/: HTTPSConnectionPool(host='yummlyeasy.com', port=443): Max retries exceeded with url: /mango-smoothie-recipe/ (Caused by ReadTimeoutError("HTTPSConnectionPool(host='yummlyeasy.com', port=443): Read timed out. (read timeout=10)"))
+2025-04-05 00:29:56,046 [INFO] Yummly Easy: Fetching URL: https://yummlyeasy.com/mississippi-pot-roast-recipe/
+2025-04-05 00:30:06,100 [WARNING] urllib3.connectionpool: Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ReadTimeoutError("HTTPSConnectionPool(host='yummlyeasy.com', port=443): Read timed out. (read timeout=10)")': /mississippi-pot-roast-recipe/
+2025-04-05 00:30:20,262 [WARNING] urllib3.connectionpool: Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ReadTimeoutError("HTTPSConnectionPool(host='yummlyeasy.com', port=443): Read timed out. (read timeout=10)")': /mississippi-pot-roast-recipe/
+2025-04-05 00:30:38,372 [WARNING] urllib3.connectionpool: Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ReadTimeoutError("HTTPSConnectionPool(host='yummlyeasy.com', port=443): Read timed out. (read timeout=10)")': /mississippi-pot-roast-recipe/
+2025-04-05 00:30:48,442 [ERROR] Yummly Easy: Requests failed to load: https://yummlyeasy.com/mississippi-pot-roast-recipe/ | Error: HTTPSConnectionPool(host='yummlyeasy.com', port=443): Max retries exceeded with url: /mississippi-pot-roast-recipe/ (Caused by ReadTimeoutError("HTTPSConnectionPool(host='yummlyeasy.com', port=443): Read timed out. (read timeout=10)"))
+2025-04-05 00:30:48,443 [ERROR] Yummly Easy: Error on link https://yummlyeasy.com/mississippi-pot-roast-recipe/: HTTPSConnectionPool(host='yummlyeasy.com', port=443): Max retries exceeded with url: /mississippi-pot-roast-recipe/ (Caused by ReadTimeoutError("HTTPSConnectionPool(host='yummlyeasy.com', port=443): Read timed out. (read timeout=10)"))
+2025-04-05 00:30:48,443 [INFO] Yummly Easy: Fetching URL: https://yummlyeasy.com/irresistible-baileys-chocolate-mint-pudding-parfaits/
+2025-04-05 00:30:58,568 [WARNING] urllib3.connectionpool: Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ReadTimeoutError("HTTPSConnectionPool(host='yummlyeasy.com', port=443): Read timed out. (read timeout=10)")': /irresistible-baileys-chocolate-mint-pudding-parfaits/
+2025-04-05 00:31:12,932 [WARNING] urllib3.connectionpool: Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ReadTimeoutError("HTTPSConnectionPool(host='yummlyeasy.com', port=443): Read timed out. (read timeout=10)")': /irresistible-baileys-chocolate-mint-pudding-parfaits/
+2025-04-05 00:31:31,109 [WARNING] urllib3.connectionpool: Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ReadTimeoutError("HTTPSConnectionPool(host='yummlyeasy.com', port=443): Read timed out. (read timeout=10)")': /irresistible-baileys-chocolate-mint-pudding-parfaits/
+2025-04-05 00:31:41,190 [ERROR] Yummly Easy: Requests failed to load: https://yummlyeasy.com/irresistible-baileys-chocolate-mint-pudding-parfaits/ | Error: HTTPSConnectionPool(host='yummlyeasy.com', port=443): Max retries exceeded with url: /irresistible-baileys-chocolate-mint-pudding-parfaits/ (Caused by ReadTimeoutError("HTTPSConnectionPool(host='yummlyeasy.com', port=443): Read timed out. (read timeout=10)"))
+2025-04-05 00:31:41,191 [ERROR] Yummly Easy: Error on link https://yummlyeasy.com/irresistible-baileys-chocolate-mint-pudding-parfaits/: HTTPSConnectionPool(host='yummlyeasy.com', port=443): Max retries exceeded with url: /irresistible-baileys-chocolate-mint-pudding-parfaits/ (Caused by ReadTimeoutError("HTTPSConnectionPool(host='yummlyeasy.com', port=443): Read timed out. (read timeout=10)"))
+2025-04-05 00:31:41,191 [INFO] Yummly Easy: Fetching URL: https://yummlyeasy.com/dirty-rice-recipe/
+2025-04-05 00:31:51,279 [WARNING] urllib3.connectionpool: Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ReadTimeoutError("HTTPSConnectionPool(host='yummlyeasy.com', port=443): Read timed out. (read timeout=10)")': /dirty-rice-recipe/
+2025-04-05 00:32:05,400 [WARNING] urllib3.connectionpool: Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ReadTimeoutError("HTTPSConnectionPool(host='yummlyeasy.com', port=443): Read timed out. (read timeout=10)")': /dirty-rice-recipe/
+2025-04-05 00:32:23,422 [WARNING] urllib3.connectionpool: Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x00000172C4423ED0>, 'Connection to yummlyeasy.com timed out. (connect timeout=10)')': /dirty-rice-recipe/
+2025-04-05 00:32:33,491 [ERROR] Yummly Easy: Requests failed to load: https://yummlyeasy.com/dirty-rice-recipe/ | Error: HTTPSConnectionPool(host='yummlyeasy.com', port=443): Max retries exceeded with url: /dirty-rice-recipe/ (Caused by ReadTimeoutError("HTTPSConnectionPool(host='yummlyeasy.com', port=443): Read timed out. (read timeout=10)"))
+2025-04-05 00:32:33,491 [ERROR] Yummly Easy: Error on link https://yummlyeasy.com/dirty-rice-recipe/: HTTPSConnectionPool(host='yummlyeasy.com', port=443): Max retries exceeded with url: /dirty-rice-recipe/ (Caused by ReadTimeoutError("HTTPSConnectionPool(host='yummlyeasy.com', port=443): Read timed out. (read timeout=10)"))
+2025-04-05 00:32:33,492 [INFO] Yummly Easy: Fetching URL: https://yummlyeasy.com/this-creamy-rattlesnake-pasta-will-make-you-weak-in-the-knees/
+2025-04-05 00:32:43,569 [WARNING] urllib3.connectionpool: Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ReadTimeoutError("HTTPSConnectionPool(host='yummlyeasy.com', port=443): Read timed out. (read timeout=10)")': /this-creamy-rattlesnake-pasta-will-make-you-weak-in-the-knees/
+2025-04-05 00:32:57,620 [WARNING] urllib3.connectionpool: Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ReadTimeoutError("HTTPSConnectionPool(host='yummlyeasy.com', port=443): Read timed out. (read timeout=10)")': /this-creamy-rattlesnake-pasta-will-make-you-weak-in-the-knees/
+2025-04-05 00:33:15,684 [WARNING] urllib3.connectionpool: Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ReadTimeoutError("HTTPSConnectionPool(host='yummlyeasy.com', port=443): Read timed out. (read timeout=10)")': /this-creamy-rattlesnake-pasta-will-make-you-weak-in-the-knees/
+2025-04-05 00:33:25,739 [ERROR] Yummly Easy: Requests failed to load: https://yummlyeasy.com/this-creamy-rattlesnake-pasta-will-make-you-weak-in-the-knees/ | Error: HTTPSConnectionPool(host='yummlyeasy.com', port=443): Max retries exceeded with url: /this-creamy-rattlesnake-pasta-will-make-you-weak-in-the-knees/ (Caused by ReadTimeoutError("HTTPSConnectionPool(host='yummlyeasy.com', port=443): Read timed out. (read timeout=10)"))
+2025-04-05 00:33:25,739 [ERROR] Yummly Easy: Error on link https://yummlyeasy.com/this-creamy-rattlesnake-pasta-will-make-you-weak-in-the-knees/: HTTPSConnectionPool(host='yummlyeasy.com', port=443): Max retries exceeded with url: /this-creamy-rattlesnake-pasta-will-make-you-weak-in-the-knees/ (Caused by ReadTimeoutError("HTTPSConnectionPool(host='yummlyeasy.com', port=443): Read timed out. (read timeout=10)"))
+2025-04-05 00:33:25,740 [INFO] Yummly Easy: Fetching URL: https://yummlyeasy.com/spaghetti-squash-recipe/
+2025-04-05 00:33:35,802 [WARNING] urllib3.connectionpool: Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ReadTimeoutError("HTTPSConnectionPool(host='yummlyeasy.com', port=443): Read timed out. (read timeout=10)")': /spaghetti-squash-recipe/
+2025-04-05 00:33:50,751 [WARNING] urllib3.connectionpool: Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ReadTimeoutError("HTTPSConnectionPool(host='yummlyeasy.com', port=443): Read timed out. (read timeout=10)")': /spaghetti-squash-recipe/
+2025-04-05 00:34:08,824 [WARNING] urllib3.connectionpool: Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ReadTimeoutError("HTTPSConnectionPool(host='yummlyeasy.com', port=443): Read timed out. (read timeout=10)")': /spaghetti-squash-recipe/
+2025-04-05 00:34:18,965 [ERROR] Yummly Easy: Requests failed to load: https://yummlyeasy.com/spaghetti-squash-recipe/ | Error: HTTPSConnectionPool(host='yummlyeasy.com', port=443): Max retries exceeded with url: /spaghetti-squash-recipe/ (Caused by ReadTimeoutError("HTTPSConnectionPool(host='yummlyeasy.com', port=443): Read timed out. (read timeout=10)"))
+2025-04-05 00:34:18,965 [ERROR] Yummly Easy: Error on link https://yummlyeasy.com/spaghetti-squash-recipe/: HTTPSConnectionPool(host='yummlyeasy.com', port=443): Max retries exceeded with url: /spaghetti-squash-recipe/ (Caused by ReadTimeoutError("HTTPSConnectionPool(host='yummlyeasy.com', port=443): Read timed out. (read timeout=10)"))
+2025-04-05 00:34:18,966 [INFO] Yummly Easy: Fetching URL: https://yummlyeasy.com/bake-up-a-blueberry-cream-cheese-french-toast-casserole/
+2025-04-05 00:34:29,050 [WARNING] urllib3.connectionpool: Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ReadTimeoutError("HTTPSConnectionPool(host='yummlyeasy.com', port=443): Read timed out. (read timeout=10)")': /bake-up-a-blueberry-cream-cheese-french-toast-casserole/
+2025-04-05 00:34:43,176 [WARNING] urllib3.connectionpool: Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ReadTimeoutError("HTTPSConnectionPool(host='yummlyeasy.com', port=443): Read timed out. (read timeout=10)")': /bake-up-a-blueberry-cream-cheese-french-toast-casserole/
+2025-04-05 00:34:53,250 [INFO] Yummly Easy: Scraper finished for site: Yummly Easy

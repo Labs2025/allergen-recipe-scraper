@@ -1,0 +1,17 @@
+{
+  "site_name": "Allergic Living",
+  "base_url": "https://www.allergicliving.com",
+  "start_urls": [
+    "https://www.allergicliving.com/recipe-category/allergy-friendly-kitchen-crafts/",
+    "https://www.allergicliving.com/recipe-category/pasta/",
+    "https://www.allergicliving.com/recipe-category/easter-passover/",
+    "https://www.allergicliving.com/recipe-category/spring/"
+  ],
+  "recipe_link_selector": "div.recipe-block__title.h2 > a",
+  "pagination_selector": "div.pager__inner ul.pager__list li.pager__item--next a.pager__link",
+  "title_selector": "article.recipe.recipe--large h1",
+  "ingredients_selector": "div.recipe__ingredients ul li",
+  "instructions_selector": "div.recipe__instructions ol li",
+  "tags_selector": null,
+  "use_selenium": false
+}

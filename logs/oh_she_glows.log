@@ -1,0 +1,17 @@
+2025-04-04 23:08:27,846 [INFO] Oh She Glows: Database connection established successfully.
+2025-04-04 23:08:27,847 [INFO] Oh She Glows: Initialized scraper for site: Oh She Glows
+2025-04-04 23:08:27,847 [INFO] Oh She Glows: Fetching URL: https://ohsheglows.com/recipe-search/
+2025-04-04 23:08:28,653 [ERROR] Oh She Glows: Requests failed to load: https://ohsheglows.com/recipe-search/ | Error: 403 Client Error: Forbidden for url: https://ohsheglows.com/recipe-search/
+2025-04-04 23:08:28,653 [ERROR] Oh She Glows: Failed to fetch page https://ohsheglows.com/recipe-search/: 403 Client Error: Forbidden for url: https://ohsheglows.com/recipe-search/
+2025-04-04 23:08:28,654 [INFO] Oh She Glows: Found 0 unique recipe links for site 'Oh She Glows'.
+2025-04-04 23:08:28,655 [INFO] Oh She Glows: Scraper finished for site: Oh She Glows
+2025-04-04 23:11:34,939 [INFO] Oh She Glows: Database connection established successfully.
+2025-04-04 23:11:34,939 [INFO] Oh She Glows: Initialized scraper for site: Oh She Glows
+2025-04-04 23:11:34,940 [INFO] Oh She Glows: Fetching URL: https://ohsheglows.com/categories/recipes-2/breakfast/
+2025-04-04 23:11:35,590 [ERROR] Oh She Glows: Requests failed to load: https://ohsheglows.com/categories/recipes-2/breakfast/ | Error: 403 Client Error: Forbidden for url: https://ohsheglows.com/categories/recipes-2/breakfast/
+2025-04-04 23:11:35,590 [ERROR] Oh She Glows: Failed to fetch page https://ohsheglows.com/categories/recipes-2/breakfast/: 403 Client Error: Forbidden for url: https://ohsheglows.com/categories/recipes-2/breakfast/
+2025-04-04 23:11:35,590 [INFO] Oh She Glows: Fetching URL: https://ohsheglows.com/recipe-search/
+2025-04-04 23:11:36,389 [ERROR] Oh She Glows: Requests failed to load: https://ohsheglows.com/recipe-search/ | Error: 403 Client Error: Forbidden for url: https://ohsheglows.com/recipe-search/
+2025-04-04 23:11:36,389 [ERROR] Oh She Glows: Failed to fetch page https://ohsheglows.com/recipe-search/: 403 Client Error: Forbidden for url: https://ohsheglows.com/recipe-search/
+2025-04-04 23:11:36,389 [INFO] Oh She Glows: Found 0 unique recipe links for site 'Oh She Glows'.
+2025-04-04 23:11:36,390 [INFO] Oh She Glows: Scraper finished for site: Oh She Glows

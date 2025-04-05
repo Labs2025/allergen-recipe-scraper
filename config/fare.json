@@ -1,0 +1,14 @@
+{
+  "site_name": "FARE",
+  "base_url": "https://www.foodallergy.org/",
+  "start_urls": [
+    "https://www.foodallergy.org/our-initiatives/awareness-campaigns/living-teal/feasting-fare"
+  ],
+  "recipe_link_selector": "h3.promo-card-title a",
+  "pagination_selector": null,
+  "title_selector": "div.hero-secondary-text h1",
+  "ingredients_selector": "div.center-column.wysiwyg-content ul.-split li",
+  "instructions_selector": "div.center-column.wysiwyg-content ol li",
+  "tags_selector": "div.hero-secondary-text p",
+  "use_selenium": false
+}
