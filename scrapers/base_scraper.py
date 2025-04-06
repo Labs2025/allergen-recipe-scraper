@@ -92,14 +92,12 @@ class BaseRecipeScraper:
 
         self.logger.info("Initialized scraper for site: %s", self.site_name)
 
+                    
     def fetch_page(self, url):
-        """
-        Fetches the HTML content of a page.
-        Uses Selenium if 'use_selenium' is True, otherwise requests.Session.
-        Returns the HTML as a string. Raises exceptions on failure.
-        """
         self.logger.info("Fetching URL: %s", url)
- 
+        headers = {
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36"
+        }
         if self.use_selenium:
             for attempt in range(3):
                 try:
@@ -114,18 +112,18 @@ class BaseRecipeScraper:
                 except Exception as e:
                     self.logger.error("Selenium attempt %d failed for %s: %s", attempt+1, url, e)
                     if attempt < 2:
-                        time.sleep(2)  
+                        time.sleep(2)
                     else:
                         raise
-        
         else:
             try:
-                response = self.session.get(url, timeout=10)
+                response = self.session.get(url, headers=headers, timeout=10)
                 response.raise_for_status()
                 return response.text
             except Exception as e:
                 self.logger.error("Requests failed to load: %s | Error: %s", url, e)
                 raise e
+
 
     def parse_recipe(self, html):
         """

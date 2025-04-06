@@ -1157,3 +1157,321 @@ Original exception(s) from parser:
 2025-04-04 01:22:36,150 [ERROR] The Pretty Bee: Requests failed to load: https://theprettybee.com/chicken-salad-sandwiches/ | Error: 403 Client Error: Forbidden for url: https://theprettybee.com/chicken-salad-sandwiches/
 2025-04-04 01:22:36,150 [ERROR] The Pretty Bee: Error on link https://theprettybee.com/chicken-salad-sandwiches/: 403 Client Error: Forbidden for url: https://theprettybee.com/chicken-salad-sandwiches/
 2025-04-04 01:22:36,151 [INFO] The Pretty Bee: Scraper finished for site: The Pretty Bee
+2025-04-06 00:17:19,659 [INFO] The Pretty Bee: Database connection established successfully.
+2025-04-06 00:17:19,664 [INFO] The Pretty Bee: Initialized scraper for site: The Pretty Bee
+2025-04-06 00:17:19,664 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/category/main-dishes/
+2025-04-06 00:17:21,464 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/category/main-dishes/page/2/
+2025-04-06 00:17:23,961 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/category/main-dishes/page/3/
+2025-04-06 00:17:26,274 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/category/main-dishes/page/4/
+2025-04-06 00:17:28,274 [INFO] The Pretty Bee: Found 155 unique recipe links for site 'The Pretty Bee'.
+2025-04-06 00:17:28,274 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/delicata-squash-taco-boats/
+2025-04-06 00:17:29,395 [INFO] The Pretty Bee: Saved recipe: 'Tasty Delicata Squash Taco Boats.' (URL: https://theprettybee.com/delicata-squash-taco-boats/)
+2025-04-06 00:17:29,395 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/comforting-dairy-free-brown-rice-risotto/
+2025-04-06 00:17:31,481 [INFO] The Pretty Bee: Saved recipe: 'Creamy and Comforting Dairy Free Brown Rice Risotto.' (URL: https://theprettybee.com/comforting-dairy-free-brown-rice-risotto/)
+2025-04-06 00:17:31,481 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/5-ingredient-turkey-chili/
+2025-04-06 00:17:32,623 [INFO] The Pretty Bee: Saved recipe: '5 Ingredient Turkey Chili.' (URL: https://theprettybee.com/5-ingredient-turkey-chili/)
+2025-04-06 00:17:32,624 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/allergy-friendly-thanksgiving-recipes/
+2025-04-06 00:17:33,770 [INFO] The Pretty Bee: Saved recipe: 'Allergy Friendly Thanksgiving Recipes.' (URL: https://theprettybee.com/allergy-friendly-thanksgiving-recipes/)
+2025-04-06 00:17:33,770 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/pasta-creamy-spinach-ham-sauce/
+2025-04-06 00:17:34,896 [INFO] The Pretty Bee: Saved recipe: 'Pasta with Creamy Spinach and Ham Sauce.' (URL: https://theprettybee.com/pasta-creamy-spinach-ham-sauce/)
+2025-04-06 00:17:34,896 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/spring-green-salad-with-blackberries-grilled-chicken-and-lemon-poppy-seed-dressing/
+2025-04-06 00:17:37,102 [INFO] The Pretty Bee: Saved recipe: 'Spring Green Salad with Blackberries, Chicken, Poppy Seed Dressing.' (URL: https://theprettybee.com/spring-green-salad-with-blackberries-grilled-chicken-and-lemon-poppy-seed-dressing/)
+2025-04-06 00:17:37,102 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/slow-cooker-mexican-chicken/
+2025-04-06 00:17:38,262 [INFO] The Pretty Bee: Saved recipe: 'Slow Cooker Mexican Chicken.' (URL: https://theprettybee.com/slow-cooker-mexican-chicken/)
+2025-04-06 00:17:38,263 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/vegan-grilled-cheese/
+2025-04-06 00:17:39,320 [INFO] The Pretty Bee: Saved recipe: 'The Perfect Vegan Grilled Cheese.' (URL: https://theprettybee.com/vegan-grilled-cheese/)
+2025-04-06 00:17:39,320 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/easy-oven-roasted-chicken-legs/
+2025-04-06 00:17:40,474 [INFO] The Pretty Bee: Saved recipe: 'Easy Oven Roasted Chicken Legs.' (URL: https://theprettybee.com/easy-oven-roasted-chicken-legs/)
+2025-04-06 00:17:40,474 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/gluten-free-turkey-meatloaf/
+2025-04-06 00:17:41,609 [INFO] The Pretty Bee: Saved recipe: 'The Tastiest Gluten Free Turkey Meatloaf.' (URL: https://theprettybee.com/gluten-free-turkey-meatloaf/)
+2025-04-06 00:17:41,610 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/garden-fresh-marinara-ragu-sauce/
+2025-04-06 00:17:43,477 [INFO] The Pretty Bee: Saved recipe: 'Garden Fresh Marinara or Ragu Sauce.' (URL: https://theprettybee.com/garden-fresh-marinara-ragu-sauce/)
+2025-04-06 00:17:43,477 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/best-green-beans/
+2025-04-06 00:17:44,615 [INFO] The Pretty Bee: Saved recipe: 'The Best Southern Style Green Beans.' (URL: https://theprettybee.com/best-green-beans/)
+2025-04-06 00:17:44,615 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/slow-cooker-sweet-potato-quinoa-chili/
+2025-04-06 00:17:46,777 [INFO] The Pretty Bee: Saved recipe: 'Slow Cooker Sweet Potato Quinoa Chili.' (URL: https://theprettybee.com/slow-cooker-sweet-potato-quinoa-chili/)
+2025-04-06 00:17:46,777 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/spinach-potato-curry-aloo-palak/
+2025-04-06 00:17:47,921 [INFO] The Pretty Bee: Saved recipe: 'Aloo Palak – Spinach and Potato Curry.' (URL: https://theprettybee.com/spinach-potato-curry-aloo-palak/)
+2025-04-06 00:17:47,921 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/zoodles-with-pesto/
+2025-04-06 00:17:49,015 [INFO] The Pretty Bee: Saved recipe: 'Zoodles with Pesto (Dairy Free, Nut Free).' (URL: https://theprettybee.com/zoodles-with-pesto/)
+2025-04-06 00:17:49,015 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/chicken-meatballs-zoodles/
+2025-04-06 00:17:50,121 [INFO] The Pretty Bee: Saved recipe: 'Chicken Meatballs with Zoodles (Gluten and Egg Free).' (URL: https://theprettybee.com/chicken-meatballs-zoodles/)
+2025-04-06 00:17:50,121 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/roasted-veggie-rice-bowls-with-pesto/
+2025-04-06 00:17:51,193 [INFO] The Pretty Bee: Saved recipe: 'Roasted Veggie Rice Bowls with Pesto.' (URL: https://theprettybee.com/roasted-veggie-rice-bowls-with-pesto/)
+2025-04-06 00:17:51,194 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/for-cold-nights-curry-in-hurry/
+2025-04-06 00:17:53,296 [INFO] The Pretty Bee: Saved recipe: 'Quick and Easy Chicken Curry (Dairy Free, Gluten Free).' (URL: https://theprettybee.com/for-cold-nights-curry-in-hurry/)
+2025-04-06 00:17:53,296 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/darryls-spice-rub/
+2025-04-06 00:17:55,057 [INFO] The Pretty Bee: Saved recipe: 'Easy Barbecue Chicken Rub.' (URL: https://theprettybee.com/darryls-spice-rub/)
+2025-04-06 00:17:55,057 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/ratatouille-pasta/
+2025-04-06 00:17:56,179 [INFO] The Pretty Bee: Saved recipe: 'Easy Ratatouille Pasta.' (URL: https://theprettybee.com/ratatouille-pasta/)
+2025-04-06 00:17:56,179 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/sausages-peppers-onions-curry-spiced-quinoa/
+2025-04-06 00:17:57,274 [INFO] The Pretty Bee: Saved recipe: 'Sausage Peppers and Onions over Curry Spiced Quinoa.' (URL: https://theprettybee.com/sausages-peppers-onions-curry-spiced-quinoa/)
+2025-04-06 00:17:57,275 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/grilled-shrimp-with-pineapple-chimichurri/
+2025-04-06 00:17:59,795 [INFO] The Pretty Bee: Saved recipe: 'Grilled Shrimp with Pineapple Chimichurri.' (URL: https://theprettybee.com/grilled-shrimp-with-pineapple-chimichurri/)
+2025-04-06 00:17:59,795 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/sloppy-joes/
+2025-04-06 00:18:00,868 [INFO] The Pretty Bee: Saved recipe: 'Homemade Turkey Sloppy Joes.' (URL: https://theprettybee.com/sloppy-joes/)
+2025-04-06 00:18:00,868 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/dairy-free-philly-cheesesteak/
+2025-04-06 00:18:02,026 [INFO] The Pretty Bee: Saved recipe: 'Dairy Free Philly Cheesesteak Sandwiches.' (URL: https://theprettybee.com/dairy-free-philly-cheesesteak/)
+2025-04-06 00:18:02,026 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/creamy-spinach-walnut-pesto-sauce/
+2025-04-06 00:18:03,211 [INFO] The Pretty Bee: Saved recipe: 'Creamy Spinach Walnut Pesto Sauce.' (URL: https://theprettybee.com/creamy-spinach-walnut-pesto-sauce/)
+2025-04-06 00:18:03,211 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/creamy-lentil-wild-rice-mushroom-soup/
+2025-04-06 00:18:05,423 [INFO] The Pretty Bee: Saved recipe: 'Creamy Lentil Wild Rice Mushroom Soup.' (URL: https://theprettybee.com/creamy-lentil-wild-rice-mushroom-soup/)
+2025-04-06 00:18:05,424 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/homemade-hamburger-helper-gluten-free-dairy-free/
+2025-04-06 00:18:06,529 [INFO] The Pretty Bee: Saved recipe: 'Homemade Hamburger Helper (Gluten Free, Dairy Free).' (URL: https://theprettybee.com/homemade-hamburger-helper-gluten-free-dairy-free/)
+2025-04-06 00:18:06,529 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/crockpot-recipe-egyptian-lentils-and/
+2025-04-06 00:18:08,589 [INFO] The Pretty Bee: Saved recipe: 'Slow Cooker Egyptian Lentils and Rice.' (URL: https://theprettybee.com/crockpot-recipe-egyptian-lentils-and/)
+2025-04-06 00:18:08,589 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/sweet-baked-bean-turkey-chili/
+2025-04-06 00:18:09,723 [INFO] The Pretty Bee: Saved recipe: 'Sweet Baked Bean Turkey Chili.' (URL: https://theprettybee.com/sweet-baked-bean-turkey-chili/)
+2025-04-06 00:18:09,723 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/nut-free-dairy-free-pesto/
+2025-04-06 00:18:10,885 [INFO] The Pretty Bee: Saved recipe: '5 Minute Nut Free Dairy Free Pesto.' (URL: https://theprettybee.com/nut-free-dairy-free-pesto/)
+2025-04-06 00:18:10,886 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/cheesy-quinoa-stuffed-rainbow-peppers/
+2025-04-06 00:18:11,996 [INFO] The Pretty Bee: Saved recipe: 'Cheesy Quinoa Stuffed Peppers.' (URL: https://theprettybee.com/cheesy-quinoa-stuffed-rainbow-peppers/)
+2025-04-06 00:18:11,997 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/vegan-cheesy-broccoli-casserole/
+2025-04-06 00:18:13,040 [INFO] The Pretty Bee: Saved recipe: 'Vegan Cheesy Broccoli Casserole (Gluten Free).' (URL: https://theprettybee.com/vegan-cheesy-broccoli-casserole/)
+2025-04-06 00:18:13,040 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/stuffed-delicata-squash/
+2025-04-06 00:18:15,391 [INFO] The Pretty Bee: Saved recipe: 'Stuffed Delicata Squash (Gluten Free, Grain Free).' (URL: https://theprettybee.com/stuffed-delicata-squash/)
+2025-04-06 00:18:15,391 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/slow-cooker-marinara-sauce/
+2025-04-06 00:18:17,521 [INFO] The Pretty Bee: Saved recipe: 'Slow Cooker Marinara Sauce.' (URL: https://theprettybee.com/slow-cooker-marinara-sauce/)
+2025-04-06 00:18:17,521 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/beef-stroganoff/
+2025-04-06 00:18:18,621 [INFO] The Pretty Bee: Saved recipe: 'Gluten Free Beef Stroganoff.' (URL: https://theprettybee.com/beef-stroganoff/)
+2025-04-06 00:18:18,622 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/cheeseburger-soup-gluten-free-dairy-free/
+2025-04-06 00:18:19,760 [INFO] The Pretty Bee: Saved recipe: 'Cheeseburger Soup (Gluten Free, Dairy Free).' (URL: https://theprettybee.com/cheeseburger-soup-gluten-free-dairy-free/)
+2025-04-06 00:18:19,760 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/green-bean-and-cauliflower-curry/
+2025-04-06 00:18:20,919 [INFO] The Pretty Bee: Saved recipe: 'Green Bean and Cauliflower Curry.' (URL: https://theprettybee.com/green-bean-and-cauliflower-curry/)
+2025-04-06 00:18:20,919 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/pasta-creamy-kale-sauce/
+2025-04-06 00:18:22,118 [INFO] The Pretty Bee: Saved recipe: 'Pasta with Creamy Kale Sauce.' (URL: https://theprettybee.com/pasta-creamy-kale-sauce/)
+2025-04-06 00:18:22,118 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/gluten-free-turkey-quesadillas/
+2025-04-06 00:18:23,244 [INFO] The Pretty Bee: Saved recipe: 'Gluten Free Turkey Quesadillas with Spinach and Sweet Potatoes.' (URL: https://theprettybee.com/gluten-free-turkey-quesadillas/)
+2025-04-06 00:18:23,245 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/cheesy-hamburger-rice-casserole/
+2025-04-06 00:18:24,342 [INFO] The Pretty Bee: Saved recipe: 'Cheesy Hamburger Rice Casserole (Gluten Free, Dairy Free).' (URL: https://theprettybee.com/cheesy-hamburger-rice-casserole/)
+2025-04-06 00:18:24,342 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/slow-cooker-wild-rice-sausage-soup/
+2025-04-06 00:18:25,396 [INFO] The Pretty Bee: Saved recipe: 'Slow Cooker Wild Rice Sausage Soup.' (URL: https://theprettybee.com/slow-cooker-wild-rice-sausage-soup/)
+2025-04-06 00:18:25,396 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/roasted-red-cabbage-and-red-quinoa/
+2025-04-06 00:18:26,480 [INFO] The Pretty Bee: Saved recipe: 'Roasted Red Cabbage and Red Quinoa.' (URL: https://theprettybee.com/roasted-red-cabbage-and-red-quinoa/)
+2025-04-06 00:18:26,480 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/top-9-allergen-free-meal-plan/
+2025-04-06 00:18:28,689 [INFO] The Pretty Bee: Saved recipe: 'Top 9 Allergen Free Meal Plan.' (URL: https://theprettybee.com/top-9-allergen-free-meal-plan/)
+2025-04-06 00:18:28,689 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/quick-and-easy-fried-rice/
+2025-04-06 00:18:30,621 [INFO] The Pretty Bee: Saved recipe: 'Easy Gluten Free Vegan Fried Rice.' (URL: https://theprettybee.com/quick-and-easy-fried-rice/)
+2025-04-06 00:18:30,621 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/easy-cheesy-broccoli-rice/
+2025-04-06 00:18:31,835 [INFO] The Pretty Bee: Saved recipe: 'Easy Cheesy Broccoli Rice.' (URL: https://theprettybee.com/easy-cheesy-broccoli-rice/)
+2025-04-06 00:18:31,835 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/honey-mustard-kale-salad-sausage/
+2025-04-06 00:18:32,925 [INFO] The Pretty Bee: Saved recipe: 'Honey Mustard Kale Salad with Sausage and Peppers.' (URL: https://theprettybee.com/honey-mustard-kale-salad-sausage/)
+2025-04-06 00:18:32,925 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/slow-cooker-cowboy-beans-gluten-free-dairy-free/
+2025-04-06 00:18:35,013 [INFO] The Pretty Bee: Saved recipe: 'Slow Cooker Cowboy Beans (Gluten Free, Dairy Free).' (URL: https://theprettybee.com/slow-cooker-cowboy-beans-gluten-free-dairy-free/)
+2025-04-06 00:18:35,014 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/spring-vegetable-pasta/
+2025-04-06 00:18:36,193 [INFO] The Pretty Bee: Saved recipe: 'Spring Vegetable Pasta with Lemon Sauce.' (URL: https://theprettybee.com/spring-vegetable-pasta/)
+2025-04-06 00:18:36,193 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/slow-cooker-garlic-chicken-thighs/
+2025-04-06 00:18:36,591 [ERROR] The Pretty Bee: Database error saving recipe from https://theprettybee.com/slow-cooker-garlic-chicken-thighs/: A string literal cannot contain NUL (0x00) characters.
+2025-04-06 00:18:36,591 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/curried-chicken-salad/
+2025-04-06 00:18:37,636 [INFO] The Pretty Bee: Saved recipe: 'Curried Chicken Salad.' (URL: https://theprettybee.com/curried-chicken-salad/)
+2025-04-06 00:18:37,636 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/sweet-spicy-broccoli-red-pepper-stir-fry-quinoa/
+2025-04-06 00:18:38,717 [INFO] The Pretty Bee: Saved recipe: 'Sweet and Spicy Broccoli Red Pepper Stir Fry with Quinoa.' (URL: https://theprettybee.com/sweet-spicy-broccoli-red-pepper-stir-fry-quinoa/)
+2025-04-06 00:18:38,718 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/sweet-potato-chickpea-curry/
+2025-04-06 00:18:39,794 [INFO] The Pretty Bee: Saved recipe: 'Sweet Potato Chickpea Curry.' (URL: https://theprettybee.com/sweet-potato-chickpea-curry/)
+2025-04-06 00:18:39,794 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/turkey-tetrazzini/
+2025-04-06 00:18:41,015 [INFO] The Pretty Bee: Saved recipe: 'Gluten Free Dairy Free Turkey Tetrazzini.' (URL: https://theprettybee.com/turkey-tetrazzini/)
+2025-04-06 00:18:41,015 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/southwest-sweet-potato-noodles/
+2025-04-06 00:18:43,232 [INFO] The Pretty Bee: Saved recipe: 'Southwest Sweet Potato Noodles.' (URL: https://theprettybee.com/southwest-sweet-potato-noodles/)
+2025-04-06 00:18:43,232 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/white-chicken-chili-without-beans/
+2025-04-06 00:18:44,367 [INFO] The Pretty Bee: Saved recipe: 'White Chicken Chili without Beans.' (URL: https://theprettybee.com/white-chicken-chili-without-beans/)
+2025-04-06 00:18:44,367 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/turkey-burgers/
+2025-04-06 00:18:45,465 [INFO] The Pretty Bee: Saved recipe: 'The Best Homemade Turkey Burgers.' (URL: https://theprettybee.com/turkey-burgers/)
+2025-04-06 00:18:45,465 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/fiesta-chicken-chili/
+2025-04-06 00:18:46,613 [INFO] The Pretty Bee: Saved recipe: 'Fiesta Chicken Chili (Gluten Free, Dairy Free).' (URL: https://theprettybee.com/fiesta-chicken-chili/)
+2025-04-06 00:18:46,613 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/potato-vegetable-coconut-curry/
+2025-04-06 00:18:48,859 [INFO] The Pretty Bee: Saved recipe: 'Potato and Vegetable Coconut Curry.' (URL: https://theprettybee.com/potato-vegetable-coconut-curry/)
+2025-04-06 00:18:48,859 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/slow-cooker-cheesy-broccoli-chicken-rice/
+2025-04-06 00:18:50,043 [INFO] The Pretty Bee: Saved recipe: 'Slow Cooker Cheesy Broccoli Chicken Rice.' (URL: https://theprettybee.com/slow-cooker-cheesy-broccoli-chicken-rice/)
+2025-04-06 00:18:50,043 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/individual-vegan-pot-pies/
+2025-04-06 00:18:51,136 [INFO] The Pretty Bee: Saved recipe: 'Individual Vegan Pot Pies.' (URL: https://theprettybee.com/individual-vegan-pot-pies/)
+2025-04-06 00:18:51,136 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/mushroom-onion-vegan-quesadillas/
+2025-04-06 00:18:52,264 [INFO] The Pretty Bee: Saved recipe: 'Mushroom and Onion Vegan Quesadillas.' (URL: https://theprettybee.com/mushroom-onion-vegan-quesadillas/)
+2025-04-06 00:18:52,264 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/vegan-creamy-cauliflower-sauce-shells-and-cheese/
+2025-04-06 00:18:54,225 [INFO] The Pretty Bee: Saved recipe: 'Vegan Cauliflower Shells and Cheese.' (URL: https://theprettybee.com/vegan-creamy-cauliflower-sauce-shells-and-cheese/)
+2025-04-06 00:18:54,225 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/healthy-stuffed-sweet-potatoes-broccoli/
+2025-04-06 00:18:55,275 [INFO] The Pretty Bee: Saved recipe: 'Stuffed Sweet Potatoes with Broccoli.' (URL: https://theprettybee.com/healthy-stuffed-sweet-potatoes-broccoli/)
+2025-04-06 00:18:55,275 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/pasta-with-sunflower-seed-pesto-and-peas/
+2025-04-06 00:18:56,435 [INFO] The Pretty Bee: Saved recipe: 'Pasta with Sunflower Seed Pesto and Peas.' (URL: https://theprettybee.com/pasta-with-sunflower-seed-pesto-and-peas/)
+2025-04-06 00:18:56,435 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/spicy-veggie-pasta-sauce/
+2025-04-06 00:18:57,611 [INFO] The Pretty Bee: Saved recipe: 'Spicy Veggie Pasta Sauce.' (URL: https://theprettybee.com/spicy-veggie-pasta-sauce/)
+2025-04-06 00:18:57,611 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/zucchini-corn-tomato-rice-bowls/
+2025-04-06 00:18:59,695 [INFO] The Pretty Bee: Saved recipe: 'Zucchini, Corn, and Tomato Rice Bowls.' (URL: https://theprettybee.com/zucchini-corn-tomato-rice-bowls/)
+2025-04-06 00:18:59,695 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/vegan-white-bean-quinoa-chili/
+2025-04-06 00:19:01,673 [INFO] The Pretty Bee: Saved recipe: 'Vegan White Bean Quinoa Chili.' (URL: https://theprettybee.com/vegan-white-bean-quinoa-chili/)
+2025-04-06 00:19:01,673 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/skillet-chicken-with-quinoa-and-red-peppers/
+2025-04-06 00:19:02,777 [INFO] The Pretty Bee: Saved recipe: 'Skillet Chicken with Quinoa and Red Peppers.' (URL: https://theprettybee.com/skillet-chicken-with-quinoa-and-red-peppers/)
+2025-04-06 00:19:02,778 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/crockpot-white-bean-chicken-chili/
+2025-04-06 00:19:03,907 [INFO] The Pretty Bee: Saved recipe: 'Crockpot White Chicken Chili.' (URL: https://theprettybee.com/crockpot-white-bean-chicken-chili/)
+2025-04-06 00:19:03,907 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/gluten-free-garlic-spaghetti-spaghetti-aglio-e-olio/
+2025-04-06 00:19:04,959 [INFO] The Pretty Bee: Saved recipe: 'Gluten Free Garlic Spaghetti (Spaghetti Aglio e Olio).' (URL: https://theprettybee.com/gluten-free-garlic-spaghetti-spaghetti-aglio-e-olio/)
+2025-04-06 00:19:04,959 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/classic-gluten-free-meatloaf/
+2025-04-06 00:19:06,055 [INFO] The Pretty Bee: Saved recipe: 'Gluten Free Egg Free Meatloaf.' (URL: https://theprettybee.com/classic-gluten-free-meatloaf/)
+2025-04-06 00:19:06,055 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/pasta-with-spinach-and-cheese/
+2025-04-06 00:19:07,159 [INFO] The Pretty Bee: Saved recipe: 'Pasta with Creamy Spinach Sauce.' (URL: https://theprettybee.com/pasta-with-spinach-and-cheese/)
+2025-04-06 00:19:07,159 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/favorite-beans-and-rice/
+2025-04-06 00:19:08,350 [INFO] The Pretty Bee: Saved recipe: 'Quick and Easy Beans and Rice.' (URL: https://theprettybee.com/favorite-beans-and-rice/)
+2025-04-06 00:19:08,350 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/kid-friendly-gluten-free-meals/
+2025-04-06 00:19:09,474 [INFO] The Pretty Bee: Saved recipe: '15 Kid Friendly Gluten Free Meals.' (URL: https://theprettybee.com/kid-friendly-gluten-free-meals/)
+2025-04-06 00:19:09,474 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/slow-cooker-butter-chicken/
+2025-04-06 00:19:10,565 [INFO] The Pretty Bee: Saved recipe: 'Slow Cooker Butter Chicken (Dairy Free).' (URL: https://theprettybee.com/slow-cooker-butter-chicken/)
+2025-04-06 00:19:10,565 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/white-bean-turkey-chili/
+2025-04-06 00:19:11,646 [INFO] The Pretty Bee: Saved recipe: 'White Bean Turkey Chili.' (URL: https://theprettybee.com/white-bean-turkey-chili/)
+2025-04-06 00:19:11,646 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/lemon-pasta-with-chicken-and-peas/
+2025-04-06 00:19:12,722 [INFO] The Pretty Bee: Saved recipe: 'Lemon Pasta with Chicken and Peas.' (URL: https://theprettybee.com/lemon-pasta-with-chicken-and-peas/)
+2025-04-06 00:19:12,722 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/simple-beef-broccoli-stir-fry/
+2025-04-06 00:19:13,929 [INFO] The Pretty Bee: Saved recipe: 'Gluten Free Beef and Broccoli Stir Fry.' (URL: https://theprettybee.com/simple-beef-broccoli-stir-fry/)
+2025-04-06 00:19:13,929 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/pineapple-chicken-salad/
+2025-04-06 00:19:15,074 [INFO] The Pretty Bee: Saved recipe: 'Pineapple Chicken Salad.' (URL: https://theprettybee.com/pineapple-chicken-salad/)
+2025-04-06 00:19:15,075 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/creamy-garlic-pasta-with-chicken-meatballs/
+2025-04-06 00:19:16,197 [INFO] The Pretty Bee: Saved recipe: 'Creamy Garlic Pasta with Chicken Meatballs (Dairy Free, Gluten Free).' (URL: https://theprettybee.com/creamy-garlic-pasta-with-chicken-meatballs/)
+2025-04-06 00:19:16,197 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/comfort-food-shepherds-pie/
+2025-04-06 00:19:17,614 [INFO] The Pretty Bee: Saved recipe: 'Easy Ground Turkey Shepherd’s Pie (Gluten Free).' (URL: https://theprettybee.com/comfort-food-shepherds-pie/)
+2025-04-06 00:19:17,614 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/spicy-stir-fried-eggplant/
+2025-04-06 00:19:18,826 [INFO] The Pretty Bee: Saved recipe: 'Spicy Eggplant Stir Fry.' (URL: https://theprettybee.com/spicy-stir-fried-eggplant/)
+2025-04-06 00:19:18,826 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/creamy-orzo-buttered-breadcrumbs-mushrooms/
+2025-04-06 00:19:21,338 [INFO] The Pretty Bee: Saved recipe: 'Creamy Orzo with Buttered Breadcrumbs and Mushrooms.' (URL: https://theprettybee.com/creamy-orzo-buttered-breadcrumbs-mushrooms/)
+2025-04-06 00:19:21,338 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/sheet-pan-sausage-and-peppers/
+2025-04-06 00:19:22,423 [INFO] The Pretty Bee: Saved recipe: 'Sheet Pan Sausage and Peppers.' (URL: https://theprettybee.com/sheet-pan-sausage-and-peppers/)
+2025-04-06 00:19:22,423 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/slow-cooker-beef-stew/
+2025-04-06 00:19:23,510 [INFO] The Pretty Bee: Saved recipe: 'Slow Cooker Beef Stew (Gluten Free).' (URL: https://theprettybee.com/slow-cooker-beef-stew/)
+2025-04-06 00:19:23,510 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/creamy-noodles-tuna-cheese-sauce-df-gf/
+2025-04-06 00:19:25,823 [INFO] The Pretty Bee: Saved recipe: 'Creamy Tuna Noodles (Gluten Free, Dairy Free).' (URL: https://theprettybee.com/creamy-noodles-tuna-cheese-sauce-df-gf/)
+2025-04-06 00:19:25,823 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/chicken-rice-casserole/
+2025-04-06 00:19:27,000 [INFO] The Pretty Bee: Saved recipe: 'Dairy Free Chicken Rice Casserole.' (URL: https://theprettybee.com/chicken-rice-casserole/)
+2025-04-06 00:19:27,000 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/healthy-slow-cooker-recipes/
+2025-04-06 00:19:28,040 [INFO] The Pretty Bee: Saved recipe: '30 Healthy Slow Cooker Recipes.' (URL: https://theprettybee.com/healthy-slow-cooker-recipes/)
+2025-04-06 00:19:28,040 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/homemade-chicken-noodle-soup/
+2025-04-06 00:19:29,375 [INFO] The Pretty Bee: Saved recipe: 'Homemade Gluten Free Chicken Noodle Soup.' (URL: https://theprettybee.com/homemade-chicken-noodle-soup/)
+2025-04-06 00:19:29,376 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/vegan-superfood-power-bowl/
+2025-04-06 00:19:30,557 [INFO] The Pretty Bee: Saved recipe: 'Vegan Superfood Power Bowl.' (URL: https://theprettybee.com/vegan-superfood-power-bowl/)
+2025-04-06 00:19:30,557 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/sweetpotato-pea-risotto-garlic-breadcrumbs/
+2025-04-06 00:19:32,776 [INFO] The Pretty Bee: Saved recipe: 'Sweet Potato Risotto with Peas and Garlic Breadcrumbs.' (URL: https://theprettybee.com/sweetpotato-pea-risotto-garlic-breadcrumbs/)
+2025-04-06 00:19:32,776 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/quick-easy-turkey-tacos/
+2025-04-06 00:19:34,037 [INFO] The Pretty Bee: Saved recipe: 'The Tastiest Turkey Tacos (Quick and Easy).' (URL: https://theprettybee.com/quick-easy-turkey-tacos/)
+2025-04-06 00:19:34,037 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/carrot-noodles/
+2025-04-06 00:19:35,155 [INFO] The Pretty Bee: Saved recipe: 'Easy Carrot Noodles.' (URL: https://theprettybee.com/carrot-noodles/)
+2025-04-06 00:19:35,156 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/roasted-sweet-potato-and-bean-quesadillas/
+2025-04-06 00:19:36,270 [INFO] The Pretty Bee: Saved recipe: 'Roasted Sweet Potato and Bean Quesadillas.' (URL: https://theprettybee.com/roasted-sweet-potato-and-bean-quesadillas/)
+2025-04-06 00:19:36,270 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/teriyaki-turkey-meatballs/
+2025-04-06 00:19:37,424 [INFO] The Pretty Bee: Saved recipe: 'Teriyaki Turkey Meatballs (Gluten Free, Egg Free).' (URL: https://theprettybee.com/teriyaki-turkey-meatballs/)
+2025-04-06 00:19:37,425 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/vegan-shepherds-pie/
+2025-04-06 00:19:39,545 [INFO] The Pretty Bee: Saved recipe: 'Comforting Vegan Shepherd’s Pie.' (URL: https://theprettybee.com/vegan-shepherds-pie/)
+2025-04-06 00:19:39,545 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/sheet-pan-chicken-thighs/
+2025-04-06 00:19:41,382 [INFO] The Pretty Bee: Saved recipe: 'Sheet Pan Chicken Thighs with Asparagus.' (URL: https://theprettybee.com/sheet-pan-chicken-thighs/)
+2025-04-06 00:19:41,382 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/slow-cooker-lentil-sausage-kale-soup/
+2025-04-06 00:19:43,491 [INFO] The Pretty Bee: Saved recipe: 'Slow Cooker Lentil, Sausage, and Kale Soup.' (URL: https://theprettybee.com/slow-cooker-lentil-sausage-kale-soup/)
+2025-04-06 00:19:43,491 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/rainbow-roasted-vegetables/
+2025-04-06 00:19:44,746 [INFO] The Pretty Bee: Saved recipe: 'Rainbow Roasted Vegetables.' (URL: https://theprettybee.com/rainbow-roasted-vegetables/)
+2025-04-06 00:19:44,746 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/potato-salad-with-shallots-and-bacon/
+2025-04-06 00:19:45,884 [INFO] The Pretty Bee: Saved recipe: 'Potato Salad with Shallots and Bacon.' (URL: https://theprettybee.com/potato-salad-with-shallots-and-bacon/)
+2025-04-06 00:19:45,884 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/saucy-beef-and-bean-enchiladas/
+2025-04-06 00:19:46,969 [INFO] The Pretty Bee: Saved recipe: 'Saucy Beef and Bean Enchiladas (Gluten Free, Dairy Free).' (URL: https://theprettybee.com/saucy-beef-and-bean-enchiladas/)
+2025-04-06 00:19:46,969 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/slow-cooker-vegan-chickpea-potato-curry/
+2025-04-06 00:19:48,087 [INFO] The Pretty Bee: Saved recipe: 'Slow Cooker Vegan Chickpea and Potato Curry.' (URL: https://theprettybee.com/slow-cooker-vegan-chickpea-potato-curry/)
+2025-04-06 00:19:48,087 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/southwestern-corn-sweet-potato-bowls/
+2025-04-06 00:19:50,608 [INFO] The Pretty Bee: Saved recipe: 'Southwestern Corn and Sweet Potato Bowls.' (URL: https://theprettybee.com/southwestern-corn-sweet-potato-bowls/)
+2025-04-06 00:19:50,608 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/easy-dairy-free-chicken-coconut-curry/
+2025-04-06 00:19:51,691 [INFO] The Pretty Bee: Saved recipe: 'Easy Dairy Free Chicken Coconut Curry.' (URL: https://theprettybee.com/easy-dairy-free-chicken-coconut-curry/)
+2025-04-06 00:19:51,691 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/barbecue-chicken-meatballs/
+2025-04-06 00:19:52,854 [INFO] The Pretty Bee: Saved recipe: 'Barbecue Chicken Meatballs (Gluten Free, Egg Free).' (URL: https://theprettybee.com/barbecue-chicken-meatballs/)
+2025-04-06 00:19:52,854 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/easy-vegan-meatballs/
+2025-04-06 00:19:53,967 [INFO] The Pretty Bee: Saved recipe: 'Easy Vegan Meatballs (Gluten Free, Nut Free).' (URL: https://theprettybee.com/easy-vegan-meatballs/)
+2025-04-06 00:19:53,967 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/easy-lentil-potato-curry/
+2025-04-06 00:19:55,108 [INFO] The Pretty Bee: Saved recipe: 'Easy Lentil Potato Curry (Vegan, Gluten Free).' (URL: https://theprettybee.com/easy-lentil-potato-curry/)
+2025-04-06 00:19:55,109 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/gluten-free-dairy-free-chicken-enchiladas/
+2025-04-06 00:19:56,262 [INFO] The Pretty Bee: Saved recipe: 'Gluten Free Dairy Free Chicken Enchiladas.' (URL: https://theprettybee.com/gluten-free-dairy-free-chicken-enchiladas/)
+2025-04-06 00:19:56,263 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/vegan-pizza-spelt-crust/
+2025-04-06 00:19:58,099 [INFO] The Pretty Bee: Saved recipe: 'Easy Homemade Vegan Pizza.' (URL: https://theprettybee.com/vegan-pizza-spelt-crust/)
+2025-04-06 00:19:58,099 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/easy-slow-cooker-taco-chicken/
+2025-04-06 00:19:59,299 [INFO] The Pretty Bee: Saved recipe: 'Easy Slow Cooker Taco Chicken.' (URL: https://theprettybee.com/easy-slow-cooker-taco-chicken/)
+2025-04-06 00:19:59,300 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/mujadara-lentils-and-rice/
+2025-04-06 00:20:00,485 [INFO] The Pretty Bee: Saved recipe: 'Mujadara (Lentils and Rice).' (URL: https://theprettybee.com/mujadara-lentils-and-rice/)
+2025-04-06 00:20:00,485 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/taco-seasoning/
+2025-04-06 00:20:02,358 [INFO] The Pretty Bee: Saved recipe: 'Chicken Tacos with Homemade Taco Seasoning.' (URL: https://theprettybee.com/taco-seasoning/)
+2025-04-06 00:20:02,359 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/all-american-vegan-recipes/
+2025-04-06 00:20:03,437 [INFO] The Pretty Bee: Saved recipe: '40 Tasty Vegan Barbecue Recipes.' (URL: https://theprettybee.com/all-american-vegan-recipes/)
+2025-04-06 00:20:03,437 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/slow-cooker-lamb-soup/
+2025-04-06 00:20:05,133 [INFO] The Pretty Bee: Saved recipe: 'Slow Cooker Lamb Soup.' (URL: https://theprettybee.com/slow-cooker-lamb-soup/)
+2025-04-06 00:20:05,133 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/slow-cooker-pork-salsa-verde-cilantro-rice/
+2025-04-06 00:20:06,545 [INFO] The Pretty Bee: Saved recipe: 'Slow Cooker Pork Carnitas with Cilantro Rice.' (URL: https://theprettybee.com/slow-cooker-pork-salsa-verde-cilantro-rice/)
+2025-04-06 00:20:06,545 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/spicy-potatoes-peas-bombay-potato-recipe/
+2025-04-06 00:20:07,699 [INFO] The Pretty Bee: Saved recipe: 'Spicy Potatoes and Peas (Bombay Potato Recipe).' (URL: https://theprettybee.com/spicy-potatoes-peas-bombay-potato-recipe/)
+2025-04-06 00:20:07,699 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/garlic-zoodles-fried-chickpeas/
+2025-04-06 00:20:08,813 [INFO] The Pretty Bee: Saved recipe: 'Garlic Zoodles with Fried Chickpeas.' (URL: https://theprettybee.com/garlic-zoodles-fried-chickpeas/)
+2025-04-06 00:20:08,813 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/my-favorite-recipes-the-ones-i-make-again-and-again/
+2025-04-06 00:20:09,762 [INFO] The Pretty Bee: Saved recipe: 'Favorite Allergy Friendly Recipes for Families.' (URL: https://theprettybee.com/my-favorite-recipes-the-ones-i-make-again-and-again/)
+2025-04-06 00:20:09,762 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/honey-mustard-grilled-chicken-tenders/
+2025-04-06 00:20:12,092 [INFO] The Pretty Bee: Saved recipe: 'Honey Mustard Grilled Chicken Tenders.' (URL: https://theprettybee.com/honey-mustard-grilled-chicken-tenders/)
+2025-04-06 00:20:12,093 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/one-pot-chicken-mushroom-rice/
+2025-04-06 00:20:13,265 [INFO] The Pretty Bee: Saved recipe: 'One Pot Chicken Mushroom Rice (Dairy Free, Gluten Free).' (URL: https://theprettybee.com/one-pot-chicken-mushroom-rice/)
+2025-04-06 00:20:13,265 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/creamy-chicken-casserole-with-kale/
+2025-04-06 00:20:14,402 [INFO] The Pretty Bee: Saved recipe: 'Creamy Chicken Casserole with Kale (Gluten Free, Dairy Free).' (URL: https://theprettybee.com/creamy-chicken-casserole-with-kale/)
+2025-04-06 00:20:14,402 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/simple-meatballs-gluten-free-dairy-free/
+2025-04-06 00:20:15,532 [INFO] The Pretty Bee: Saved recipe: 'Simple Meatballs (Gluten Free, Dairy Free).' (URL: https://theprettybee.com/simple-meatballs-gluten-free-dairy-free/)
+2025-04-06 00:20:15,532 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/teriyaki-chicken-rice-noodles/
+2025-04-06 00:20:18,147 [INFO] The Pretty Bee: Saved recipe: 'Chicken Teriyaki Rice Noodles.' (URL: https://theprettybee.com/teriyaki-chicken-rice-noodles/)
+2025-04-06 00:20:18,147 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/roasted-veggie-black-bean-bowls/
+2025-04-06 00:20:20,334 [INFO] The Pretty Bee: Saved recipe: 'Roasted Veggie Black Bean Bowls.' (URL: https://theprettybee.com/roasted-veggie-black-bean-bowls/)
+2025-04-06 00:20:20,334 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/cheesy-vegan-quesadillas/
+2025-04-06 00:20:21,407 [INFO] The Pretty Bee: Saved recipe: 'Roasted Red Pepper Cheesy Vegan Quesadillas.' (URL: https://theprettybee.com/cheesy-vegan-quesadillas/)
+2025-04-06 00:20:21,407 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/warm-quinoa-salad/
+2025-04-06 00:20:23,247 [INFO] The Pretty Bee: Saved recipe: 'Warm Quinoa Salad with Lentils and Roasted Veggies.' (URL: https://theprettybee.com/warm-quinoa-salad/)
+2025-04-06 00:20:23,247 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/sun-dried-tomato-pasta/
+2025-04-06 00:20:24,343 [INFO] The Pretty Bee: Saved recipe: 'Dairy Free Sun Dried Tomato Pasta (Gluten Free, Quick and Easy).' (URL: https://theprettybee.com/sun-dried-tomato-pasta/)
+2025-04-06 00:20:24,343 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/creamy-quinoa-broccoli-casserole-crunchy-topping/
+2025-04-06 00:20:25,468 [INFO] The Pretty Bee: Saved recipe: 'Creamy Quinoa Broccoli Casserole with Crunchy Topping.' (URL: https://theprettybee.com/creamy-quinoa-broccoli-casserole-crunchy-topping/)
+2025-04-06 00:20:25,469 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/chicken-salad-sandwiches/
+2025-04-06 00:20:26,602 [INFO] The Pretty Bee: Saved recipe: 'Classic Chicken Salad Sandwich Recipe (Dairy Free).' (URL: https://theprettybee.com/chicken-salad-sandwiches/)
+2025-04-06 00:20:26,602 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/black-bean-sweet-potato-turkey-chili/
+2025-04-06 00:20:27,707 [INFO] The Pretty Bee: Saved recipe: 'Black Bean Turkey Chili with Sweet Potatoes.' (URL: https://theprettybee.com/black-bean-sweet-potato-turkey-chili/)
+2025-04-06 00:20:27,707 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/gift-jar-homemade-taco-seasoning/
+2025-04-06 00:20:29,890 [INFO] The Pretty Bee: Saved recipe: 'Homemade Gluten Free Taco Seasoning.' (URL: https://theprettybee.com/gift-jar-homemade-taco-seasoning/)
+2025-04-06 00:20:29,890 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/dairy-free-beef-stroganoff/
+2025-04-06 00:20:31,057 [INFO] The Pretty Bee: Saved recipe: 'Dairy Free Ground Beef Stroganoff.' (URL: https://theprettybee.com/dairy-free-beef-stroganoff/)
+2025-04-06 00:20:31,057 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/turkey-shepherds-pie-gluten-free-dairy-free/
+2025-04-06 00:20:32,180 [INFO] The Pretty Bee: Saved recipe: 'Turkey Shepherd’s Pie – Gluten Free and Dairy Free.' (URL: https://theprettybee.com/turkey-shepherds-pie-gluten-free-dairy-free/)
+2025-04-06 00:20:32,180 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/sticky-chicken-teriyaki-rice/
+2025-04-06 00:20:33,286 [INFO] The Pretty Bee: Saved recipe: 'Sticky Chicken Teriyaki Rice.' (URL: https://theprettybee.com/sticky-chicken-teriyaki-rice/)
+2025-04-06 00:20:33,286 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/garlic-shrimp-and-fresh-tomato-pasta/
+2025-04-06 00:20:35,444 [INFO] The Pretty Bee: Saved recipe: 'Garlic Shrimp and Tomato Pasta.' (URL: https://theprettybee.com/garlic-shrimp-and-fresh-tomato-pasta/)
+2025-04-06 00:20:35,444 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/gluten-free-vegan-macaroni-cheese/
+2025-04-06 00:20:36,677 [INFO] The Pretty Bee: Saved recipe: 'Gluten Free Vegan Macaroni and Cheese.' (URL: https://theprettybee.com/gluten-free-vegan-macaroni-cheese/)
+2025-04-06 00:20:36,677 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/pumpkin-chili/
+2025-04-06 00:20:38,857 [INFO] The Pretty Bee: Saved recipe: 'Cozy Pumpkin Chili (Gluten Free, Dairy Free).' (URL: https://theprettybee.com/pumpkin-chili/)
+2025-04-06 00:20:38,857 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/coconut-curry-cauliflower-potatoes/
+2025-04-06 00:20:39,945 [INFO] The Pretty Bee: Saved recipe: 'Cauliflower Coconut Curry with Potatoes.' (URL: https://theprettybee.com/coconut-curry-cauliflower-potatoes/)
+2025-04-06 00:20:39,945 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/no-bean-beef-chili/
+2025-04-06 00:20:41,012 [INFO] The Pretty Bee: Saved recipe: 'The Easiest No Bean Beef Chili.' (URL: https://theprettybee.com/no-bean-beef-chili/)
+2025-04-06 00:20:41,013 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/pasta-with-creamy-sun-dried-tomato-and-mushroom-sauce/
+2025-04-06 00:20:42,161 [INFO] The Pretty Bee: Saved recipe: 'Pasta with Creamy Sun Dried Tomato and Mushroom Sauce (Dairy Free, Gluten Free).' (URL: https://theprettybee.com/pasta-with-creamy-sun-dried-tomato-and-mushroom-sauce/)
+2025-04-06 00:20:42,162 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/chicken-curry-casserole/
+2025-04-06 00:20:43,336 [INFO] The Pretty Bee: Saved recipe: 'Chicken Curry Casserole with Broccoli (Gluten Free).' (URL: https://theprettybee.com/chicken-curry-casserole/)
+2025-04-06 00:20:43,336 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/barbecue-chicken-quesadillas/
+2025-04-06 00:20:44,542 [INFO] The Pretty Bee: Saved recipe: 'Barbecue Chicken Quesadillas (Gluten Free).' (URL: https://theprettybee.com/barbecue-chicken-quesadillas/)
+2025-04-06 00:20:44,542 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/slow-cooker-minestrone-soup/
+2025-04-06 00:20:45,684 [INFO] The Pretty Bee: Saved recipe: 'Slow Cooker Minestrone Soup.' (URL: https://theprettybee.com/slow-cooker-minestrone-soup/)
+2025-04-06 00:20:45,685 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/vegan-sloppy-joes/
+2025-04-06 00:20:46,867 [INFO] The Pretty Bee: Saved recipe: 'Vegan Lentil Sloppy Joes.' (URL: https://theprettybee.com/vegan-sloppy-joes/)
+2025-04-06 00:20:46,867 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/chicken-salad-with-grapes/
+2025-04-06 00:20:48,017 [INFO] The Pretty Bee: Saved recipe: 'Super Simple Chicken Salad with Grapes.' (URL: https://theprettybee.com/chicken-salad-with-grapes/)
+2025-04-06 00:20:48,017 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/easy-skillet-chicken-and-rice/
+2025-04-06 00:20:49,110 [INFO] The Pretty Bee: Saved recipe: 'Easy Skillet Chicken and Rice (Gluten Free, Dairy Free).' (URL: https://theprettybee.com/easy-skillet-chicken-and-rice/)
+2025-04-06 00:20:49,110 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/crockpot-bean-soup/
+2025-04-06 00:20:50,229 [INFO] The Pretty Bee: Saved recipe: 'Simple and Healthy Crockpot Bean Soup.' (URL: https://theprettybee.com/crockpot-bean-soup/)
+2025-04-06 00:20:50,229 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/creamy-orzo-veggies/
+2025-04-06 00:20:51,250 [INFO] The Pretty Bee: Saved recipe: 'Creamy Orzo with Veggies.' (URL: https://theprettybee.com/creamy-orzo-veggies/)
+2025-04-06 00:20:51,250 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/pepperoni-pizza-gluten-free-dairy-free-egg-free/
+2025-04-06 00:20:53,617 [INFO] The Pretty Bee: Saved recipe: 'Pepperoni Pizza – Gluten Free, Dairy Free and Egg Free.' (URL: https://theprettybee.com/pepperoni-pizza-gluten-free-dairy-free-egg-free/)
+2025-04-06 00:20:53,617 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/quinoa-taco-bowls/
+2025-04-06 00:20:54,948 [INFO] The Pretty Bee: Saved recipe: 'Quinoa Taco Bowls.' (URL: https://theprettybee.com/quinoa-taco-bowls/)
+2025-04-06 00:20:54,948 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/20-gluten-free-and-dairy-free-crockpot-freezer-meals/
+2025-04-06 00:20:56,070 [INFO] The Pretty Bee: Saved recipe: '20 Gluten Free Dairy Free Slow Cooker Freezer Meals.' (URL: https://theprettybee.com/20-gluten-free-and-dairy-free-crockpot-freezer-meals/)
+2025-04-06 00:20:56,070 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/beef-broccoli-teriyaki-noodle-bowls/
+2025-04-06 00:20:57,208 [INFO] The Pretty Bee: Saved recipe: 'Beef and Broccoli Teriyaki Noodle Bowls.' (URL: https://theprettybee.com/beef-broccoli-teriyaki-noodle-bowls/)
+2025-04-06 00:20:57,208 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/20-easy-gluten-free-dinner-recipes/
+2025-04-06 00:20:59,205 [INFO] The Pretty Bee: Saved recipe: '20 Easy Gluten Free Dairy Free Recipes Your Family Will Love.' (URL: https://theprettybee.com/20-easy-gluten-free-dinner-recipes/)
+2025-04-06 00:20:59,205 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/slow-cooker-lentil-curry/
+2025-04-06 00:21:00,449 [INFO] The Pretty Bee: Saved recipe: 'Slow Cooker Lentil Curry.' (URL: https://theprettybee.com/slow-cooker-lentil-curry/)
+2025-04-06 00:21:00,449 [INFO] The Pretty Bee: Fetching URL: https://theprettybee.com/curried-lentil-rice-soup-mix/
+2025-04-06 00:21:01,519 [INFO] The Pretty Bee: Saved recipe: 'Cozy Curried Lentil Rice Soup Mix.' (URL: https://theprettybee.com/curried-lentil-rice-soup-mix/)
+2025-04-06 00:21:01,520 [INFO] The Pretty Bee: Scraper finished for site: The Pretty Bee
