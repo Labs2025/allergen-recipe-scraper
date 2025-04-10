@@ -2,4 +2,4 @@ echo "venv/" >> .gitignore
 echo "__pycache__/" >> .gitignore
 echo "*.log" >> .gitignore
 echo "*.sqlite3" >> .gitignore
-logs/
+
