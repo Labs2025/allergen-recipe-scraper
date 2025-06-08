@@ -1,0 +1,90 @@
+/* --------------------------------------
+   1. Typography (Google Font: Inter)
+   -------------------------------------- */
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;700&display=swap');
+
+body {
+  font-family: 'Inter', sans-serif;
+  line-height: 1.6;
+}
+
+/* --------------------------------------
+   2. Brand Colors (health-context blues & greens)
+   -------------------------------------- */
+:root {
+  --brand-primary:   #006d77;  /* teal-blue */
+  --brand-secondary: #83c5be;  /* soft aqua */
+  --brand-accent:    #edf6f9;  /* very pale aqua */
+  --text-body:       #1d3557;  /* midnight blue */
+  --text-muted:      #576574;  /* slate gray */
+}
+
+body {
+  background-color: var(--brand-accent);
+  color: var(--text-body);
+}
+
+/* Override Bootstrap primary */
+.btn-primary {
+  background-color: var(--brand-primary);
+  border-color: var(--brand-primary);
+}
+.btn-primary:hover,
+.btn-primary:focus {
+  background-color: var(--brand-secondary);
+  border-color: var(--brand-secondary);
+}
+
+/* --------------------------------------
+   3. Cards (soft shadows & rounded)
+   -------------------------------------- */
+.card {
+  background-color: white;
+  border: none;
+  border-radius: 0.75rem;
+  box-shadow: 0 0.25rem 0.75rem rgba(0, 0, 0, 0.1);
+  transition: transform 0.2s, box-shadow 0.2s;
+}
+.card:hover {
+  transform: translateY(-0.25rem);
+  box-shadow: 0 0.5rem 1.25rem rgba(0, 0, 0, 0.15);
+}
+.card-title {
+  font-weight: 600;
+  color: var(--brand-primary);
+}
+.card-text small {
+  color: var(--text-muted);
+}
+
+/* --------------------------------------
+   4. Headers & Footers
+   -------------------------------------- */
+header {
+  padding-bottom: 1rem;
+  border-bottom: 2px solid var(--brand-secondary);
+  margin-bottom: 2rem;
+}
+
+/* --------------------------------------
+   5. Responsive tweaks
+   -------------------------------------- */
+@media (max-width: 576px) {
+  header h1 {
+    font-size: 1.75rem;
+  }
+}
+
+/* --------------------------------------
+   6. Accessibility helpers
+   -------------------------------------- */
+.visually-hidden-focusable:focus {
+  position: static;
+  width: auto;
+  height: auto;
+  margin: 0;
+  padding: 0.5rem 1rem;
+  background: var(--brand-primary);
+  color: white;
+  z-index: 1000;
+}

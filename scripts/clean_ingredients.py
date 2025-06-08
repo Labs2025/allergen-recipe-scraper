@@ -13,16 +13,19 @@ def normalize_ingredient(raw_text):
     text = re.sub(r"\(.*?\)", " ", text)
     text = re.sub(r"[^a-zA-Z\s]", " ", text)
     text = re.sub(r"\s+", " ", text)
+
+    # Remove quantity and unit tokens
     units_pattern = r"\b\d+\b|\b(?:cup|cups|tbsp|tsp|tablespoon|teaspoon|gram|grams|g|kg|oz|ounce|ounces|ml|liter|litre|l)\b"
     text = re.sub(units_pattern, "", text)
+
     return text.strip()
+
 
 def main():
     print(f"Connecting to DB: {DB_URL}")
     conn = psycopg2.connect(DB_URL)
     cur = conn.cursor()
 
-    # <<< Fixed TRUNCATE syntax here >>>
     print("[INFO] Truncating 'processed_ingredients' (and cascading to 'ingredient_allergens')...")
     cur.execute("TRUNCATE TABLE processed_ingredients RESTART IDENTITY CASCADE;")
     conn.commit()
@@ -47,8 +50,14 @@ def main():
     for recipe_id, ing_text in recipes:
         if not ing_text:
             continue
+        # split into lines, trim whitespace
         lines = [line.strip() for line in ing_text.splitlines() if line.strip()]
-        for raw in lines:
+
+        # Filter out non-ingredient lines (e.g. directions)
+        skip_patterns = re.compile(r"\b(preheat|bake|cook|minutes?|degrees?|oven|time to dish)\b", re.I)
+        filtered_lines = [ln for ln in lines if not skip_patterns.search(ln)]
+
+        for raw in filtered_lines:
             cleaned = normalize_ingredient(raw)
             if cleaned:
                 records.append((recipe_id, cleaned))

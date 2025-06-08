@@ -4,8 +4,6 @@ def main():
     """
     Create and save a rule-based dictionary of the 14 major allergens
     (EU/UK standard, overlapping with US top allergens).
-    Each key is an allergen category, and each value is a list of synonyms or
-    ingredient names that imply the presence of that allergen.
     """
     
     allergen_dict = {
@@ -61,9 +59,7 @@ def main():
         ]
     }
 
-    # Save the dictionary as JSON
     output_filename = "../config/allergen_dict.json"
-    # output_filename = "allergen_dict.json"
     with open(output_filename, "w", encoding="utf-8") as f:
         json.dump(allergen_dict, f, indent=4)
     

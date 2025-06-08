@@ -1,0 +1,50 @@
+{
+  "Filter Recipes" : {
+    "transaction" : "Filter Recipes",
+    "sampleCount" : 615,
+    "errorCount" : 0,
+    "errorPct" : 0.0,
+    "meanResTime" : 30.53333333333335,
+    "medianResTime" : 28.0,
+    "minResTime" : 12.0,
+    "maxResTime" : 387.0,
+    "pct1ResTime" : 42.0,
+    "pct2ResTime" : 46.19999999999993,
+    "pct3ResTime" : 62.36000000000013,
+    "throughput" : 3.419668375574115,
+    "receivedKBytesPerSec" : 0.6645644597062977,
+    "sentKBytesPerSec" : 1.3191755210823946
+  },
+  "Total" : {
+    "transaction" : "Total",
+    "sampleCount" : 2153,
+    "errorCount" : 0,
+    "errorPct" : 0.0,
+    "meanResTime" : 13.745006967022752,
+    "medianResTime" : 8.0,
+    "minResTime" : 2.0,
+    "maxResTime" : 387.0,
+    "pct1ResTime" : 32.0,
+    "pct2ResTime" : 37.0,
+    "pct3ResTime" : 49.460000000000036,
+    "throughput" : 11.804698851330976,
+    "receivedKBytesPerSec" : 22.733519366655702,
+    "sentKBytesPerSec" : 4.05953044898155
+  },
+  "HTTP Request" : {
+    "transaction" : "HTTP Request",
+    "sampleCount" : 1538,
+    "errorCount" : 0,
+    "errorPct" : 0.0,
+    "meanResTime" : 7.031859557867349,
+    "medianResTime" : 6.0,
+    "minResTime" : 2.0,
+    "maxResTime" : 33.0,
+    "pct1ResTime" : 11.0,
+    "pct2ResTime" : 12.049999999999955,
+    "pct3ResTime" : 19.0,
+    "throughput" : 8.550287140657227,
+    "receivedKBytesPerSec" : 22.386054515724634,
+    "sentKBytesPerSec" : 2.7972130782423545
+  }
+}

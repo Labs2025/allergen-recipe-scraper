@@ -1,102 +1,112 @@
 #!/usr/bin/env python
+"""
+classify_allergens_rule_based.py
+--------------------------------
+Improved rule-based classifier:
 
+* multi-word keywords handled robustly
+* punctuation / dash tolerant
+* optional plural “s” automatically allowed
+* false-positive guard integration
+"""
+
+from __future__ import annotations
 import os
+import sys
 import json
+import re
+from pathlib import Path
 import psycopg2
 
+ROOT_DIR = Path(__file__).resolve().parents[1]
+sys.path.append(str(ROOT_DIR))
+from scripts.false_positive_guard import is_false_positive 
 
-DB_URL = "postgresql://postgres:admin@localhost:5432/allergen_recipes"
+# --------------------------------------------------------------------------- #
+DB_URL     = "postgresql://postgres:admin@localhost:5432/allergen_recipes"
+DICT_PATH  = ROOT_DIR / "config" / "allergen_dict.json"
+# --------------------------------------------------------------------------- #
 
 
-def main():
+def compile_dictionary(raw: dict[str, list[str]]) -> dict[str, list[re.Pattern]]:
     """
-    1. Connect to the DB.
-    2. Load allergen_dict.json.
-    3. Ensure ingredient_allergens table exists.
-    4. Fetch all processed ingredients.
-    5. Perform rule-based allergen detection on each ingredient.
-    6. Insert found allergens into ingredient_allergens.
+    Turn every keyword into a regex that tolerates *any* non-word chars
+    (space, dash, comma, slash) between tokens.
     """
+    bucket: dict[str, list[re.Pattern]] = {}
+    for allergen, keywords in raw.items():
+        pats: list[re.Pattern] = []
+        for kw in keywords:
+            parts = kw.lower().split()
+            joined = r"\W*".join(map(re.escape, parts))
+            if not joined.endswith("s"):
+                joined = f"{joined}s?"       
+            pats.append(re.compile(rf"\b{joined}\b", re.I))
+        bucket[allergen] = pats
+    return bucket
 
-    print(f"Connecting to DB: {DB_URL}")
+
+def main() -> None:
+    print(f"[DB] Connecting to {DB_URL}")
     conn = psycopg2.connect(DB_URL)
-    cur = conn.cursor()
+    cur  = conn.cursor()
 
-    # 1. Load the allergen dictionary from JSON
-    allergen_dict_path = "../config/allergen_dict.json" 
-    if not os.path.exists(allergen_dict_path):
-        print(f"[ERROR] Cannot find '{allergen_dict_path}'. Please create or place the file properly.")
-        return
+    if not DICT_PATH.exists():
+        sys.exit(f"[ERR] missing dictionary: {DICT_PATH}")
+    with DICT_PATH.open(encoding="utf-8") as fh:
+        dict_raw = json.load(fh)
+    dict_rgx = compile_dictionary(dict_raw)
+    print("[OK] Loaded allergen dictionary")
 
-    with open(allergen_dict_path, "r", encoding="utf-8") as f:
-        allergen_dict = json.load(f)
-
-    print("[OK] Loaded allergen_dict.json.")
-
-    # 2. Create ingredient_allergens table (if not exists)
-    create_table_sql = """
-        CREATE TABLE IF NOT EXISTS ingredient_allergens (
-            id SERIAL PRIMARY KEY,
-            ingredient_id INTEGER NOT NULL,
-            recipe_id INTEGER NOT NULL,
-            allergen TEXT NOT NULL,
-            FOREIGN KEY (ingredient_id) REFERENCES processed_ingredients(id),
-            FOREIGN KEY (recipe_id) REFERENCES clean_recipes(id)
-        );
-    """
-    cur.execute(create_table_sql)
-    conn.commit()
-    print("[OK] Ensured table 'ingredient_allergens' exists.\n")
-
-    # 3. Fetch all processed ingredients from processed_ingredients
-    fetch_sql = "SELECT id, recipe_id, ingredient FROM processed_ingredients;"
-    cur.execute(fetch_sql)
-    rows = cur.fetchall()
-    print(f"Fetched {len(rows)} rows from processed_ingredients.")
-
-    # We'll store the allergen tags we find in a list of tuples: (ingredient_id, recipe_id, allergen)
-    allergen_records = []
-
-    # 4. For each ingredient, we check if it contains any of the allergen keywords
-    for ingredient_id, recipe_id, ingredient_text in rows:
-        # We'll collect all allergens found for this single ingredient
-        found_allergens = []
-        
-        # For each allergen, we have a list of keywords
-        for allergen_name, keywords in allergen_dict.items():
-            # We check if any of these keywords appear in the ingredient text
-            # We'll do a simple substring search with word boundaries
-            
-            for keyword in keywords:
-                text_lower = ingredient_text.lower()
-                kw_lower = keyword.lower()
-                
-                if f" {kw_lower} " in f" {text_lower} " or text_lower == kw_lower:
-                    found_allergens.append(allergen_name)
-                    break  
-
-        # After iterating all allergen categories, we add them to the aggregator
-        for allergen_name in set(found_allergens):  
-            allergen_records.append((ingredient_id, recipe_id, allergen_name))
-
-    print(f"Found {len(allergen_records)} total allergen tags to insert into ingredient_allergens.")
-
-    # 5. Insert them into the DB
-    if allergen_records:
-        insert_sql = """
-            INSERT INTO ingredient_allergens (ingredient_id, recipe_id, allergen)
-            VALUES (%s, %s, %s);
+    # ensure target table
+    cur.execute(
         """
-        cur.executemany(insert_sql, allergen_records)
-        conn.commit()
-        print(f"[OK] Inserted {len(allergen_records)} rows into 'ingredient_allergens'.")
-    else:
-        print("[NOTE] No allergen matches found.")
+        CREATE TABLE IF NOT EXISTS ingredient_allergens (
+            id            SERIAL PRIMARY KEY,
+            ingredient_id INTEGER NOT NULL,
+            recipe_id     INTEGER NOT NULL,
+            allergen      TEXT    NOT NULL,
+            UNIQUE (ingredient_id, allergen),
+            FOREIGN KEY (ingredient_id) REFERENCES processed_ingredients(id),
+            FOREIGN KEY (recipe_id)     REFERENCES clean_recipes(id)
+        );
+        """
+    )
+    conn.commit()
 
-    # Cleanup
+    # fetch every processed ingredient
+    cur.execute("SELECT id, recipe_id, ingredient FROM processed_ingredients;")
+    rows = cur.fetchall()
+    print(f"[OK] {len(rows)} ingredients to scan")
+
+    results: list[tuple[int, int, str]] = []
+
+    for ing_id, recipe_id, txt in rows:
+        text = txt or ""
+        lower = text.lower()
+
+        for allergen, regex_list in dict_rgx.items():
+            if any(rgx.search(lower) for rgx in regex_list):
+                if not is_false_positive(allergen, lower):
+                    results.append((ing_id, recipe_id, allergen))
+
+    print(f"[OK] {len(results)} tags identified")
+
+    if results:
+        cur.executemany(
+            """
+            INSERT INTO ingredient_allergens (ingredient_id, recipe_id, allergen)
+            VALUES (%s, %s, %s)
+            ON CONFLICT DO NOTHING;
+            """,
+            results,
+        )
+        conn.commit()
+        print("[DB] Tags inserted")
+
     cur.close()
     conn.close()
-    print("[DONE] Classification complete. Database connection closed.")
+    print("[DONE] Rule-based pass finished")
 
 
 if __name__ == "__main__":
