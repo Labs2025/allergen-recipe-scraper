@@ -35,7 +35,6 @@ def filtered_recipes():
     except (ValueError, TypeError):
         abort(400, "Bad query parameters")
 
-    # Sub-query: recipes that contain ANY of the excluded allergens
     if exclude:
         sub = (
             db.session.query(IngredientAllergen.recipe_id)
