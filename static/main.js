@@ -1,5 +1,4 @@
-/* static/main.js – 2025-06-12
-   Allergen filter + pretty popup details
+/* Allergen filter + pretty popup details
    -------------------------------------------------------------- */
 
 const API = "/api";                        // works locally & on Render

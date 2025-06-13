@@ -1,5 +1,5 @@
 """
-API routes – now with basic input validation, XSS-safe output,
+API routes with basic input validation, XSS-safe output,
 CSRF-failure demo endpoint and tight CORS behaviour.
 """
 
@@ -12,7 +12,6 @@ from . import db, csrf
 
 api_bp = Blueprint("api", __name__, url_prefix="/api")
 
-# —— canonical 14-item list ——————————————————————————
 ALLERGENS = [
     "Gluten", "Milk", "Egg", "Fish", "Crustaceans", "Molluscs",
     "Tree Nuts", "Peanuts", "Soy", "Sesame",
@@ -20,9 +19,6 @@ ALLERGENS = [
 ]
 
 
-# -----------------------------------------------------------------
-# helper → escape < > " ' but let & unchanged (avoids &amp;)
-# -----------------------------------------------------------------
 def safe(text: str) -> str:
     return (
         text.replace("<", "&lt;")
@@ -32,14 +28,12 @@ def safe(text: str) -> str:
     )
 
 
-# -----------------------------------------------------------------
 @api_bp.route("/allergens", methods=["GET"])
 def list_allergens():
     """Return the allergen categories."""
     return jsonify(ALLERGENS)
 
 
-# -----------------------------------------------------------------
 @api_bp.route("/recipes", methods=["GET"])
 def filtered_recipes():
     """
@@ -63,7 +57,7 @@ def filtered_recipes():
 
     exclude = exclude_raw
     limit   = max(1, min(limit, 50))
-    q       = q_raw[:120]                       # length guard
+    q       = q_raw[:120]                       
 
     qry = CleanRecipe.query
     if exclude:
@@ -90,7 +84,6 @@ def filtered_recipes():
     ])
 
 
-# -----------------------------------------------------------------
 @api_bp.route("/recipe/<int:recipe_id>", methods=["GET"])
 def recipe_detail(recipe_id: int):
     r = CleanRecipe.query.get_or_404(recipe_id)
@@ -119,7 +112,7 @@ def secure_post():
 
     try:
         validate_csrf(token)
-    except Exception:      # invalid / expired
+    except Exception:      
         abort(403, "Invalid CSRF token")
 
     # If the token is valid we simply acknowledge success.

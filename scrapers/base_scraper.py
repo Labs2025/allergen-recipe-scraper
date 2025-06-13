@@ -15,7 +15,12 @@ from selenium.webdriver.chrome.options import Options
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
+from pathlib import Path         
 
+ROOT_DIR = Path(__file__).resolve().parent.parent
+
+LOG_DIR  = ROOT_DIR / "logs"
+LOG_DIR.mkdir(exist_ok=True) 
 
 class BaseRecipeScraper:
     """
@@ -46,12 +51,14 @@ class BaseRecipeScraper:
         self.start_urls = config.get("start_urls", [])
 
         # Logging setup
-        log_filename = f"../logs/{self.site_name.lower().replace(' ', '_')}.log"
+ 
+        
+        log_filename = LOG_DIR / f"{self.site_name.lower().replace(' ', '_')}.log"
         logging.basicConfig(
-            filename=log_filename,
-            filemode='a',
+            filename=str(log_filename),    
+            filemode="a",
             format="%(asctime)s [%(levelname)s] %(name)s: %(message)s",
-            level=logging.INFO
+            level=logging.INFO,
         )
         self.logger = logging.getLogger(self.site_name)
 
