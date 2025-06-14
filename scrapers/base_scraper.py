@@ -1,4 +1,4 @@
-
+import os
 import time
 import json
 import logging
@@ -51,7 +51,6 @@ class BaseRecipeScraper:
         self.start_urls = config.get("start_urls", [])
 
         # Logging setup
- 
         
         log_filename = LOG_DIR / f"{self.site_name.lower().replace(' ', '_')}.log"
         logging.basicConfig(
@@ -64,13 +63,17 @@ class BaseRecipeScraper:
 
         # Database connection (
         try:
-            self.db_connection = psycopg2.connect(
-                dbname="allergen_recipes",
-                user="postgres",
-                password="admin",
-                host="localhost",
-                port=5432
-            )
+            db_url = os.getenv("DATABASE_URL")
+            if db_url: 
+                self.db_connection = psycopg2.connect(db_url, sslmode="require")
+            else:    
+                self.db_connection = psycopg2.connect(
+                    dbname="allergen_recipes",
+                    user="postgres",
+                    password="admin",
+                    host="localhost",
+                    port=5432
+                )
             self.db_cursor = self.db_connection.cursor()
             self.logger.info("Database connection established successfully.")
         except Exception as e:
