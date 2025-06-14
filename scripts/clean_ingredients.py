@@ -5,7 +5,7 @@ import re
 import psycopg2
 
 # ----------------------------------------------------------------------
-DB_URL = "postgresql://postgres:admin@localhost:5432/allergen_recipes"
+DB_URL = os.getenv("DATABASE_URL", "postgresql://postgres:admin@localhost:5432/allergen_recipes").replace("postgres://", "postgresql://", 1)
 # ----------------------------------------------------------------------
 
 def normalize_ingredient(raw_text):

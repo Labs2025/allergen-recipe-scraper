@@ -21,7 +21,10 @@ from sklearn.multiclass import OneVsRestClassifier
 
 # --------------------------------------------------------------------------- #
 ROOT_DIR   = Path(__file__).resolve().parents[1]
-DB_URL     = "postgresql://postgres:admin@localhost:5432/allergen_recipes"
+DB_URL     = os.getenv(
+                "DATABASE_URL",
+                "postgresql://postgres:admin@localhost:5432/allergen_recipes",
+             ).replace("postgres://", "postgresql://", 1)
 TRAIN_CSV  = ROOT_DIR / "data" / "ambiguous_train.csv"
 MODEL_DIR  = ROOT_DIR / "models"
 MODEL_PATH = MODEL_DIR / "allergen_classifier.pkl"

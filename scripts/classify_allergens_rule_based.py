@@ -23,7 +23,10 @@ sys.path.append(str(ROOT_DIR))
 from scripts.false_positive_guard import is_false_positive 
 
 # --------------------------------------------------------------------------- #
-DB_URL     = "postgresql://postgres:admin@localhost:5432/allergen_recipes"
+DB_URL     = os.getenv(
+                "DATABASE_URL",
+                "postgresql://postgres:admin@localhost:5432/allergen_recipes",
+             ).replace("postgres://", "postgresql://", 1)
 DICT_PATH  = ROOT_DIR / "config" / "allergen_dict.json"
 # --------------------------------------------------------------------------- #
 
