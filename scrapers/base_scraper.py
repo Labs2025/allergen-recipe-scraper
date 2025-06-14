@@ -63,22 +63,25 @@ class BaseRecipeScraper:
 
         # Database connection (
         try:
-            db_url = os.getenv("DATABASE_URL")
-            if db_url: 
+            db_url = os.getenv("DATABASE_URL", "")
+            if db_url.lower().startswith("postgres"):
+                # Render 
                 self.db_connection = psycopg2.connect(db_url, sslmode="require")
-            else:    
+            else:
+                # Local default 
                 self.db_connection = psycopg2.connect(
-                    dbname="allergen_recipes",
-                    user="postgres",
-                    password="admin",
-                    host="localhost",
-                    port=5432
+                    dbname=os.getenv("PGDATABASE", "allergen_recipes"),
+                    user=os.getenv("PGUSER",     "postgres"),
+                    password=os.getenv("PGPASSWORD", "admin"),
+                    host=os.getenv("PGHOST",     "localhost"),
+                    port=os.getenv("PGPORT",     5432),
                 )
+
             self.db_cursor = self.db_connection.cursor()
             self.logger.info("Database connection established successfully.")
         except Exception as e:
             self.logger.error("Failed to connect to the database: %s", e)
-            raise e  # Stop execution if DB connection fails
+            raise  # Stop execution if DB connection fails
 
         # Selenium or Requests?
         self.use_selenium = config.get("use_selenium", False)
