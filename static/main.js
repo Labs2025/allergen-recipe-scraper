@@ -1,10 +1,11 @@
-/* Allergen filter + pretty popup details
+/*                Allergen filter
    -------------------------------------------------------------- */
 
-const API = "/api";                        // works locally & on Render
+const API = "/api";                        
 const $  = (sel, ctx = document) => ctx.querySelector(sel);
 const $$ = (sel, ctx = document) => [...ctx.querySelectorAll(sel)];
-
+const RESULTS_LIMIT = 30;                  
+let   currentPage   = 0;
 /* ---------- 1.  Populate allergen check-boxes --------------- */
 async function init() {
   try {
@@ -29,28 +30,50 @@ async function init() {
 const selectedAllergens = () =>
   $$("#allergenCheckboxes input:checked").map((i) => i.value);
 
-/* ---------- 3.  Search + list rendering --------------------- */
-async function search() {
+/* ---------- 3.  Fetch helper  ------------------------------- */
+async function fetchRecipes(page = 0) {          
   const q       = $("#searchBox").value.trim();
   const exclude = selectedAllergens();
 
   const p = new URLSearchParams();
   exclude.forEach((e) => p.append("exclude", e));
   if (q) p.append("q", q);
-  p.append("limit", 30);
+  p.append("limit", RESULTS_LIMIT);
+  p.append("page", page);                        
 
-  const data = await (await fetch(`${API}/recipes?${p}`)).json();
-  renderResults(data);
+  return await (await fetch(`${API}/recipes?${p}`)).json();
 }
 
-function renderResults(recipes) {
+/* ---------- 4.  Search (reset list) ------------------------- */
+async function search() {
+  currentPage = 0;                               
+  const data  = await fetchRecipes(0);
+  renderResults(data, /* append? */ false);
+  toggleLoadMore(data.length === RESULTS_LIMIT);
+}
+
+/* ---------- 5.  Load more ---------------------------------- */
+async function loadMore() {                      
+  currentPage += 1;
+  const data = await fetchRecipes(currentPage);
+  renderResults(data, /* append? */ true);
+  // hide button if fewer requests came back
+  if (data.length < RESULTS_LIMIT) toggleLoadMore(false);
+}
+
+/* ---------- 6.  List rendering ----------------------------- */
+function renderResults(recipes, append = false) {
   const tgt = $("#results");
-  if (!recipes.length) {
-    tgt.innerHTML = '<p class="text-muted"><em>No recipes found.</em></p>';
+  if (!append) tgt.innerHTML = "";
+
+  if (!recipes.length && !append) {
+    tgt.innerHTML =
+      '<p class="text-muted"><em>No recipes found.</em></p>';
+    toggleLoadMore(false);
     return;
   }
 
-  tgt.innerHTML = recipes
+  const cardsHTML = recipes
     .map(
       (r) => `
       <div class="col-12 col-md-6 col-lg-4 mb-3">
@@ -75,9 +98,16 @@ function renderResults(recipes) {
       </div>`
     )
     .join("");
+
+  tgt.insertAdjacentHTML(append ? "beforeend" : "afterbegin", cardsHTML);
 }
 
-/* ---------- 4.  Build popup HTML ---------------------------- */
+/* ---------- 7.  Show / hide load-more button --------------- */
+function toggleLoadMore(show) {                  
+  $("#loadMoreBtn").classList.toggle("visually-hidden", !show);
+}
+
+/* ---------- 8.  Build popup HTML ---------------------------- */
 function recipePopupHTML(d) {
   return `<!DOCTYPE html>
 <html lang="en">
@@ -157,7 +187,7 @@ function recipePopupHTML(d) {
 </html>`;
 }
 
-/* ---------- 5.  Fetch & open popup -------------------------- */
+/* ---------- 9.  Fetch & open popup -------------------------- */
 async function showDetails(id) {
   try {
     const d = await (await fetch(`${API}/recipe/${id}`)).json();
@@ -174,9 +204,10 @@ async function showDetails(id) {
   }
 }
 
-/* ---------- 6.  Event wiring ------------------------------- */
+/* ---------- 10.  Event wiring ------------------------------- */
 document.addEventListener("DOMContentLoaded", init);
 $("#searchBtn").addEventListener("click", search);
+$("#loadMoreBtn").addEventListener("click", loadMore);      
 $("#results").addEventListener("click", (ev) => {
   const btn = ev.target.closest(".btn-details");
   if (!btn) return;

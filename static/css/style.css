@@ -1,12 +1,10 @@
-/* --------------------------------------
-   Brand Colors (Google Blue)
-   -------------------------------------- */
+
 :root {
-  --brand-primary:   #4285F4;  /* Google Blue */
-  --brand-secondary: #81a7f9;  /* lighter complement */
-  --brand-accent:    #e8f0fe;  /* very pale blue */
-  --text-body:       #202124;  /* Google dark gray */
-  --text-muted:      #5f6368;  /* muted gray */
+  --brand-primary:   #4285F4;  
+  --brand-secondary: #81a7f9;  
+  --brand-accent:    #e8f0fe;  
+  --text-body:       #202124;  
+  --text-muted:      #5f6368;  
 }
 
 body {
@@ -14,7 +12,7 @@ body {
   color: var(--text-body);
 }
 
-/* Override Bootstrap primary */
+
 .btn-primary {
   background-color: var(--brand-primary);
   border-color: var(--brand-primary);
@@ -25,7 +23,19 @@ body {
   border-color: var(--brand-secondary);
 }
 
-/* Search input group adjustments */
+.btn-outline-primary {                         
+  color: var(--brand-primary);                 
+  border-color: var(--brand-primary);
+  background-color: white;
+}
+.btn-outline-primary:hover,
+.btn-outline-primary:focus {                   
+  background-color: var(--brand-primary);      
+  border-color: var(--brand-primary);
+  color: #fff;                                 
+}
+
+
 .input-group .form-control {
   border-top-right-radius: 0;
   border-bottom-right-radius: 0;
@@ -35,7 +45,6 @@ body {
   border-bottom-left-radius: 0;
 }
 
-/* Cards styling as before */
 .card {
   background-color: white;
   border: none;

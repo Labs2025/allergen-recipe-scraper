@@ -2,7 +2,7 @@
 API routes
 ──────────
 • Strict input validation
-• XSS-safe output (manual html.escape)
+• XSS-safe output 
 • Robust CSRF demo endpoint
 """
 
@@ -63,6 +63,7 @@ def filtered_recipes():
     exclude_raw = request.args.getlist("exclude") or []
     q_raw       = request.args.get("q", "").strip()
     limit_param = request.args.get("limit", "20")
+    page_param  = request.args.get("page", "0")
 
     # ---------- validation --------------------------------------------------
     try:
@@ -74,6 +75,12 @@ def filtered_recipes():
 
     if limit > 50:
         limit = 50
+    try:                                                 
+        page = int(page_param)
+        if page < 0:
+            raise ValueError
+    except ValueError:
+        abort(400, "page must be a non-negative integer")
 
     invalid = [x for x in exclude_raw if x not in ALLERGENS]
     if invalid:
@@ -92,7 +99,12 @@ def filtered_recipes():
     if q:
         qry = qry.filter(CleanRecipe.recipe_title.ilike(f"%{q}%"))
 
-    rows = qry.order_by(func.random()).limit(limit).all()
+    rows = (
+        qry.order_by(func.random())
+           .offset(page * limit)                         
+           .limit(limit)
+           .all()
+    )
 
     if not rows and q:
         class _Dummy:  
@@ -136,7 +148,6 @@ def secure_post():
     """
     Accepts JSON or form.
 
-    • Token looked for in header *or* field “csrf_token”.
     • Uses Flask-WTF validation;  falls back to signature check
       so tests can supply a token even when the session cookie
       hasn’t yet been persisted.
@@ -149,11 +160,9 @@ def secure_post():
     if not token:
         abort(400, "Missing CSRF token")
 
-    # ---------- primary validation -----------------------------------------
     try:
         validate_csrf(token)
     except Exception:
-        # ---------- fallback: verify cryptographic signature ---------------
         try:
             _serializer().loads(token, max_age=None)
         except BadData:
