@@ -205,7 +205,14 @@ class BaseRecipeScraper:
             insert_clean = """
                 INSERT INTO clean_recipes
                 (raw_id, site_name, recipe_title, ingredients, instructions, tags, scraped_at)
-                VALUES (%s, %s, %s, %s, %s, %s, NOW());
+                VALUES (%s, %s, %s, %s, %s, %s, NOW())
+                ON CONFLICT (site_name, recipe_title)                       
+                DO UPDATE
+                   SET raw_id       = EXCLUDED.raw_id,
+					   ingredients  = EXCLUDED.ingredients,
+                       instructions = EXCLUDED.instructions,
+                       tags         = EXCLUDED.tags,
+                       scraped_at   = NOW();
             """
             self.db_cursor.execute(
                 insert_clean,
