@@ -1,0 +1,14 @@
+{
+  "site_name": "Fandom Recipes",
+  "base_url": "https://recipes.fandom.com",
+  "start_urls": [
+    "https://recipes.fandom.com/wiki/Category:Main_Dish_Recipes"
+  ],
+  "recipe_link_selector": "ul.category-page__members-for-char a.category-page__member-link",
+  "pagination_selector": "div.category-page__pagination a.category-page__pagination-next",
+  "title_selector": "h1.page-header__title span.mw-page-title-main",
+  "ingredients_selector": "div.mw-parser-output ul > li",
+  "instructions_selector": "div.mw-parser-output ol > li",
+  "tags_selector": null,
+  "use_selenium": false
+}
