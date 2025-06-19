@@ -21,6 +21,7 @@ exec > >(tee -a "$LOG_FILE") 2>&1
 echo "==== $(date)  Pipeline started ===="
 
 python scrapers/allergicliving_scraper.py
+python scrapers/fandom_scraper.py
 python scrapers/fare_scraper.py
 python scrapers/foodista_scraper.py
 python scrapers/theallergenfreekitchen_scraper.py
