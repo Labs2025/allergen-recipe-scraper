@@ -63,3 +63,13 @@ body {
 .card-text small {
   color: var(--text-muted);
 }
+
+#clearFilters{
+  text-decoration: none; 
+  cursor: pointer; 
+}
+
+#clearFilters:hover,
+#clearFilters:focus{
+  text-decoration: none;
+}

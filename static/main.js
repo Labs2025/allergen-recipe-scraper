@@ -204,7 +204,13 @@ async function showDetails(id) {
   }
 }
 
-/* ---------- 10.  Event wiring ------------------------------- */
+/* ---------- 10.  Clear filters --------------------------- */
+function clearFilters() {
+  $$("#allergenCheckboxes input").forEach(cb => (cb.checked = false));
+  currentPage = 0;
+}
+
+/* ---------- 11.  Event wiring ------------------------------- */
 document.addEventListener("DOMContentLoaded", init);
 $("#searchBtn").addEventListener("click", search);
 $("#loadMoreBtn").addEventListener("click", loadMore);      
@@ -212,4 +218,15 @@ $("#results").addEventListener("click", (ev) => {
   const btn = ev.target.closest(".btn-details");
   if (!btn) return;
   showDetails(btn.dataset.id);
+});
+
+$("#clearFilters").addEventListener("click", (ev) => {
+  ev.preventDefault();
+  clearFilters();
+});
+
+$("#searchBox").addEventListener("keyup", ev => {
+  if (ev.key === "Enter") {
+    search();
+  }
 });
